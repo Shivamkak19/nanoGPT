@@ -42,7 +42,7 @@ init_from = "scratch"  # 'scratch' or 'resume' or 'gpt2*'
 # data
 dataset = "enwik8"
 gradient_accumulation_steps = 5 * 8  # used to simulate larger batch sizes
-batch_size = 64  # if gradient_accumulation_steps > 1, this is the micro-batch size
+batch_size = 128  # if gradient_accumulation_steps > 1, this is the micro-batch size
 block_size = 256
 # model
 n_layer = 12
