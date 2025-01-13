@@ -10,3 +10,6 @@ __pycache__/
 input.txt
 env/
 venv/
+*.pmd
+
+data/enwik8/enwik8
