@@ -35,7 +35,7 @@ from model import GPTConfig, GPT
 # default config values designed to train a gpt2 (124M) on OpenWebText
 # I/O
 out_dir = "out-enwik8-subclasses"
-eval_interval = 2000
+eval_interval = 150
 log_interval = 1
 eval_iters = 200
 eval_only = False
@@ -80,7 +80,7 @@ wandb_run_name = f"gpt2-char-categories-{time.time()}"
 
 # adamw optimizer
 learning_rate = 3e-4
-max_iters = 100  # iterations per category
+max_iters = 300  # iterations per category
 weight_decay = 1e-1
 beta1 = 0.9
 beta2 = 0.95
@@ -217,7 +217,6 @@ def train_on_category(category, prev_model_path, master_process):
     data_dir = os.path.join(
         "data", dataset, "wiki_categories", "subclasses", f"processed_{category_safe}"
     )
-    checkpoint_path = os.path.join(out_dir, f"ckpt_{category_safe}.pt")
 
     # Load model from previous checkpoint
     checkpoint = torch.load(prev_model_path, map_location=device)
@@ -314,6 +313,8 @@ def train_on_category(category, prev_model_path, master_process):
                         "best_val_loss": best_val_loss,
                         "config": config,
                     }
+
+                    checkpoint_path = os.path.join(out_dir, f"ckpt_{category_safe}_{iter_num}.pt")
                     print(f"saving checkpoint to {checkpoint_path}")
                     torch.save(checkpoint, checkpoint_path)
 
@@ -366,6 +367,8 @@ def train_on_category(category, prev_model_path, master_process):
     if wandb_log and master_process:
         wandb.finish()
 
+    # Final Checkpoint path to return - after max-iters iterations on subclass
+    checkpoint_path = os.path.join(out_dir, f"ckpt_{category_safe}_{max_iters}.pt")
     return checkpoint_path
 
 

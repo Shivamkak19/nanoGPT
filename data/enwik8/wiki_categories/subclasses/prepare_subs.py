@@ -6,7 +6,7 @@ from glob import glob
 
 def process_file(input_file_path):
     # Create output directory based on the input filename
-    base_name = os.path.splitext(os.path.basename(input_file_path))[0]
+    base_name = os.path.splitext(os.path.basename(input_file_path))[0].replace(" ", "_")
     output_dir = f"processed_{base_name}"
     os.makedirs(output_dir, exist_ok=True)
 

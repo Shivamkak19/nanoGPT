@@ -32,7 +32,7 @@ from model import GPTConfig, GPT
 # -----------------------------------------------------------------------------
 # default config values designed to train a gpt2 (124M) on OpenWebText
 # I/O
-out_dir = "out-enwik8"
+out_dir = "out-enwik8-normal"
 eval_interval = 2000
 log_interval = 1
 eval_iters = 200
@@ -52,7 +52,7 @@ n_embd = 768
 # wandb logging
 wandb_log = True  # disabled by default
 wandb_project = "enwik8-char"
-wandb_run_name = f"gpt2-char-l{n_layer}-h{n_head}-e{n_embd}-{time.time()}"  # 'run' + str(time.time())
+wandb_run_name = f"gpt2-char-normal-l{n_layer}-h{n_head}-e{n_embd}-{time.time()}"  # 'run' + str(time.time())
 
 
 dropout = 0.0  # for pretraining 0 is good, for finetuning try 0.1+
@@ -352,7 +352,7 @@ while True:
                     "config": config,
                 }
                 print(f"saving checkpoint to {out_dir}")
-                torch.save(checkpoint, os.path.join(out_dir, "ckpt.pt"))
+                torch.save(checkpoint, os.path.join(out_dir, f"ckpt_{iter_num}.pt"))
     if iter_num == 0 and eval_only:
         break
 
