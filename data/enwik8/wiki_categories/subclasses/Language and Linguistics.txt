@@ -1,0 +1,483 @@
+ica]] {{R from CamelCase}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>AnnaKournikova</title>
+    <id>279</id>
+    <revision>
+      <id>15899018</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Anna Kournikova]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AndorrA</title>
+    <id>280</id>
+    <revision>
+      <id>15899019</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Andorra]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AndorrA/History</title>
+    <id>281</id>
+    <revision>
+      <id>15899020</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <username>LA2</username>
+        <id>445</id>
+      </contributor>
+      <comment>*</comment>
+      <text xml:space="preserve">#REDIRECT [[History of Andorra]]
+
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AndorrA/People</title>
+    <id>283</id>
+    <revision>
+      <id>15899021</id>
+      <timestamp>2002-08-20T15:38:36Z</timestamp>
+      <contributor>
+        <username>Koyaanis Qatsi</username>
+        <id>90</id>
+      </contributor>
+      <text xml:space="preserve">#REDIRECT [[Demographics of Andorra]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AndorrA/Government</title>
+    <id>284</id>
+    <revision>
+      <id>15899022</id>
+      <timestamp>2002-10-09T13:41:32Z</timestamp>
+      <contributor>
+        <username>Magnus Manske</username>
+        <id>4</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[Politics of Andorra]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Politics of Andorra]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AndorrA/Economy</title>
+    <id>285</id>
+    <revision>
+      <id>15899023</id>
+      <timestamp>2002-10-09T13:41:53Z</timestamp>
+      <contributor>
+        <username>Magnus Manske</username>
+        <id>4</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[Economy of Andorra]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Economy of Andorra]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AustroAsiaticLanguages</title>
+    <id>287</id>
+    <revision>
+      <id>15899025</id>
+      <timestamp>2005-05-01T07:12:45Z</timestamp>
+      <contributor>
+        <ip>212.100.250.225</ip>
+      </contributor>
+      <comment>[[WP:WS|Please help out by clicking here to fix someone else's Wiki Syntax]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Austro-Asiatic languages]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>ActorS</title>
+    <id>288</id>
+    <revision>
+      <id>15899026</id>
+      <timestamp>2002-09-01T17:22:32Z</timestamp>
+      <contributor>
+        <username>Bryan Derksen</username>
+        <id>66</id>
+      </contributor>
+      <minor />
+      <comment>bypassing double redirect</comment>
+      <text xml:space="preserve">#REDIRECT [[Actor]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>ActresseS</title>
+    <id>289</id>
+    <revision>
+      <id>15899027</id>
+      <timestamp>2003-11-08T12:13:11Z</timestamp>
+      <contributor>
+        <username>Minesweeper</username>
+        <id>7279</id>
+      </contributor>
+      <minor />
+      <comment>fix double redir</comment>
+      <text xml:space="preserve">#REDIRECT [[List of female movie actors]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>A</title>
+    <id>290</id>
+    <revision>
+      <id>42119076</id>
+      <timestamp>2006-03-03T23:14:28Z</timestamp>
+      <contributor>
+        <username>Waggers</username>
+        <id>878293</id>
+      </contributor>
+      <minor />
+      <comment>Revert to revision 41533857 using [[:en:Wikipedia:Tools/Navigation_popups|popups]]</comment>
+      <text xml:space="preserve">{{AZ|uc=A|lc=a}}
+{{wiktionarypar2|A|a}}
+The letter '''A''' is the first letter in the [[Latin alphabet]]. Its name in [[English language|English]] is ''a'', plural ''aes,'' ''a's,'' or ''as''.
+
+==History==
+The letter A probably started as a [[pictogram]] of an [[ox]] head in [[Egyptian hieroglyph]]s or the [[Proto-semitic alphabet]].
+
+{| align=&quot;center&quot; cellspacing=&quot;10&quot;
+|- align=&quot;center&quot;
+|[[Image:EgyptianA-01.png|Egyptian hieroglyphic ox head]]&lt;br /&gt;Egyptian hieroglyph&lt;br /&gt;ox head
+|[[Image:Proto-semiticA-01.png|Proto-semitic ox head]]&lt;br /&gt;Proto-semitic&lt;br /&gt;ox head
+|[[Image:PhoenicianA-01.png|Phoenician aleph]]&lt;br /&gt;Phoenician ''aleph''
+|[[Image:GreekA-01.png|Greek alpha]]&lt;br /&gt;Greek ''alpha''
+|[[Image:EtruscanA-01.png|Etruscan A]]&lt;br /&gt;Etruscan A
+|[[Image:RomanA-01.png|Roman A]]&lt;br /&gt;Roman A
+|}
+
+By [[1600 BC]], the [[Phoenician alphabet]]'s letter had a linear form that served as the basis for all later forms. Its name must have corresponded closely to the [[Hebrew alphabet|Hebrew]] [[Aleph (letter)|aleph]]. The name is also similar to the Arabic [[Alif|alif.]]
+
+When the [[Ancient Greece|Ancient Greeks]] adopted the alphabet, they had no use for the [[glottal stop]] that the letter had denoted in Phoenician and other [[Semitic languages]], so they used the sign for the vowel {{IPA|/&amp;#593;/}}, and changed its name to [[alpha (letter)|alpha]]. In the earliest Greek inscriptions, dating to the [[8th century BC]], the letter rests upon its side, but in the [[Greek alphabet]] of later times it generally resembles the modern capital letter, although many local varieties can be distinguished by the shortening of one leg, or by the angle at which the cross line is set.
+
+The [[Etruscans]] brought the Greek alphabet to what was [[Italy]] and left the letter unchanged. The Romans later adopted the [[Old Italic alphabet|Etruscan alphabet]] to write [[Latin]], and the resulting letter was preserved in the modern [[Latin alphabet]] used to write many languages, including [[English language|English]].
+
+The letter has two [[minuscule]] (lower-case) forms. The form used in most current handwriting consists of a circle and vertical stroke. Most printed material uses a form consisting of a small loop with an arc over it. Both derive from the majuscule (capital) form. In Greek handwriting, it was common to join the left leg and horizontal stroke into a single loop, as demonstrated by the Uncial version below. Many fonts then made the right leg vertical. In some of these, the [[serif]] that began the right leg stroke developed into an arc, resulting in the printed form, while in others it was dropped, resulting in the modern handwritten form.
+
+{| align=&quot;center&quot; cellspacing=&quot;10&quot;
+|- align=&quot;center&quot;
+|[[Image:BlackletterA-01.png|Blackletter A]]&lt;br /&gt;[[Blackletter]] A
+|[[Image:UncialA-01.png|Uncial A]]&lt;br /&gt;[[Uncial]] A
+|[[Image:Acap.png|Another Capital A]]
+|- align=&quot;center&quot;
+|[[Image:ModernRomanA-01.png|Modern Roman A]]&lt;br /&gt;Modern Roman A
+|[[Image:ModernItalicA-01.png|Modern Italic A]]&lt;br /&gt;Modern Italic A
+|[[Image:ModernScriptA-01.png|Modern Script A]]&lt;br /&gt;Modern Script A
+|}
+
+==Usage==
+In [[English language|English]], the letter A by itself usually denotes the [[lax open front unrounded vowel]] ({{IPA2|æ}}) as in ''pad'', the [[open back unrounded vowel]] ({{IPA2|ɑ}}) as in ''father'', or, in concert with a later orthographic [[e]], the diphthong {{IPA2|eʲ}} (though the pronunciation varies with the dialect) as in ''ace'', due to effects of the [[Great vowel shift]].
+
+In most other languages that use the Latin alphabet, the letter A denotes either an [[open back unrounded vowel]] ({{IPA2|ɑ}}), or an [[open central unrounded vowel]] ({{IPA2|a}}). 
+
+In the [[International Phonetic Alphabet]], variants of the letter A denote various [[vowel]]s. In [[X-SAMPA]], capital A denotes the [[open back unrounded vowel]] and lowercase a denotes the [[open front unrounded vowel]].
+
+A also is the English [[indefinite article]], extended to [[an]] before a vowel.
+
+==Codes for computing==
+{{Letter
+|NATO=Alpha
+|Morse=·–
+|B1=●
+|B2=○
+|B3=○
+|B4=○
+|B5=○
+|B6=○
+}}
+In [[Unicode]] the [[majuscule|capital]] A is codepoint U+0041 and the [[minuscule|lowercase]] a is U+0061.
+
+In [[Hexadecimal|Hex]], A is the character used to represent decimal 10, or in [[Binary numeral system|binary]], 01010
+
+The [[ASCII]] code for capital A is 65 and for lowercase a is 97; or in [[Binary numeral system|binary]] 01000001 and 01100001, correspondingly.
+
+The [[EBCDIC]] code for capital A is 193 and for lowercase a is 129.
+
+The [[numeric character reference]]s in [[HTML]] and [[XML]] are &quot;&lt;tt&gt;&amp;amp;#65;&lt;/tt&gt;&quot; and &quot;&lt;tt&gt;&amp;amp;#97;&lt;/tt&gt;&quot; for upper and lower case respectively.
+
+==Meanings for '''A'''==
+* As a word; see [[A, an]]
+* In [[United States|American]] [[Major League Baseball]], the [[Oakland Athletics]] are often simply referred to as the &quot;'''A's'''.&quot;
+* In [[astronomy]],
+** A stands for a January 1 through 15 discovery, in the provisional designation of a comet (e.g. [[C/1760 A1]], the Great Comet of 1760) or asteroid (e.g. {{mpl|(4099) 1988 AB|5}})
+** ''a'' is often used to denote the [[semi-major axis]] of an orbit
+* In [[biochemistry]], A is the symbol for [[alanine]] and [[adenosine]].
+* Brassiere [[cup size]] '''A'''
+* In [[calendar]]s, A is often an abbreviation for the [[month]]s [[April]] and [[August]].
+* In [[computing]],
+** &lt;tt&gt;&amp;lt;a&amp;gt;&lt;/tt&gt; is the [[HTML element#links and anchors|HTML element for an anchor tag]].
+** In Windows, Ctrl-A, and Mac OS, Command-A, selects all the text in the document, or all the pixels of an image.
+** A sometimes represents the set of all alphabetic characters within [[character string (computer science)|string]] patterns.
+** A:\ is the conventional address of the first floppy disk drive in [[CP/M]]-based [[operating system]]s such as [[DOS]].
+** A is a security division (&quot;Verified Protection&quot;) in the [[TCSEC]].
+* In [[education]], a [[Grade (education)|grade]] of '''A''' typically represents the highest score that students can achieve. This is sometimes coupled with a [[plus]]/[[minus]] sign, as in '''A+''' or '''A-''', or a number, as in '''A1'''. It is occasionally a grade one level below '''A*''' (pronounced &quot;A Star&quot;).
+* In [[electronics]],
+** [[A battery|A]] is a standard size of [[battery (electricity)|battery]].
+** A refers to the Anode, or filament, component of a [[vacuum tube]]. 
+* In [[English language|English]], the word ''a'' is an indefinite [[article (grammar)|article]], see [[A, an]]
+* In [[Esperanto#Grammar|Esperanto]], -a is the adjectival/attributive ending; A is commonly an abbreviation meaning English (language).
+* In [[fiction]], the letter worn by Hester Prynne marking her as an adultress in the [[Nathaniel Hawthorne]] novel ''[[The Scarlet Letter]]'' was an ''A''.
+* In [[film]], ''A'' is an Italian film made in [[1969]]; see ''[[A (film)]]''.
+* In [[finance]], A is the U.S. [[ticker symbol]] for [[Agilent Technologies]].
+* In [[game]]s, the letter A is used to mark each of the [[Ace]]s in a deck of [[playing card]]s.
+* In [[Greek language|Greek]], a- is a [[prefix]] (''alpha privativum'') meaning &quot;not&quot; or &quot;devoid of,&quot; used in many borrowed words in [[English language|English]], [[German language|German]] and [[Romance languages]].
+* In [[India]] ''A'' is movie rating, given to those intended to be seen only by adults.
+* In [[List of international license plate codes|international licence plate codes]], A stands for [[Austria]].
+* In [[paper size|international paper sizes]], A is a series of sizes with an [[Paper size|aspect ratio]] of roughly 70% width to height, with A4 being an example popular size.
+* In [[logic]], 
+**the letter A is used as a symbol for the universal affirmative proposition in the general form &quot;all x is y.&quot; The letters I, E, and O are used respectively for the particular affirmative &quot;some x is y,&quot; the universal negative &quot;no x is y,&quot; and the particular negative &quot;some x is not y.&quot; The use of these letters is generally derived from the vowels of the two [[Latin]] [[verb]]s ''affirmo'' (or AIo), &quot;I assert,&quot; and ''nego'', &quot;I deny.&quot; The use of the symbols dates from the [[13th century]], though some authorities trace their origin to the Greek logicians. 
+**In [[symbolic logic]], the symbol &amp;forall; (an inverted letter A) is the [[universal quantifier]].
+* In [[mathematics]], 
+**A is often used as a [[numerical digit|digit]] meaning ''[[10 (number)|ten]]'' in [[hexadecimal]] and other positional [[numeral system]]s with a [[radix]] of 11 or greater, 
+**[[blackboard bold]] &lt;math&gt;\mathbb{A}&lt;/math&gt; (&amp;#x1D504; in [[Unicode]]) sometimes represents the [[algebraic numbers]].
+**In the [[On-Line Encyclopedia of Integer Sequences]], each sequence has an ID consisting of the letter A and six base 10 digits.
+* In [[medicine]], '''A''' (also, '''A+''' or '''A-''') is one of the human [[blood type]]s.
+* In [[music]],
+** A is a [[Pitch class]] or [[note]], see [[A (musical note)]].
+** A, or &quot;side A,&quot; refers to the top or first side of a [[vinyl record]].
+** ''A'' is a [[British rock]] band; see ''[[A (band)]]''.
+** ''A'' is an album by [[Jethro Tull (band)|Jethro Tull]]; see ''[[A (album)]]''.
+* In [[nutrition]], A is a [[vitamin]].
+* In [[photography]], most SLR cameras use A to signify aperture priority mode, where the user sets the aperture and the camera determines the shutter speed.
+* In [[poetry]], [[A (poem)|A]] is the major work of influential 20th century author [[Louis Zukofsky]].
+* In [[political science|political theory]], a circumscribed &quot;A&quot; is an [[anarchist symbolism|anarchist symbol]].
+* As the first letter of a [[postal code]],
+** In [[Canada]], A stands for [[Newfoundland and Labrador]].
+* On the serial numbers of [[United States dollar]]s, A identifies the [[Federal Reserve Bank of Boston]].
+* In the [[SI]] system of units, 
+** A is the symbol for the [[ampere]] or amp, the [[SI base unit]] of [[electric current]].
+** a, [[atto]], is the [[SI prefix]] meaning 10&lt;sup&gt;-18&lt;/sup&gt;
+** a is the symbol for the [[are]], a unit of surface area equal to 100 [[square metre]]s.
+* As a [[timezone]], A is the military designation for [[Coordinated Universal Time]]+1, also known as CET or [[Central European Time]].
+
+==See also==
+{{Wikisource1911Enc|A}}
+{{Commons|A}}
+* [[Alpha (letter)|Alpha]] 
+* [[A (Cyrillic)|Cyrillic A]]
+* &lt;big&gt;[[ª]]&lt;/big&gt; 
+* [[À]]
+* [[Á]]
+* [[Â]]
+* [[Ã]]
+* [[Ä]] (Ae)
+* [[Å]] (Aa)
+* [[Æ]]
+* [[A-breve|&amp;#258;]] 
+* [[A-ogonek|&amp;#260;]]
+* [[∀]]
+&lt;br clear=&quot;all&quot; /&gt;
+
+{{AZsubnav}}
+
+
+[[Category:Latin letters]]
+[[Category:Vowels]]
+
+[[als:A]]
+[[ar:A]]
+[[bs:A]]
+[[ca:A]]
+[[cs:A]]
+[[da:A]]
+[[de:A]]
+[[et:A]]
+[[el:A]]
+[[es:A]]
+[[eo:A]]
+[[fr:A]]
+[[gl:A]]
+[[ko:A]]
+[[hr:A]]
+[[io:A]]
+[[id:A]]
+[[it:A]]
+[[he:A]]
+[[kw:A]]
+[[la:A]]
+[[hu:A]]
+[[nl:A]]
+[[ja:A]]
+[[no:A]]
+[[nn:A]]
+[[pl:A]]
+[[pt:A]]
+[[ro:A]]
+[[ru:А (буква)]]
+[[sq:A]]
+[[scn:A]]
+[[simple:A]]
+[[sl:A]]
+[[sr:A (латиничко)]]
+[[fi:A]]
+[[sv:A]]
+[[tl:A]]
+[[vi:A]]
+[[tr:A]]
+[[yo:A]]
+[[zh:A]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AnarchoCapitalism</title>
+    <id>291</id>
+    <revision>
+      <id>15899029</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Anarcho-capitalism]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AnarchoCapitalists</title>
+    <id>293</id>
+    <revision>
+      <id>15899031</id>
+      <timestamp>2002-10-09T13:47:21Z</timestamp>
+      <contributor>
+        <username>Magnus Manske</username>
+        <id>4</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[anarcho-capitalism]]</comment>
+      <text xml:space="preserve">#REDIRECT [[anarcho-capitalism]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>ActressesS</title>
+    <id>296</id>
+    <revision>
+      <id>15899034</id>
+      <timestamp>2003-11-08T12:13:18Z</timestamp>
+      <contributor>
+        <username>Minesweeper</username>
+        <id>7279</id>
+      </contributor>
+      <minor />
+      <comment>fix double redir</comment>
+      <text xml:space="preserve">#REDIRECT [[List of female movie actors]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AnarchisM/AnarchyTalk</title>
+    <id>298</id>
+    <revision>
+      <id>15899036</id>
+      <timestamp>2002-10-09T13:47:51Z</timestamp>
+      <contributor>
+        <username>Magnus Manske</username>
+        <id>4</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[talk:Anarchism]]</comment>
+      <text xml:space="preserve">#REDIRECT [[talk:Anarchism]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AnAmericanInParis</title>
+    <id>299</id>
+    <revision>
+      <id>15899037</id>
+      <timestamp>2002-05-19T16:44:20Z</timestamp>
+      <contributor>
+        <username>AxelBoldt</username>
+        <id>2</id>
+      </contributor>
+      <comment>fix redir</comment>
+      <text xml:space="preserve">#REDIRECT [[An American in Paris]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AutoMorphism</title>
+    <id>301</id>
+    <revision>
+      <id>15899038</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Automorphism]]
+
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>ActionFilm</title>
+    <id>302</id>
+    <revision>
+      <id>15899039</id>
+      <timestamp>2002-08-04T00:46:33Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>62</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">#REDIRECT [[Action movie]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Alabama</title>
+    <id>303</id>
+    <revision>
+      <id>42140365</id>
+      <timestamp>2006-03-04T02:12:43Z</timestamp>
+      <contributor>
+        <username>Gregski711</username>
+        <id>704911</id>
+      </contributor>
+      <comment>/* Political Climate */</comment>
+      <text xml:space="preserve">{{Otheruses1|the U.S. State}}
+&lt;div style=&quot;float:right; clear:right; width:300px; margin-left: 1em;&quot;&gt;
+{{US Confederate state |
+  Name            = Alabama |
+  Fullname        = State of Alabama |
+  Flag            = Flag of Alabama.svg |
+  Flaglink      = [[Flag of Alabama]] |
+  Seal            = Alabama state seal.png| 
+  Map             = Map_of_USA_highlighting_Alabama.png |
+  Nickname        = Camellia State, The Heart of Dixie[[#Notes|&amp;sup1;]], Yellowhammer State|
+  Capital         = [[Montgomery, Alabama|Montgomery]] |
+  OfficialLang    = [[English language|English]] |
+  Languages       = [[English language|English]] 96.7%, [[Spanish language|Spanish]] 2.2% |
+  LargestCity     = [[Birmingham, Alabama|Birmingham]] |
+  Governor        = [[Bob Riley (Alabama)|Bob Riley]] (R)|
+  Senators        = [[Richard Shelby]] (R)
+[[Jeff Sessions]] (R) |
+  PostalAbbreviation = AL |
+  AreaRank        = 30&lt;sup&gt;th&lt;/sup&gt; |
+  TotalArea       = 52,423 mi²/135,775 |
+  LandArea        = 50,750 mi²/131,442 |
+  WaterArea       = 1,673 mi²/4,333 |
+  PCWater         = 3.19 |
+  PopRank         = 23&lt;sup&gt;rd&lt;/sup&gt; |
+  2000Pop         = 4,447,100 |
+  DensityRank     = 26&lt;sup&gt;th&lt;/sup&gt; |
+  2000Density     = 33.84 |
+  AdmittanceOrder = 22&lt;sup&gt;nd&lt;/sup&gt; |
+  AdmittanceDate  = [[December 14]], [[1819]] |
+  SecessionDate  = [[January 11]], [[1861]] |
+  ReadmittanceDate  = [[July 14]], [[1

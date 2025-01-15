@@ -1,0 +1,66 @@
+[
+  {
+    "category": "History",
+    "description": "Content related to historical events, figures, and periods."
+  },
+  {
+    "category": "Geography",
+    "description": "Information about geographical locations, regions, and maps."
+  },
+  {
+    "category": "Politics",
+    "description": "Content regarding political events, elections, and leaders."
+  },
+  {
+    "category": "Law",
+    "description": "Topics related to legal systems, laws, and regulations."
+  },
+  {
+    "category": "Science",
+    "description": "Information on scientific topics, including chemistry and biology."
+  },
+  {
+    "category": "Technology",
+    "description": "Content related to technological advancements and software."
+  },
+  {
+    "category": "Language",
+    "description": "Information about languages and linguistics."
+  },
+  {
+    "category": "Food",
+    "description": "Topics related to food products and culinary terms."
+  },
+  {
+    "category": "Culture",
+    "description": "Content on cultural practices, literature, and arts."
+  },
+  {
+    "category": "Sports",
+    "description": "Information related to sports events and teams."
+  },
+  {
+    "category": "Biographies",
+    "description": "Content about notable individuals and their life stories."
+  },
+  {
+    "category": "Entertainment",
+    "description": "Information about films, music, and entertainment industry."
+  },
+  {
+    "category": "Economy",
+    "description": "Topics related to economic systems and financial matters."
+  },
+  {
+    "category": "Military",
+    "description": "Content about military events, equipment, and strategies."
+  },
+  {
+    "category": "Religion",
+    "description": "Information related to religious texts, beliefs, and figures."
+  },
+  {
+    "category": "Education",
+    "description": "Topics related to educational systems and institutions."
+  }
+]

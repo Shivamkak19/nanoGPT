@@ -1,0 +1,245 @@
+le>AllSaints</title>
+    <id>33</id>
+    <revision>
+      <id>15898964</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[All Saints]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AlbaniaGovernment</title>
+    <id>35</id>
+    <revision>
+      <id>15898965</id>
+      <timestamp>2002-10-09T13:38:25Z</timestamp>
+      <contributor>
+        <username>Magnus Manske</username>
+        <id>4</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[Politics of Albania]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Politics of Albania]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AlbaniaEconomy</title>
+    <id>36</id>
+    <revision>
+      <id>15898966</id>
+      <timestamp>2002-10-09T13:39:00Z</timestamp>
+      <contributor>
+        <username>Magnus Manske</username>
+        <id>4</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[Economy of Albania]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Economy of Albania]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AlchemY</title>
+    <id>38</id>
+    <revision>
+      <id>15898967</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Alchemy]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Albedo</title>
+    <id>39</id>
+    <revision>
+      <id>41496222</id>
+      <timestamp>2006-02-27T19:32:46Z</timestamp>
+      <contributor>
+        <ip>24.119.3.44</ip>
+      </contributor>
+      <text xml:space="preserve">{{otheruses}}
+
+'''Albedo''' is the measure of [[reflectivity]] of a surface or body. It is the ratio of [[electromagnetic radiation]] (EM radiation) reflected to the amount incident upon it. The fraction, usually expressed as a percentage from 0% to 100%, is an important concept in [[climatology]] and [[astronomy]]. This ratio depends on the [[frequency]] of the radiation considered: unqualified, it refers to an average across the spectrum of [[visible light]]. It also depends on the [[angle of incidence]] of the radiation: unqualified, normal incidence. Fresh snow albedos are high: up to 90%. The ocean surface has a low albedo.  The average albedo of [[Earth]] is about 30% whereas the albedo of the [[Moon]] is about 7%. In astronomy, the albedo of satellites and asteroids can be used to infer surface composition, most notably ice content.    [[Enceladus_(moon)|Enceladus]], a moon of Saturn, has the highest known albedo of any body in the solar system, with 99% of EM radiation reflected.
+
+Human activities have changed the albedo (via forest clearance and farming, for example) of various areas around the globe. However, quantification of this effect is difficult on the global scale: it is not clear whether the changes have tended to increase or decrease [[global warming]].
+
+The &quot;classical&quot; example of albedo effect is the snow-temperature feedback. If a snow covered area warms and the snow melts, the albedo decreases, more sunlight is absorbed, and the temperature tends to increase. The converse is true: if snow forms, a cooling cycle happens. The intensity of the albedo effect depends on the size of the change in albedo and the amount of [[insolation]]; for this reason it can be potentially very large in the tropics.
+
+== Some examples of albedo effects ==
+
+=== Fairbanks, Alaska ===
+
+According to the [[National Climatic Data Center]]'s GHCN 2 data, which is composed of 30-year smoothed climatic means for thousands of weather stations across the world, the college weather station at [[Fairbanks]], [[Alaska]], is about 3 °C (5 °F) warmer than the airport at Fairbanks, partly because of drainage patterns but also largely because of the lower albedo at the college resulting from a higher concentration of [[pine]] [[tree]]s and therefore less open snowy ground to reflect the heat back into space. Neunke and Kukla have shown that this difference is especially marked during the late [[winter]] months, when [[solar radiation]] is greater.
+
+=== The tropics ===
+
+Although the albedo-temperature effect is most famous in colder regions of Earth, because more [[snow]] falls there, it is actually much stronger in tropical regions because in the tropics there is consistently more sunlight. When [[Brazil]]ian ranchers cut down dark, tropical [[rainforest]] trees to replace them with even darker soil in order to grow crops, the average temperature of the area appears to increase by an average of about 3 °C (5 °F) year-round, which is a significant amount.
+
+=== Small scale effects ===
+
+Albedo works on a smaller scale, too. People who wear dark clothes in the summertime put themselves at a greater risk of [[heatstroke]] than those who wear white clothes. 
+
+=== Pine forests ===
+
+The albedo of a [[pine]] forest at 45°N in the winter in which the trees cover the land surface completely is only about 9%, among the lowest of any naturally occurring land environment. This is partly due to the color of the pines, and partly due to multiple scattering of sunlight within the trees which lowers the overall reflected light level. Due to light penetration, the ocean's albedo is even lower at about 3.5%, though this depends strongly on the angle of the incident radiation. Dense [[swamp]]land averages between 9% and 14%. [[Deciduous tree]]s average about 13%. A [[grass]]y field usually comes in at about 20%. A barren field will depend on the color of the soil, and can be as low as 5% or as high as 40%, with 15% being about the average for farmland. A [[desert]] or large [[beach]] usually averages around 25% but varies depending on the color of the sand. [Reference: Edward Walker's study in the Great Plains in the winter around 45°N].
+
+=== Urban areas ===
+
+Urban areas in particular have very unnatural values for albedo because of the many human-built structures which absorb light before the light can reach the surface. In the northern part of the world, cities are relatively dark, and Walker has shown that their average albedo is about 7%, with only a slight increase during the summer. In most tropical countries, cities average around 12%. This is similar to the values found in northern suburban transitional zones. Part of the reason for this is the different natural environment of cities in tropical regions, e.g., there are more very dark trees around; another reason is that portions of the tropics are very poor, and city buildings must be built with different materials. Warmer regions may also choose lighter colored building materials so the structures will remain cooler.
+
+=== Trees ===
+
+Because trees tend to have a low albedo, removing forests would tend to increase albedo and thereby cool the planet. Cloud feedbacks further complicate the issue. In seasonally snow-covered zones, winter albedos of treeless areas are 10% to 50% higher than nearby forested areas because snow does not cover the trees as readily.
+
+Studies by the [[Hadley Centre]] have investigated the relative (generally warming) effect of albedo change and (cooling) effect of [[carbon sequestration]] on planting forests. They found that new forests in tropical and midlatitude areas tended to cool; new forests in high latitudes (e.g. Siberia) were neutral or perhaps warming [http://66.102.11.104/search?q=cache:o7LD-owSkNgJ:www.ulapland.fi/home/arktinen/feed_pdf/Betts_revised.pdf+hadley+albedo+forest&amp;hl=en].
+
+=== Snow ===
+
+Snow albedos can be as high as 90%. This is for the ideal example, however: fresh deep snow over a featureless landscape. Over [[Antarctica]] they average a little more than 80%.
+
+If a marginally snow-covered area warms, snow tends to melt, lowering the albedo, and hence leading to more snowmelt (the ice-albedo [[feedback]]). This is the basis for predictions of enhanced warming in the polar and seasonally snow covered regions as a result of [[global warming]].
+
+=== Clouds ===
+
+Clouds are another source of albedo that play into the global warming equation. Different types of clouds have different albedo values, theoretically ranging from a minimum of near 0% to a maximum in the high 70s. [[Climate model]]s have shown that if the whole Earth were to be suddenly covered by white clouds, the surface temperatures would drop to a value of about -150 °C (-240 °F). This model, though it is far from perfect, also predicts that to offset a 5 °C (9 °F) temperature change due to an increase in the magnitude of the [[greenhouse effect]], &quot;all&quot; we would need to do is increase the Earth's overall albedo by about 12% by adding more white clouds.
+
+Albedo and climate in some areas are already affected by artificial clouds, such as those created by the [[contrail]]s of heavy commercial airliner traffic. A study following the [[September 11, 2001 attacks|September 11 attacks]], after which all major airlines in the U.S. shut down for three days, showed a local 1 &amp;deg;C increase in the daily temperature range (the difference of day and night temperatures) (''see: [[contrail]]'').
+
+=== Aerosol effects ===
+
+[[Particulate|Aerosol]] (very fine particles/droplets in the atmosphere) has two effects, direct and indirect. The direct (albedo) effect is generally to cool the planet; the indirect effect (the particles act as [[Cloud condensation nuclei|CCN]]s and thereby change [[cloud properties]]) is less certain [http://www.grida.no/climate/ipcc_tar/wg1/231.htm#671].
+
+=== Black carbon ===
+
+Another albedo-related effect on the climate is from black carbon particles. The size of this effect is difficult to quantify: the [[IPCC]] say that their &quot;estimate of the global mean radiative forcing for BC aerosols from fossil fuels is ... +0.2 W m&lt;sup&gt;-2&lt;/sup&gt; (from +0.1 W m&lt;sup&gt;-2&lt;/sup&gt; in the [[SAR_(IPCC)|SAR)]]) with a range +0.1 to +0.4 W m&lt;sup&gt;-2&lt;/sup&gt;&quot;. [http://www.grida.no/climate/ipcc_tar/wg1/233.htm].
+
+[[Category:Electromagnetic radiation]]
+[[Category:Climatology]]
+[[Category:Climate forcing]]
+[[Category:Astrophysics]]
+
+[[als:Albedo]]
+[[bg:Албедо]]
+[[bs:Albedo]]
+[[ca:Albedo]]
+[[cs:Albedo]]
+[[da:Albedo]]
+[[de:Albedo]]
+[[et:Albeedo]]
+[[es:Albedo]]
+[[eo:Albedo]]
+[[fr:Albédo]]
+[[gl:Albedo]]
+[[ko:반사율]]
+[[hr:Albedo]]
+[[it:Albedo]]
+[[he:אלבדו]]
+[[hu:Albedó]]
+[[nl:Weerkaatsingsvermogen]]
+[[ja:アルベド]]
+[[no:Albedo]]
+[[nn:Albedo]]
+[[pl:Albedo]]
+[[pt:Albedo]]
+[[ru:Альбедо]]
+[[sk:Albedo]]
+[[sr:Албедо]]
+[[fi:Albedo]]
+[[sv:Albedo]]
+[[uk:Альбедо]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AfroAsiaticLanguages</title>
+    <id>40</id>
+    <revision>
+      <id>15898969</id>
+      <timestamp>2002-10-09T13:39:18Z</timestamp>
+      <contributor>
+        <username>Magnus Manske</username>
+        <id>4</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[Afro-Asiatic languages]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Afro-Asiatic languages]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>ArtificalLanguages</title>
+    <id>42</id>
+    <revision>
+      <id>39218545</id>
+      <timestamp>2006-02-11T16:19:55Z</timestamp>
+      <contributor>
+        <username>Nikai</username>
+        <id>9759</id>
+      </contributor>
+      <comment>R from misspelling</comment>
+      <text xml:space="preserve">#REDIRECT [[Constructed language]] {{R from misspelling}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Abu Dhabi</title>
+    <id>43</id>
+    <revision>
+      <id>41580021</id>
+      <timestamp>2006-02-28T07:19:07Z</timestamp>
+      <contributor>
+        <username>El C</username>
+        <id>92203</id>
+      </contributor>
+      <minor />
+      <comment>Reverted edits by [[Special:Contributions/71.193.1.105|71.193.1.105]] ([[User talk:71.193.1.105|talk]]) to last version by Bloodshedder</comment>
+      <text xml:space="preserve">[[Image:AbuDhabi02.JPG|thumb|View of Abu Dhabi|right|300px]]
+[[Image:Abu Dhabi from Space-ISS006-E-32079-March 2003.JPG|thumb|right|300px|Satellite image of Abu Dhabi (March 2003)]]
+[[Image:Emirates_Palace_Hotel_Abu_Dhabi_front.jpg|thumb|Emirates Palace Hotel Front|right|300px]]
+[[Image:Emirates_Palace_Hotel_Abu_Dhabi_side.jpg|thumb|Emirates Palace Hotel from the side|right|300px]]
+'''Abu Dhabi''' ([[Arabic language|Arabic]]: &amp;#1571;&amp;#1576;&amp;#1608; &amp;#1592;&amp;#1576;&amp;#1610; ''&amp;#700;Ab&amp;#363; &amp;#7826;aby'') is the largest of the seven [[emirate]]s that comprise the [[United Arab Emirates]] and was also the largest of the former [[Trucial States]]. '''Abu Dhabi''' is also a city of the same name within the Emirate that is the [[capital city|capital]] of the country, in north central UAE.  The city lies on a T-shaped island jutting into the [[Persian Gulf]] from the central western coast. An estimated 1,000,000 lived there in 2000, with about an 80% [[expatriate]] population. Abu Dhabi city is located at {{coor d|24.4667|N|54.3667|E}}. [[Al Ain]] is Abu Dhabi's second largest urban area with a population of 348,000 ([[2003]] census estimate) and is located 150 kilometres inland.
+ 
+==History==
+Parts of Abu Dhabi were settled as far back as the [[3rd millennium BC]] and its early history fits the nomadic, herding and fishing pattern typical of the broader region. Modern Abu Dhabi traces its origins to the rise of an important tribal confederation the Bani Yas in the late 18th century, who also assumed control of [[Dubai]]. In the 19th century the Dubai and Abu Dhabi branches parted ways.
+
+Into the mid-20th century, the economy of Abu Dhabi continued to be sustained mainly by camel herding, production of dates and vegetables at the inland oases of [[Al Ain]] and Liwa, and fishing and pearl diving off the coast of Abu Dhabi city, which was occupied mainly during the summer months.  Most dwellings in Abu Dhabi city were, at this time constructed of palm fronds (barasti), with the better-off families occupying mud huts.  The growth of the cultured pearl industry in the first half of the 20th century created hardship for residents of Abu Dhabi as pearls represented the largest export and main source of cash earnings.  
+
+In 1939, Sheikh [[Shakhbut Bin-Sultan Al Nahyan]] granted [[Petroleum]] concessions, and oil was first found in 1958.  At first, oil money had a marginal impact.  A few lowrise concete buildings were erected, and the first paved road was completed in 1961, but Sheikh Shakbut, uncertain whether the new oil royalties would last, took a cautious approach, prefering to save the revenue rather than investing it in development.  His brother, [[Zayed bin Sultan Al Nahayan]], saw that oil wealth had the potential to transform Abu Dhabi.  The ruling Al Nahayan family decided that Sheikh Zayed should replace his brother as Ruler and carry out his vision of developing the country.  On [[August 6]], [[1966]], with the assistance of the British, Sheikh Zayed became the new ruler.  See generally, Al-Fahim, M, ''From Rags to Riches: A Story of Abu Dhabi'', Chapter Six (London Centre of Arab Studies, 1995), ISBN 1 900404 00 1.
+
+With the announcement by Britain in 1968 that it would withdraw from the Gulf area by 1971, Sheikh Zayed became the main driving force behind the formation of the [[United Arab Emirates]].
+
+After the Emirates gained independence in 1971, oil wealth continued to flow to the area and traditional [[Mudbrick|mud-brick]] [[hut]]s were rapidly replaced with [[banks]], boutiques and modern [[highrise]]s.
+
+==Current ruler==
+His Highness Sheikh [[Khalifa bin Zayed Al Nahayan]] is the hereditary [[Emir|emir]] and ruler of Abu Dhabi, as well as the current president of the [[United Arab Emirates]] (UAE).
+
+==Postal History==
+[[Image:Stamp_Abu_1967_40f-170px.jpg|right|170px|thumb|[[Shaikh]] [[Zayed bin Sultan Al Nahayan|Zaid]], [[1967]].]]
+Now part of the [[United Arab Emirates]], '''Abu Dhabi''' was formerly the largest of the seven sheikdoms which made up the [[Trucial States]] on the so-called [[Pirate Coast]] of eastern [[Arabia]] between [[Oman]] and [[Qatar]].  The [[Trucial States]] as a whole had an area of some 32,000 square miles of which Abu Dhabi alone had 26,000.  The capital was the town of Abu Dhabi which is on an offshore island and was first settled in 1761.
+
+The name [[Trucial States]] arose from [[treaties]] made with [[Great Britain]] in 1820 which ensured a condition of [[truce]] in the area and the suppression of [[piracy]] and [[slavery]].  The [[treaty]] expired on [[31 December]] [[1966]].  The decision to form the [[UAE]] was made on [[18 July]] [[1971]] and the [[federation]] was founded on [[1 August]] [[1972]], although the inaugural [[UAE]] stamps were not issued until [[1 January]] [[1973]].
+
+[[petroleum|Oil]] production began on [[Das Island]] after [[prospecting]] during 1956-1960.  [[Das Island]] is part of Abu Dhabi but lies well [[offshore]], about 100 miles north of the mainland.  [[petroleum|Oil]] production on the [[mainland]] began in 1962.  As a major [[petroleum|oil]] producer, Abu Dhabi soon acquired massive [[financial]] wealth.  [[Investment]] in long-term [[construction]] projects and the establishment of a [[finance]] sector has led to the area becoming a centre of [[commerce]] which may well secure its lasting importance when the [[petroleum|oil]] resources are exhausted.
+
+In December 1960, [[postage stamps]] of [[Compendium of postage stamp issuers (Brit - British)#British Postal Agencies in Eastern Arabia|British Postal Agencies in Eastern Arabia]] were supplied to the [[construction]] workers on [[Das Island]] but the [[postal service]] was administered via the agency office in [[Bahrain]].  The [[mail]] was also [[postmark]]ed [[Bahrain]] so there was no clear indication that a [[letter]] had come from [[Das Island]].
+
+On [[30 March]] [[1963]], a British agency was opened in Abu Dhabi and issued the agency stamps after the sheik objected to the use of the [[Trucial States]] [[definitive]]s.  [[Mail]] from [[Das Island]] continued to be administered by [[Bahrain]] but was now cancelled by an Abu Dhabi [[Trucial States]] [[postmark]].
+
+The first Abu Dhabi stamps were a [[definitive series]] of [[30 March]] [[1964]] depicting [[Shaikh]] [[Shakhbut Bin-Sultan Al Nahyan]].  There were eleven values under the [[India|Indian]] [[currency]] that was used of 100 [[paisa|naye paise]] = 1 [[rupee]].  The range of values was 5 np to 10 [[rupee]]s.  Despite the introduction of these [[definitive]]s, the British agency stamps remained valid in both Abu Dhabi and [[Das Island]] until the end of 1966 when they were withdrawn.
+
+A [[post office]] was opened on [[Das Island]] on [[6 January]] [[1966]] and this ended the [[Bahrain]] service.  [[Mail]] from [[Das Island]] was now handled within Abu Dhabi.
+
+When the [[treaty]] with [[Great Britain]] expired at the end of 1966, Abu Dhabi introduced a new [[currency]] of 1000 [[fils]] = 1 [[dinar]] and took over its own postal administration, including the [[Das Island]] office. The earlier issues were subject to [[surcharge]]s in this [[currency]] and replacement [[definitive]]s were released depicting the new ruler [[Shaikh]] [[Zayed bin Sultan Al Nahayan|Zaid]].  Issues continued until introduction of [[UAE]] stamps in 1973.
+
+In all, Abu Dhabi issued 95 stamps from 1964 to 1972, the final set being three views of the [[Dome of the Rock]] in [[Jerusalem]]. 
+
+'''Source''': [http://www.jl.sl.btinternet.co.uk/stampsite/alpha/a/abudhabi.html Encyclopaedia of Postal History]
+
+==Climate==
+Sunny/blue skies can be expected through-out the year. The months June through September are generally hot and humid with temperatures averaging above 40ºC(110ºF). The weather is usually pleasant from October to May. January to February is cooler and may require the use of a light jacket. The oasis city of [[Al

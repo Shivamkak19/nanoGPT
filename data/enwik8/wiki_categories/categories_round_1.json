@@ -1,0 +1,66 @@
+[
+  {
+    "category": "People",
+    "description": "Biographies and information about notable individuals."
+  },
+  {
+    "category": "Language and Linguistics",
+    "description": "Topics related to languages and their characteristics."
+  },
+  {
+    "category": "History",
+    "description": "Information related to historical events and figures."
+  },
+  {
+    "category": "Sports",
+    "description": "Content related to sports events, teams, and athletes."
+  },
+  {
+    "category": "Entertainment",
+    "description": "Information on television, film, music, and other entertainment forms."
+  },
+  {
+    "category": "Politics and Government",
+    "description": "Topics related to political systems and government affairs."
+  },
+  {
+    "category": "Science and Technology",
+    "description": "Subjects related to scientific discoveries and technological advancements."
+  },
+  {
+    "category": "Astrology and Mythology",
+    "description": "Information on astrological signs and mythological stories."
+  },
+  {
+    "category": "Religious and Cultural Studies",
+    "description": "Content related to religious beliefs and cultural practices."
+  },
+  {
+    "category": "Mathematics and Logic",
+    "description": "Topics related to mathematical theories and logical reasoning."
+  },
+  {
+    "category": "Geography and Places",
+    "description": "Information about geographic locations and significant places."
+  },
+  {
+    "category": "Computer Science and Programming",
+    "description": "Content related to computing and programming languages."
+  },
+  {
+    "category": "Science and Nature",
+    "description": "Topics related to natural sciences and the environment."
+  },
+  {
+    "category": "Business and Economics",
+    "description": "Information related to business practices and economic theories."
+  },
+  {
+    "category": "Historical Documents and Standards",
+    "description": "Content related to historical records and standards."
+  },
+  {
+    "category": "Philosophy and Ethics",
+    "description": "Topics related to philosophical thoughts and ethical discussions."
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "category": "History",
+    "description": "Content related to historical events, periods, and figures."
+  },
+  {
+    "category": "Science",
+    "description": "Articles covering scientific topics and discoveries across various disciplines."
+  },
+  {
+    "category": "Technology",
+    "description": "Information on technological advancements and computer science."
+  },
+  {
+    "category": "Literature",
+    "description": "Content about literary works, authors, and literary analysis."
+  },
+  {
+    "category": "Religion",
+    "description": "Topics related to religious beliefs, practices, and history."
+  },
+  {
+    "category": "Politics",
+    "description": "Information on political theories, events, and figures."
+  },
+  {
+    "category": "Mathematics",
+    "description": "Articles related to mathematical theories, equations, and applications."
+  },
+  {
+    "category": "Art",
+    "description": "Content covering art movements, artists, and artistic works."
+  },
+  {
+    "category": "Film and Entertainment",
+    "description": "Information on movies, film festivals, and entertainment industry."
+  },
+  {
+    "category": "Economics",
+    "description": "Topics related to economic theories, practices, and history."
+  },
+  {
+    "category": "Languages",
+    "description": "Content concerning various languages and linguistic studies."
+  },
+  {
+    "category": "Geopolitics",
+    "description": "Articles related to international relations and global political dynamics."
+  },
+  {
+    "category": "Military and Warfare",
+    "description": "Information on battles, military strategies, and historical conflicts."
+  },
+  {
+    "category": "Culture and Society",
+    "description": "Topics covering cultural practices, societal norms, and human behavior."
+  },
+  {
+    "category": "Biography",
+    "description": "Articles about individuals' life histories and contributions."
+  },
+  {
+    "category": "Philosophy",
+    "description": "Content exploring philosophical ideas, theories, and philosophers."
+  }
+]

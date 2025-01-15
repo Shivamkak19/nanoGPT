@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Technology",
+    "description": "Articles related to technological devices, inventions, and advancements."
+  },
+  {
+    "category": "Botany",
+    "description": "Content about plant species, biomes, and related ecological topics."
+  },
+  {
+    "category": "History",
+    "description": "Events, figures, and periods significant in human history."
+  },
+  {
+    "category": "Politics",
+    "description": "Information about political figures, events, and governmental structures."
+  },
+  {
+    "category": "Theater and Performing Arts",
+    "description": "Content related to drama, playwriting, and theatrical productions."
+  },
+  {
+    "category": "Sports",
+    "description": "Information on sports events, athletes, and historical performances."
+  },
+  {
+    "category": "Automotive",
+    "description": "Content related to vehicles, especially cars and their development."
+  },
+  {
+    "category": "Literature",
+    "description": "Articles about literary works, authors, and literary analysis."
+  },
+  {
+    "category": "Biography",
+    "description": "Information about notable individuals and their life achievements."
+  },
+  {
+    "category": "Geography",
+    "description": "Content about places, locations, and geographical features."
+  },
+  {
+    "category": "Mathematics",
+    "description": "Articles on mathematical theories, formulas, and statistical methods."
+  },
+  {
+    "category": "Mythology",
+    "description": "Content related to myths, legends, and cultural folklore."
+  },
+  {
+    "category": "Media",
+    "description": "Information about communication mediums, including film, television, and newspapers."
+  },
+  {
+    "category": "Economics",
+    "description": "Articles related to economic theories, practices, and financial statistics."
+  },
+  {
+    "category": "Music",
+    "description": "Content related to musical works, artists, and music history."
+  },
+  {
+    "category": "Languages",
+    "description": "Information about different languages and linguistic studies."
+  }
+]

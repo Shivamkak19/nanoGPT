@@ -1,0 +1,66 @@
+[
+  {
+    "category": "History",
+    "description": "Content related to historical events, figures, and periods."
+  },
+  {
+    "category": "Geography",
+    "description": "Information about locations, regions, and geographical features."
+  },
+  {
+    "category": "Culture",
+    "description": "Topics covering cultural practices, traditions, and events."
+  },
+  {
+    "category": "Politics",
+    "description": "Content about political systems, events, and figures."
+  },
+  {
+    "category": "Religion",
+    "description": "Information on religious beliefs, practices, and institutions."
+  },
+  {
+    "category": "Science",
+    "description": "Topics related to scientific concepts, discoveries, and disciplines."
+  },
+  {
+    "category": "Language",
+    "description": "Content about languages, linguistics, and dialects."
+  },
+  {
+    "category": "Music",
+    "description": "Information on musical genres, artists, and history."
+  },
+  {
+    "category": "Literature",
+    "description": "Topics covering literary works, authors, and literary analysis."
+  },
+  {
+    "category": "Technology",
+    "description": "Content about technological advancements and devices."
+  },
+  {
+    "category": "Biography",
+    "description": "Information on the lives and achievements of notable individuals."
+  },
+  {
+    "category": "Media",
+    "description": "Content related to television, movies, and other forms of media."
+  },
+  {
+    "category": "Sports",
+    "description": "Topics covering sports events, teams, and athletes."
+  },
+  {
+    "category": "Economics",
+    "description": "Information on economic systems, theories, and practices."
+  },
+  {
+    "category": "Education",
+    "description": "Content about educational systems, theories, and institutions."
+  },
+  {
+    "category": "Art",
+    "description": "Topics related to visual arts, artists, and art history."
+  }
+]

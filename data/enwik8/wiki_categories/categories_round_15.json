@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Mythology",
+    "description": "Content related to myths, legends, and traditional stories from various cultures."
+  },
+  {
+    "category": "Biology",
+    "description": "Information on living organisms and their vital processes."
+  },
+  {
+    "category": "Energy and Power",
+    "description": "Topics related to the production, consumption, and measurement of energy."
+  },
+  {
+    "category": "Languages",
+    "description": "Content focusing on linguistic studies and different languages."
+  },
+  {
+    "category": "Entertainment",
+    "description": "Information on films, television, music, and related performers."
+  },
+  {
+    "category": "Geography and Places",
+    "description": "Topics related to physical places, cities, and landmarks."
+  },
+  {
+    "category": "Health and Medicine",
+    "description": "Information on health, diseases, and medical practices."
+  },
+  {
+    "category": "History",
+    "description": "Content related to historical events and figures."
+  },
+  {
+    "category": "Mathematics",
+    "description": "Topics related to mathematical theories, problems, and algorithms."
+  },
+  {
+    "category": "Politics",
+    "description": "Information on political events, figures, and governmental systems."
+  },
+  {
+    "category": "Religion",
+    "description": "Content related to religious beliefs, practices, and holy sites."
+  },
+  {
+    "category": "Science and Technology",
+    "description": "Information on scientific discoveries, technological advances, and related theories."
+  },
+  {
+    "category": "Social Issues",
+    "description": "Topics related to societal challenges and developments."
+  },
+  {
+    "category": "Sports",
+    "description": "Content focusing on athletic activities and related personalities."
+  },
+  {
+    "category": "Business and Economy",
+    "description": "Information on economic systems, businesses, and financial markets."
+  },
+  {
+    "category": "Culture and Society",
+    "description": "Content related to the customs, traditions, and social behaviors of different groups."
+  }
+]

@@ -1,0 +1,1355 @@
+ Ain]] enjoys cooler temperatures even through summer due to [[sporadic]] rainfall.
+
+==Transport==
+[[Abu Dhabi International Airport]] serves this city. The local time is [[GMT]] + 4 hours.
+
+==Trivia==
+* The cartoon cat [[Garfield]] would often put the kitten [[Nermal]] in a box and ship him to Abu Dhabi. A common phrase from Garfield is &quot;Abu Dhabi is where all the cute kittens go.&quot; The reason is that the author of Garfield found out through over-seas relations that the city of Abu Dhabi, and the majority of UAE, has a large amount of cats that roam wild. Many live around the suburbs.
+
+== See also ==
+* [[Mina' Zayid]], the port of Abu Dhabi.
+* [[Al Ain]]
+* [[Marawah]]
+* [[Postal Authorities]]
+* [[Saudi Arabia]]
+* [[Transportation in the United Arab Emirates]]
+
+==External links==
+{{Wiktionary}}
+{{commons|Abu Dhabi}}
+* [http://www.jl.sl.btinternet.co.uk/stampsite/alpha/a/abudhabi.html Encyclopaedia of Postal History]
+* [http://www.thepersiangulf.org/cities/abudhabi.html Abu Dhabi, The Persian Gulf]
+* [http://www.abudhabi.com/ abudhabi.com]
+* [http://www.adcci-uae.com/ Abu Dhabi Chamber of Commerce and Industry]
+* [http://www.adnoc.com/ Abu Dhabi National Oil Company]
+* [http://www.spe.org/society/abudhabi/AbuDhabi-info.htm SPE history, with oil details]
+* [http://www.angelfire.com/ok/ABUDHABISTAMPS/ Abu Dhabi postal history]
+* [http://www.adias-uae.com ADIAS], Abu Dhabi Islands Archaeological Survey  
+* [http://www.alloexpat.com/abu_dhabi_expat_forum/ Expatriates Forums in Abu Dhabi]
+* [http://www.timeoutabudhabi.com/ Time Out Abu Dhabi], Guide to life in Abu Dhabi
+*[http://www.careeruae.net/ Career UAE - Useful web site for the job seekers in Abu dabi/United Arab Emirates]
+
+===Non-Government Organisations===
+* [http://www.ansarburney.org/ Ansar Burney Trust] - human rights and anti-slavery organisation
+{{UAE}}
+
+[[Category:Capitals in Asia]]
+[[Category:Cities in the United Arab Emirates]]
+[[Category:Emirates]]
+[[Category:Coastal cities]]
+[[Category:Philately by country]]
+
+[[ar:أبوظبي]]
+[[bg:Абу Даби]]
+[[bs:Abu Dhabi]]
+[[ca:Abu Dhabi]]
+[[da:Abu Dhabi]]
+[[de:Abu Dhabi]]
+[[et:Abu Dhabi emiraat]]
+[[es:Abu Dhabi]]
+[[eo:Abu-Dabio]]
+[[fr:Abu Dhabi]]
+[[gl:Emirato de Abu Dabi]]
+[[ko:아부다비]]
+[[io:Abu Dhabi]]
+[[id:Abu Dhabi]]
+[[is:Abú Dabí]]
+[[it:Abu Dhabi]]
+[[he:אבו דאבי]]
+[[lt:Abu Dabis]]
+[[nl:Abu Dhabi]]
+[[ja:アブダビ]]
+[[no:Abu Dhabi]]
+[[nn:Abu Dhabi]]
+[[pl:Abu Zabi]]
+[[pt:Abu Dhabi]]
+[[ru:Абу-Даби]]
+[[simple:Abu Dhabi]]
+[[sk:Abú Zabí (mesto)]]
+[[fi:Abu Dhabi]]
+[[sv:Abu Dhabi]]
+[[uk:Абу-Дабі]]
+[[zh:阿布扎比]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AardvarK</title>
+    <id>44</id>
+    <revision>
+      <id>15898972</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Aardvark]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AbacuS</title>
+    <id>46</id>
+    <revision>
+      <id>15898973</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Abacus]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AbalonE</title>
+    <id>47</id>
+    <revision>
+      <id>15898974</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Abalone]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AbbadideS</title>
+    <id>48</id>
+    <revision>
+      <id>15898975</id>
+      <timestamp>2002-10-09T13:39:34Z</timestamp>
+      <contributor>
+        <username>Magnus Manske</username>
+        <id>4</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[Abbadid]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Abbadid]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AbbesS</title>
+    <id>49</id>
+    <revision>
+      <id>15898976</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Abbess]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AbbevilleFrance</title>
+    <id>50</id>
+    <revision>
+      <id>15898977</id>
+      <timestamp>2003-05-15T03:16:46Z</timestamp>
+      <contributor>
+        <username>Minesweeper</username>
+        <id>7279</id>
+      </contributor>
+      <minor />
+      <comment>fix double redir</comment>
+      <text xml:space="preserve">#REDIRECT [[Abbeville]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AbbeY</title>
+    <id>51</id>
+    <revision>
+      <id>15898978</id>
+      <timestamp>2002-05-19T16:35:31Z</timestamp>
+      <contributor>
+        <username>AxelBoldt</username>
+        <id>2</id>
+      </contributor>
+      <comment>*fixing redirect</comment>
+      <text xml:space="preserve">#REDIRECT [[Abbey]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AbboT</title>
+    <id>52</id>
+    <revision>
+      <id>15898979</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Abbot]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Abbreviations</title>
+    <id>53</id>
+    <revision>
+      <id>15898980</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Abbreviation]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AtlasShrugged</title>
+    <id>54</id>
+    <revision>
+      <id>15898981</id>
+      <timestamp>2002-04-01T06:26:22Z</timestamp>
+      <contributor>
+        <username>Magnus Manske</username>
+        <id>4</id>
+      </contributor>
+      <comment>No edit; Are all the subpages moved to &amp;quot;Atlas shrugged&amp;quot; (with space)? If they are, the old ones should be deleted (see orphans)!</comment>
+      <text xml:space="preserve">#REDIRECT [[Atlas Shrugged]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AchillEus</title>
+    <id>55</id>
+    <revision>
+      <id>15898982</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Achilles]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>ArtificialLanguages</title>
+    <id>56</id>
+    <revision>
+      <id>39218442</id>
+      <timestamp>2006-02-11T16:18:58Z</timestamp>
+      <contributor>
+        <username>Nikai</username>
+        <id>9759</id>
+      </contributor>
+      <comment>R CamelCase</comment>
+      <text xml:space="preserve">#REDIRECT [[Constructed language]] {{R CamelCase}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>AtlasShruggedCharacters</title>
+    <id>58</id>
+    <revision>
+      <id>15898984</id>
+      <timestamp>2003-03-13T02:57:44Z</timestamp>
+      <contributor>
+        <username>CatherineMunro</username>
+        <id>8316</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[Characters in Atlas Shrugged]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Characters in Atlas Shrugged]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AtlasShruggedCompanies</title>
+    <id>59</id>
+    <revision>
+      <id>15898985</id>
+      <timestamp>2003-03-13T23:05:33Z</timestamp>
+      <contributor>
+        <username>Ams80</username>
+        <id>7543</id>
+      </contributor>
+      <minor />
+      <comment>Redirecting</comment>
+      <text xml:space="preserve">#REDIRECT [[Companies in Atlas Shrugged]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AyersMusicPublishingCompany</title>
+    <id>60</id>
+    <revision>
+      <id>15898986</id>
+      <timestamp>2003-03-19T13:36:26Z</timestamp>
+      <contributor>
+        <username>Ams80</username>
+        <id>7543</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[Companies in Atlas Shrugged]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Companies in Atlas Shrugged]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AtlasShruggedPlaces</title>
+    <id>61</id>
+    <revision>
+      <id>15898987</id>
+      <timestamp>2003-03-13T15:07:10Z</timestamp>
+      <contributor>
+        <username>Ams80</username>
+        <id>7543</id>
+      </contributor>
+      <minor />
+      <comment>Redirecting redirect</comment>
+      <text xml:space="preserve">#REDIRECT [[Places in Atlas Shrugged]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AtlasShruggedThings</title>
+    <id>62</id>
+    <revision>
+      <id>15898988</id>
+      <timestamp>2003-03-20T12:54:37Z</timestamp>
+      <contributor>
+        <username>Ams80</username>
+        <id>7543</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[Things in Atlas Shrugged]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Things in Atlas Shrugged]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AfricanAmericanPeople</title>
+    <id>241</id>
+    <revision>
+      <id>37661965</id>
+      <timestamp>2006-02-01T11:35:06Z</timestamp>
+      <contributor>
+        <username>Eskimbot</username>
+        <id>477460</id>
+      </contributor>
+      <minor />
+      <comment>Robot: Fixing double redirect</comment>
+      <text xml:space="preserve">#REDIRECT [[African American]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AdolfHitler</title>
+    <id>242</id>
+    <revision>
+      <id>15898991</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Adolf Hitler]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AbdomeN</title>
+    <id>244</id>
+    <revision>
+      <id>15898992</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Abdomen]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AbdominalSurgery</title>
+    <id>246</id>
+    <revision>
+      <id>15898993</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Abdominal surgery]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AbeceDarians</title>
+    <id>247</id>
+    <revision>
+      <id>15898994</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Abecedarian]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AbeL</title>
+    <id>248</id>
+    <revision>
+      <id>30807934</id>
+      <timestamp>2005-12-10T09:01:43Z</timestamp>
+      <contributor>
+        <username>Spiffy sperry</username>
+        <id>79741</id>
+      </contributor>
+      <comment>fix double redirect - [[Special:DoubleRedirects|click here to help]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Cain and Abel]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AbensbergGermany</title>
+    <id>249</id>
+    <revision>
+      <id>15898996</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Abensberg]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AberdeenSouthDakota</title>
+    <id>251</id>
+    <revision>
+      <id>15898997</id>
+      <timestamp>2002-08-17T11:23:12Z</timestamp>
+      <contributor>
+        <username>DavidLevinson</username>
+        <id>1689</id>
+      </contributor>
+      <comment>fix link</comment>
+      <text xml:space="preserve">#REDIRECT [[Aberdeen, South Dakota]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AardwolF</title>
+    <id>252</id>
+    <revision>
+      <id>15898998</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Aardwolf]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AbadanIran</title>
+    <id>253</id>
+    <revision>
+      <id>15898999</id>
+      <timestamp>2003-11-08T12:12:19Z</timestamp>
+      <contributor>
+        <username>Minesweeper</username>
+        <id>7279</id>
+      </contributor>
+      <minor />
+      <comment>fix double redir</comment>
+      <text xml:space="preserve">#REDIRECT [[Abadan]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>ArthurKoestler</title>
+    <id>254</id>
+    <revision>
+      <id>15899000</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Arthur Koestler]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AynRand</title>
+    <id>255</id>
+    <revision>
+      <id>15899001</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Ayn Rand]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AlexanderTheGreat</title>
+    <id>256</id>
+    <revision>
+      <id>15899002</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Alexander the Great]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AnchorageAlaska</title>
+    <id>258</id>
+    <revision>
+      <id>15899003</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Anchorage, Alaska]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>ArgumentForms</title>
+    <id>259</id>
+    <revision>
+      <id>15899004</id>
+      <timestamp>2002-04-07T01:40:05Z</timestamp>
+      <contributor>
+        <username>The Anome</username>
+        <id>76</id>
+      </contributor>
+      <comment>#redirect [[Argument form]]</comment>
+      <text xml:space="preserve">#redirect [[Argument form]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>ArgumentsForTheExistenceOfGod</title>
+    <id>260</id>
+    <revision>
+      <id>24813178</id>
+      <timestamp>2005-10-05T14:22:00Z</timestamp>
+      <contributor>
+        <username>Kbdank71</username>
+        <id>197953</id>
+      </contributor>
+      <comment>fix double redirect</comment>
+      <text xml:space="preserve">#REDIRECT [[Existence of God]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>APrioriAndAPosteriorKnowledge</title>
+    <id>261</id>
+    <revision>
+      <id>17822768</id>
+      <timestamp>2005-06-29T11:11:17Z</timestamp>
+      <contributor>
+        <username>Jni</username>
+        <id>23999</id>
+      </contributor>
+      <minor />
+      <comment>fix redir</comment>
+      <text xml:space="preserve">#REDIRECT [[knowledge]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AnarchY</title>
+    <id>263</id>
+    <revision>
+      <id>15899007</id>
+      <timestamp>2002-11-05T13:28:51Z</timestamp>
+      <contributor>
+        <username>Tzartzam</username>
+        <id>3624</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[Anarchy]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Anarchy]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AsciiArt</title>
+    <id>264</id>
+    <revision>
+      <id>15899008</id>
+      <timestamp>2002-10-09T13:40:04Z</timestamp>
+      <contributor>
+        <username>Magnus Manske</username>
+        <id>4</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[ASCII art]]</comment>
+      <text xml:space="preserve">#REDIRECT [[ASCII art]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AndreAgassi</title>
+    <id>268</id>
+    <revision>
+      <id>15899010</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Andre Agassi]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AcademyAwards</title>
+    <id>269</id>
+    <revision>
+      <id>41555330</id>
+      <timestamp>2006-02-28T03:06:14Z</timestamp>
+      <contributor>
+        <username>Rdsmith4</username>
+        <id>61329</id>
+      </contributor>
+      <comment>fix</comment>
+      <text xml:space="preserve">#REDIRECT [[Academy Awards]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AcademyAwards/BestPicture</title>
+    <id>270</id>
+    <revision>
+      <id>15899012</id>
+      <timestamp>2002-07-12T20:44:53Z</timestamp>
+      <contributor>
+        <username>Koyaanis Qatsi</username>
+        <id>90</id>
+      </contributor>
+      <comment>fix redirect</comment>
+      <text xml:space="preserve">#REDIRECT [[Academy Award for Best Picture]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AustriaLanguage</title>
+    <id>271</id>
+    <revision>
+      <id>19178967</id>
+      <timestamp>2005-07-19T21:19:49Z</timestamp>
+      <contributor>
+        <username>Jnc</username>
+        <id>18024</id>
+      </contributor>
+      <minor />
+      <comment>Why are people too lazy to fix dbl redirs when they move a page?</comment>
+      <text xml:space="preserve">#REDIRECT [[Austrian German]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AcademicElitism</title>
+    <id>272</id>
+    <revision>
+      <id>15899014</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Academic elitism]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AxiomOfChoice</title>
+    <id>274</id>
+    <revision>
+      <id>15899015</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Axiom of choice]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AmericanFootball</title>
+    <id>276</id>
+    <revision>
+      <id>15899016</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[American football]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>AmericA</title>
+    <id>278</id>
+    <revision>
+      <id>19987901</id>
+      <timestamp>2005-07-31T16:10:07Z</timestamp>
+      <contributor>
+        <username>Paddu</username>
+        <id>6949</id>
+      </contributor>
+      <minor />
+      <comment>{{R from CamelCase}}</comment>
+      <text xml:space="preserve">#REDIRECT [[Amer868]] |
+  TimeZone        = [[Central Standard Time Zone|Central]]: [[Coordinated Universal Time|UTC]]-6/[[Daylight saving time|DST]]-5 |
+  Latitude        = 30°13'N to 35°N |
+  Longitude       = 84°51'W to 88°28'W |
+  Width           = 190 mi/306 |
+  Length          = 330 mi/531 |
+  HighestElev     = [[Mount Cheaha]] 2,408 ft/734 |
+  MeanElev        = 499 ft/152 |
+  LowestElev      = 0 ft/0 |
+  ISOCode         = US-AL |
+  Website         = www.alabama.gov
+}}
+[[[[image:AlaUrb.gif |thumb|center|250px|Alabama Cities and Urban Areas/Sprawl]]
+{| cellpadding=&quot;2&quot; cellspacing=&quot;0&quot; style=&quot;float:right; clear:right; width:300px; margin:0 0 1em 1em;&quot; class=&quot;toccolours&quot;
+|'''[[List of U.S. state mottos|State motto]]'''||''[[Audemus jura nostra defendere]]''
+|-
+|'''[[List of U.S. state birds|State bird]]'''||[[Northern Flicker|Yellowhammer]]
+|-
+|'''[[List of U.S. state flowers|State flower]]'''||[[Camellia]]
+|-
+|'''[[List of U.S. state songs|State song]]'''||&quot;[[Alabama (song)|Alabama]]&quot;
+|-
+|'''[[List of U.S. state trees|State tree]]'''||[[Longleaf Pine]]
+|-
+|'''[[List of U.S. state spirits|State spirit]]'''||[[Conecuh Ridge Whiskey|Conecuh Ridge]]
+|-
+|'''[[List of U.S. state reptiles|State reptile]]'''||[[Red-bellied turtle]]
+|}
+&lt;/div&gt;
+'''Alabama''' is a [[U.S. state|state]] located in the [[Southern United States|Southern]] [[United States]].
+
+==History==
+''Main article: [[History of Alabama]]''
+
+The memory of the [[Native Americans in the United States|Native American]] presence is particularly strong in Alabama. Among Native American people once living in present Alabama were [[Alabama (people)|Alabama]] (Alibamu), [[Cherokee]], [[Chickasaw]], [[Choctaw]], [[Creek people|Creek]], [[Koasati]], and [[Mobile (people)|Mobile]].  Trade with the Northeast via the [[Ohio River]] began during the Burial Mound Period  ([[1000 BC]]-A.D. [[700]]) and continued until European contact.  Meso-American influence is evident in the agrarian Mississippian culture that followed.
+
+The [[France|French]] established the first [[Europe]]an settlement in the state with the establishment of [[Mobile, Alabama|Mobile]] in [[1702]].  Southern Alabama was French from [[1702]]&amp;ndash;[[1763]], part of British West Florida from [[1763]]&amp;ndash;[[1780]], and part of Spanish West Florida from [[1780]]&amp;ndash;[[1814]]. Northern and central Alabama was part of British Georgia from [[1763]]&amp;ndash;[[1783]] and part of the American Mississippi territory thereafter. Its statehood delayed by the lack of a coastline (rectified when Andrew Jackson captured Spanish Mobile in [[1814]]), Alabama became the 22nd state in [[1819]].
+
+The state of Alabama seceded from the Union on [[January 11]], [[1861]] and became the [[Alabama Republic]] and on [[February 18]] [[1861]] became a [[Confederate States of America|Confederate state]].  While not many battles were fought in the state, it contributed about 120,000 soldiers to the [[United States Civil War|Civil War]].  After the war a provisional government was set up in [[1865]] and Alabama was officially readmitted to the Union on July 14 [[1868]].
+
+The cradle of the Confederacy during the [[United States Civil War|Civil War]], Alabama was at stage center in the [[American Civil Rights Movement (1955-1968)|civil rights movement]] of the [[1950s]] and [[1960s]].
+
+==Law and government==
+''Main article: [[Law and Government of Alabama]]''
+===Local &amp; County Government===
+Alabama has 67 [[county|counties]], each having its own elected legislative branch, usually called the Board of Commissioners, which usually also has executive authority in the county.  Due to the restraints placed in the [[Alabama Constitution]], all but 7 counties (Jefferson, Lee, Mobile, Madison, Montgomery, Shelby, and Tuscaloosa) in the state have little to no [[home rule]].  Instead, most counties in the state have to lobby to the Local Legislation Committee the state legislature to get simple local policies such as waste disposal to land use zoning.
+
+Alabama is an alcohol monopoly or [[Alcoholic beverage control state]].
+
+===Political Climate===
+The current governor of the state is [[Bob Riley (Alabama)|Bob Riley]] and the two U.S. senators are [[Jeff Sessions|Jefferson B. Sessions III]] and [[Richard Shelby|Richard C. Shelby]] (all three from the [[United States Republican Party|Republican Party]]).  The current [[Alabama Constitution]] was adopted in [[1901]].
+
+During [[Reconstruction]] following the [[American Civil War]], Alabama was occupied by federal troops of the [[Third Military District]] under [[John Pope (military officer)|General John Pope]]. In [[1877]], the Reconstruction period ended with the recognition of [[Rutherford B. Hayes]] as President-elect. [[White people|White]] Southerners assumed control of the government and passed laws to [[racial segregation|segregate]] and disenfranchise black residents.  The state became part of the &quot;[[Solid South]],&quot; a one-party system in which the [[Democratic Party (United States)|Democratic Party]] became essentially the only political party in every Southern state.  For nearly 100 years, local and state elections in Alabama were decided in the Democratic Party primary, with generally no Republican challenger running. 
+
+From [[1876]] through [[1956]], Alabama supported only Democratic presidential candidates, by margins as high as 73 percentage points.  In [[1960]], Alabama gave most of its electoral votes to [[Harry F. Byrd]] as a protest.  In [[1964]], the national [[Republican Party (United States)|Republican Party]] began to win more votes in the South by following a &quot;[[Southern Strategy]]&quot; which emphasized &quot;[[States' rights|states' rights]]&quot; and the increasing liberalism of the national Democratic Party.  The first such candidate was conservative [[Barry Goldwater]], who became the first Republican candidate supported by Alabama.  In [[1968]], Alabama supported native son and [[American Independent Party]] candidate [[George Wallace]].  
+
+The last Democratic candidate to win Alabama's votes in a presidential election was Southerner [[Jimmy Carter]] in [[1976]].  Today, the Republican party has become increasingly dominant in conservative Alabama politics. However, in local politics, Democrats still control many offices, including majorities in both houses of the Legislature, and registered Democrats outnumber Republicans in the state.  In 2004, [[George W. Bush]] won Alabama's nine electoral votes by a margin of 25 percentage points with 62.5% of the vote.  The only 11 counties voting Democratic were [[Black Belt (region of Alabama)|Black Belt]] counties, where [[African American]]s are in the majority.
+
+Alabama is located in the [[Bible Belt]], and its educational policies reflect this. According to the [[Alan Guttmacher Institute]], Alabama requires sex education classes to emphasize &quot;that [[homosexuality]] is not an acceptable lifestyle to the general public and that homosexual conduct is a criminal offense under the laws of the state.&quot; While the mandate is not typically enforced in Alabama classrooms, it is unclear whether or not the official requirements have changed since the Supreme Court's ruling in [[Lawrence v. Texas]]. According to the [[United States Census Bureau]], in 2000, Alabama was home to 4,561 same-sex male couples and 4,167 same-sex female couples.
+
+*[[U.S. presidential election, 2004, in Alabama]]
+
+==Geography==
+''Main article: [[Geography of Alabama]]''
+
+{{ussm|alabama.PNG|al}}
+Alabama is the 30&lt;sup&gt;th&lt;/sup&gt; largest state in the United States with 135,775 km&lt;sup&gt;2&lt;/sup&gt; (52,423 mi&lt;sup&gt;2&lt;/sup&gt;) of total area.  3.19% of that is water, making Alabama 23&lt;sup&gt;rd&lt;/sup&gt; in the amount of surface water, also giving it the second largest inland waterway system in the [[United States]].  About three-fifths of the land area is a gentle [[plain]] with a general incline towards the [[Mississippi River]] and the [[Gulf of Mexico]].  The [[North Alabama]] region is mostly mountainous, with the [[Tennessee River]] cutting a large valley creating numerous creeks, streams, rivers, mountains, and lakes.  The lowest point east of the [[Mississippi River]] lies in [[Dekalb County]] along a creek cutting tower ridges, and creating [[Buck's Pocket State Park]].  Another natural wonder is &quot;Land Bridge&quot; the longest natural bridge span east of the [[Mississippi River]].  Alabama generally ranges in [[elevation]] from [[sea level]] at [[Mobile Bay]], to a little more than 1800 [[foot (unit)|feet]] or 550 [[metre|meters]] in the Appalachian mountains in the northeast.  The highest point is [[Mount Cheaha]].
+
+==Economy==
+[[Image:wiki_alabama.jpg|thumb|275px|Greetings from Alabama]]
+According to the [[Bureau of Economic Analysis]], the [[2003]] total [[gross state product]] was $132 billion. The [[per capita income]] for the state was $26,505 in 2003. Alabama's [[agricultural]] outputs include [[poultry]] and [[Egg (food)|eggs]], [[cattle]], plant nursery items, [[peanut]]s, [[cotton]], [[grains]] such as [[maize|corn]] and [[sorgum]], [[vegetables]], [[milk]], [[soybeans]], and [[peaches]]. Even though neighboring [[Georgia (U.S. state)|Georgia]] is called the [[Peach State]], Alabama produces twice as many peaches annually. Its [[Industry|industrial]] outputs include [[iron]] and [[steel]] products, including cast-iron and steel pipe, [[paper]], [[lumber]], and [[wood]] products, [[mining]] (mostly coal), and [[plastic]] products, cars and trucks, and [[apparel]]. Also, Alabama produces [[aerospace]] and [[electronic]] products, mostly in the [[Huntsville, Alabama|Huntsville]] area, home of the [[NASA]] [[George C. Marshall Space Flight Center]] and the [[United States Army Aviation and Missile Command|US Army Missile Command]], headquartered at [[Redstone Arsenal]].
+
+Also, the city of [[Mobile, Alabama|Mobile]] is a busy seaport on the [[Gulf of Mexico]], and with inland waterway access to the Midwest via the [[Tennessee-Tombigbee Waterway]].
+
+==Demographics==
+{{seesubarticle|Demographics of Alabama}}
+
+{| class=&quot;toccolours&quot; align=&quot;right&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin:0 0 1em 1em; font-size: 95%;&quot;
+|-
+! colspan=2 bgcolor=&quot;#ccccff&quot; align=&quot;center&quot;| Historical populations
+|-
+! align=&quot;center&quot;| Census&lt;br&gt;year !! align=&quot;right&quot;| Population
+|-
+| colspan=2|&lt;hr&gt;
+|-
+| align=&quot;center&quot;| 1800 || align=&quot;right&quot;| 1,250
+|-
+| align=&quot;center&quot;| 1810 || align=&quot;right&quot;| 9,046
+|-
+| align=&quot;center&quot;| 1820 || align=&quot;right&quot;| 127,901
+|-
+| align=&quot;center&quot;| 1830 || align=&quot;right&quot;| 309,527
+|-
+| align=&quot;center&quot;| 1840 || align=&quot;right&quot;| 590,756
+|-
+| align=&quot;center&quot;| 1850 || align=&quot;right&quot;| 771,623
+|-
+| align=&quot;center&quot;| 1860 || align=&quot;right&quot;| 964,201
+|-
+| align=&quot;center&quot;| 1870 || align=&quot;right&quot;| 996,992
+|-
+| align=&quot;center&quot;| 1880 || align=&quot;right&quot;| 1,262,505
+|-
+| align=&quot;center&quot;| 1890 || align=&quot;right&quot;| 1,513,401
+|-
+| align=&quot;center&quot;| 1900 || align=&quot;right&quot;| 1,828,697
+|-
+| align=&quot;center&quot;| 1910 || align=&quot;right&quot;| 2,138,093
+|-
+| align=&quot;center&quot;| 1920 || align=&quot;right&quot;| 2,348,174
+|-
+| align=&quot;center&quot;| 1930 || align=&quot;right&quot;| 2,646,248
+|-
+| align=&quot;center&quot;| 1940 || align=&quot;right&quot;| 2,832,961
+|-
+| align=&quot;center&quot;| 1950 || align=&quot;right&quot;| 3,061,743
+|-
+| align=&quot;center&quot;| 1960 || align=&quot;right&quot;| 3,266,740
+|-
+| align=&quot;center&quot;| 1970 || align=&quot;right&quot;| 3,444,165
+|-
+| align=&quot;center&quot;| 1980 || align=&quot;right&quot;| 3,893,888
+|-
+| align=&quot;center&quot;| 1990 || align=&quot;right&quot;| 4,040,587
+|-
+| align=&quot;center&quot;| [[United States 2000 Census|2000]] || align=&quot;right&quot;| 4,447,100
+|}
+
+{|
+|-
+As of 2005, Alabama has an estimated population of 4,557,808, which is an increase of 32,433, or 0.7%, from the prior year and an increase of 110,457, or 2.5%, since the year 2000.  This includes a natural increase since the last census of 77,418 people (that is 319,544 births minus 242,126 deaths) and an increase due to net migration of 36,457 people into the state.  Immigration from outside the United States resulted in a net increase of 25,936 people, and migration within the country produced a net increase of 10,521 people.
+
+The state had 108,000 foreign-born (2.4% of the state population), of which an estimated 22.2% were illegal aliens (24,000).
+|}
+|[[Image:Alabama_population_map.png|thumb|right|300px|Alabama Population Density map]]
+===Race and ancestry===
+The racial makeup of the state and comparison to the prior census:
+{{Racial_demographics_begin | year1=2000 | year2=1990 }}
+{{Racial_demographics_White | year1=71.1% | year2=73.6% }}
+{{Racial_demographics_Black | year1=26.0% | year2=25.3% }}
+{{Racial_demographics_Asian | year1=0.7% | year2=0.5% }}
+{{Racial_demographics_Amerindian | year1=0.5% | year2=0.4% }}
+{{Racial_demographics_Other | race=Other race | year1=0.7% | year2=0.1% }}
+{{Racial_demographics_Mixed | year1=1.0% | year2=&lt;center&gt;*&lt;/center&gt; }}
+{{Racial_demographics_Hispanic | year1White=70.3% | year2White=73.3% | year1Hispanic=1.7% | year2Hispanic=0.6% }}
+{{Racial_demographics_end}}
+
+The largest reported ancestry groups in Alabama: American (17.0%), [[British American|English]] (7.8%), [[Irish American|Irish]] (7.7%), [[German American|German]] (5.7%), and [[Scots-Irish American|Scotch-Irish]] (2.0%).  'American' includes those reported as Native American or [[African American]].
+
+===Religion===
+The major religions of Alabama:
+
+*[[Christian]] &amp;#8211; 92%
+**[[Protestant]] &amp;#8211; 79%
+***[[Baptist]] &amp;#8211; 49%
+***[[Methodist]] &amp;#8211; 10%
+***[[Presbyterian]] &amp;#8211; 3%
+***[[Episcopalian]] &amp;#8211; 2%
+***[[Church of God]] &amp;#8211; 2%
+***[[Church of Christ]] &amp;#8211; 2%
+***[[Pentecostal]] &amp;#8211; 2%
+***[[Lutheran]] &amp;#8211; 2%
+***Other Protestant &amp;#8211; 7%
+**[[Catholic]] &amp;#8211; 13%
+*Other religions &amp;#8211; 1%
+*Non-religious &amp;#8211; 7%
+==Colleges and Universities (incomplete)==
+{{main|List of colleges and universities in Alabama}}
+{|
+|-
+| valign=&quot;top&quot; |
+*[http://www.au.af.mil/ Air University]
+*[[Alabama A&amp;M University]]
+*[[Alabama State University]]
+*[[Andrew Jackson University]]
+*[[Athens State University]]
+*[[Auburn University]]
+*[[Auburn University Montgomery]]
+*[[Birmingham-Southern College]]
+*[[Bishop State Community College]]
+*[[Calhoun Community College|Calhoun Community College System]]
+** [[Calhoun Community College at Decatur|Decatur-Main Campus]]
+** [[Calhoun Community College at Cummings Research Park|Huntsville/Cummings Research Park]]
+** [[Calhoun Community College at Redstone Arsenal|Redstone Arsenal]]
+*[[Capps College]]
+*[[Concordia College-Selma]]
+*[[Faulkner University]]
+*[[Heritage Christian University]]
+*[[Huntingdon College]]
+*[[Jacksonville State University]]
+*[[Judson College]]
+*[[Miles College]]
+*[[Oakwood College]]
+*[[Remington College]]
+*[[Samford University]]
+*[[Selma University]]
+*[[Southeastern Bible College]]
+*[[Southern Christian University]]
+| valign=&quot;top&quot; |
+*[[Spring Hill College]]
+*[[Stillman College]]
+*[[Talladega College]]
+*[[Troy University System]] (formerly &quot;Troy State University System&quot;)
+**[[Troy University|Main Campus (Troy)]]
+**[[Troy University at Dothan]]
+**[[Troy University at Montgomery]]
+**[[Troy University at Phenix City]]
+*[[Tuskegee University]]
+*[[United States Sports Academy]]
+*[[University of Alabama System]]
+**[[University of Alabama|Main Campus (Tuscaloosa)]]
+**[[University of Alabama at Birmingham|Birmingham]]
+**[[University of Alabama at Huntsville|Huntsville]]
+*[[University of Mobile]]
+*[[University of Montevallo]]
+*[[University of North Alabama]]
+*[[University of South Alabama]]
+*[[University of West Alabama]]
+*[[Virginia College]]
+|}
+
+==Culture and interests==
+&lt;small&gt;
+*[[Famous Alabamians]]
+*[[Alabama Jubilee Hot Air Balloon Classic]]
+*[[Music of Alabama]]
+*[[Alabama Public Television]], state wide public TV network
+*[[List of television stations in Alabama]]
+*[[Alabama Shakespeare Festival]]
+*[[Alabama Sports Festival]]
+*[[Spirit of America Festival]]
+*[[U.S. Space &amp; Rocket Center]]/[[U.S. Space Camp]]
+*[[USS Alabama (BB-60)|USS Alabama]]
+*[[Rickwood Field]]
+*[[Robert Trent Jones Golf Trail]]
+*[[Visionland Theme Park]]
+*[[Old State Bank]]
+*[[Vulcan statue]]
+*[[Mobile Bay jubilee]]
+*[[Point Mallard Aquatic Center]]
+*[[Noccalula Falls Park]]
+&lt;/small&gt;
+
+==References==
+* Atkins, Leah Rawls, Wayne Flynt, William Warren Rogers, and David Ward. ''[http://www.questia.com/PM.qst?a=o&amp;d=29166058 Alabama: The History of a Deep South State]'' (1994)
+* Flynt, Wayne. ''Alabama in the Twentieth Century'' (2004)
+* Owen Thomas M. ''History of Alabama and Dictionary of Alabama Biography'' 4 vols. 1921.
+* Jackson, Harvey H. ''Inside Alabama: A Personal History of My State'' (2004)
+* [http://www.questia.com/PM.qst?a=o&amp;d=52694010 Peirce, Neal R. ''The Deep South States of America: People, Politics, and Power in the Seven Deep South States'' (1974)] solid reporting on politics and economics 1960-72
+* Williams, Benjamin Buford. ''A Literary History of Alabama: The Nineteenth Century'' 1979.
+* WPA. ''Guide to Alabama'' (1939)
+* for a detailed bibliography see [[History of Alabama]]
+
+==External links==
+{{sisterlinks|Alabama}}
+*[http://alabama.gov/ Alabama.gov] - Official website.
+*[http://www.alarc.org/ Alabama Association of Regional Councils]
+*[http://www.touralabama.org/ TourAlabama.org] - Alabama Department of Tourism and Travel
+*[http://www.archives.state.al.us/ Archives.state.al.us] - Alabama Department of Archives and History
+**[http://www.archives.state.al.us/aaa.html All About Alabama] at the Archives Department site
+*[http://alguard.state.al.us Alabama National Guard] - Alabama National Guard
+*[http://www.legislature.state.al.us/CodeofAlabama/1975/coatoc.htm Code of Alabama 1975] - at the Alabama Legislature site
+*[http://quickfacts.census.gov/qfd/states/01000.html Alabama QuickFacts] from the U.S. Census Bureau
+*[http://www.countymapsofalabama.com/ County Maps of Alabama] - Full color maps. List of cities, towns and county seats
+*[http://www.southernlitreview.com/states/alabama Alabama Literature] from the Southern Literary Review
+
+==Notes==
+&amp;sup1; The phrase ''The Heart of Dixie'' is required by state law to be included on standard state vehicle license plates, but has recently been reduced to a very small size and eclipsed by the phrase ''Stars Fell on Alabama''.
+
+{{Alabama}}
+{{USPoliticalDivisions}}
+[[Category:Alabama| ]]
+[[Category:States of the United States]]
+[[Category:1819 establishments]]
+[[ang:Alabama]]
+[[ar:ألاباما]]
+[[ast:Alabama]]
+[[bg:Алабама]]
+[[zh-min-nan:Alabama]]
+[[bs:Alabama]]
+[[ca:Alabama]]
+[[cs:Alabama]]
+[[cy:Alabama]]
+[[da:Alabama]]
+[[de:Alabama (Bundesstaat)]]
+[[et:Alabama]]
+[[es:Alabama]]
+[[eo:Alabamo]]
+[[fr:Alabama]]
+[[ga:Alabama]]
+[[gd:Alabama]]
+[[gl:Alabama]]
+[[ko:앨라배마 주]]
+[[hr:Alabama]]
+[[io:Alabama]]
+[[id:Alabama]]
+[[is:Alabama]]
+[[it:Alabama]]
+[[he:אלבמה]]
+[[ka:ალაბამა (შტატი)]]
+[[la:Alabama]]
+[[lv:Alabama]]
+[[lt:Alabama]]
+[[lb:Alabama (Bundesstaat)]]
+[[jbo:alybamys]]
+[[hu:Alabama]]
+[[mk:Алабама]]
+[[ms:Alabama]]
+[[mo:Алабама]]
+[[nl:Alabama]]
+[[ja:アラバマ州]]
+[[no:Alabama]]
+[[nn:Alabama]]
+[[os:Алабамæ (штат)]]
+[[pl:Alabama]]
+[[pt:Alabama]]
+[[ro:Alabama]]
+[[ru:Алабама (штат)]]
+[[sq:Alabama]]
+[[simple:Alabama]]
+[[sk:Alabama]]
+[[sl:Alabama]]
+[[sr:Алабама]]
+[[fi:Alabama]]
+[[sv:Alabama]]
+[[th:มลรัฐแอละแบมา]]
+[[tr:Alabama]]
+[[uk:Алабама (штат)]]
+[[zh:阿拉巴馬州]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AfricA</title>
+  aharan Africa, and was a leader in the [[Non-Aligned Movement]]. While it shares much of its history and cultural heritage with neighbouring [[Morocco]], the two countries have had somewhat hostile relations with each other since Algeria's independence. This is due to two reasons: Morocco's [[Greater Morocco|claim to portions of western Algeria]] (which led to the [[Sand war]] in 1963), and Algeria's support for the [[Polisario]], an armed group of [[Sahrawi]] [[refugee]]s seeking [[independence]] for the Moroccan-ruled [[Western Sahara]], which it hosts within its borders in the city of [[Tindouf]]. Tensions between Algeria and Morocco, as well as issues relating to the [[Algerian Civil War]], have put great obstacles in the way of tightening the [[Maghreb Arab Union]], nominally established in 1989 but with little practical weight, with its coastal neighbors.
+
+==Provinces==
+{{main|Provinces of Algeria}}
+
+Algeria is divided into 48 ''[[Wilayah|wilayas]]'' ([[provinces]]):-
+{|
+|-
+|
+*&lt;small&gt;1&lt;/small&gt; [[Adrar (Algerian province)|Adrar]]
+*&lt;small&gt;2&lt;/small&gt; [[Aïn Defla]]
+*&lt;small&gt;3&lt;/small&gt; [[Aïn Témouchent]]
+*&lt;small&gt;4&lt;/small&gt; [[Algiers|Alger]]
+*&lt;small&gt;5&lt;/small&gt; [[Annaba (province)|Annaba]]
+*&lt;small&gt;6&lt;/small&gt; [[Batna (province)|Batna]]
+*&lt;small&gt;7&lt;/small&gt; [[Béchar]]
+*&lt;small&gt;8&lt;/small&gt; [[Béjaïa (province)|Béjaïa]]
+*&lt;small&gt;9&lt;/small&gt; [[Biskra (province)|Biskra]]
+*&lt;small&gt;10&lt;/small&gt; [[Blida]]
+*&lt;small&gt;11&lt;/small&gt; [[Bordj Bou Arréridj (province)|Bordj Bou Arréridj]]
+*&lt;small&gt;12&lt;/small&gt; [[Bouira]]
+*&lt;small&gt;13&lt;/small&gt; [[Boumerdès]]
+*&lt;small&gt;14&lt;/small&gt; [[Chlef]]
+*&lt;small&gt;15&lt;/small&gt; [[Constantine, Algeria|Constantine]]
+*&lt;small&gt;16&lt;/small&gt; [[Djelfa (province)|Djelfa]]
+*&lt;small&gt;17&lt;/small&gt; [[El Bayadh]]
+|
+*&lt;small&gt;18&lt;/small&gt; [[El Oued (province)|El Oued]]
+*&lt;small&gt;19&lt;/small&gt; [[El Tarf]]
+*&lt;small&gt;20&lt;/small&gt; [[Ghardaïa]]
+*&lt;small&gt;21&lt;/small&gt; [[Guelma]]
+*&lt;small&gt;22&lt;/small&gt; [[Illizi]]
+*&lt;small&gt;23&lt;/small&gt; [[Jijel]]
+*&lt;small&gt;24&lt;/small&gt; [[Khenchela]]
+*&lt;small&gt;25&lt;/small&gt; [[Laghouat]]
+*&lt;small&gt;26&lt;/small&gt; [[Mila]]
+*&lt;small&gt;27&lt;/small&gt; [[Mostaganem (province)|Mostaganem]]
+*&lt;small&gt;28&lt;/small&gt; [[Medea]]
+*&lt;small&gt;29&lt;/small&gt; [[Muaskar]]
+*&lt;small&gt;30&lt;/small&gt; [[M'Sila]]
+*&lt;small&gt;31&lt;/small&gt; [[Naama]]
+*&lt;small&gt;32&lt;/small&gt; [[Oran]]
+*&lt;small&gt;33&lt;/small&gt; [[Ouargla]]
+|
+*&lt;small&gt;34&lt;/small&gt; [[Oum el-Bouaghi]]
+*&lt;small&gt;35&lt;/small&gt; [[Relizane]]
+*&lt;small&gt;36&lt;/small&gt; [[Saida (province)|Saida]]
+*&lt;small&gt;37&lt;/small&gt; [[Sétif]]
+*&lt;small&gt;38&lt;/small&gt; [[Sidi Bel Abbes]]
+*&lt;small&gt;39&lt;/small&gt; [[Skikda]]
+*&lt;small&gt;40&lt;/small&gt; [[Souk Ahras]]
+*&lt;small&gt;41&lt;/small&gt; [[Tamanrasset]]
+*&lt;small&gt;42&lt;/small&gt; [[Tébessa]]
+*&lt;small&gt;43&lt;/small&gt; [[Tiaret]]
+*&lt;small&gt;44&lt;/small&gt; [[Tindouf Province|Tindouf]]
+*&lt;small&gt;45&lt;/small&gt; [[Tipaza]]
+*&lt;small&gt;46&lt;/small&gt; [[Tissemsilt]]
+*&lt;small&gt;47&lt;/small&gt; [[Tizi Ouzou]]
+*&lt;small&gt;48&lt;/small&gt; [[Tlemcen]]
+|
+|[[Image:Algeria provinces.png|right|250px|Map of the provinces of [[Algeria]] in alphabetical order.]]
+|}
+
+==Geography==
+{{main|Geography of Algeria}}
+
+[[Image:Algeria map.png|220px|right|Map of Algeria with cities]]
+[[Image:Hoggar3.jpg|thumb|left|The [[Ahaggar Mountains|Hoggar]] Mountains]]
+
+Most of the coastal area is hilly, sometimes even mountainous, and there are few good harbours. The area just south of the coast, known as the [[Tell]], is fertile. Further south is the [[Atlas mountains|Atlas mountain]] range and the [[Sahara]] desert. [[Algiers]], [[Oran]] and [[Constantine, Algeria|Constantine]] are the main cities.
+
+Algeria's [[climate]] is arid and hot, although the coastal climate is mild, and the winters in the mountainous areas can be severe. Algeria is prone to [[sirocco]], a hot dust- and sand-laden wind especially common in summer.
+
+''See also'': [[Extreme points of Algeria]]
+
+==Economy==
+{{main|Economy of Algeria}}
+
+[[Image:Unknown origin coin2.JPG|thumb|left|150px|Algerian coins]]
+The fossil fuels energy sector is the backbone of the economy, accounting for roughly 60% of budget revenues, 30% of [[Gross domestic product|GDP]], and over 95% of export earnings. Algeria has the fifth-largest reserves of [[natural gas]] in the world and is the second largest gas exporter; it ranks 14th in [[Petroleum]] reserves.
+
+Algeria’s financial and economic indicators improved during the mid-1990s, in part because of policy reforms supported by the IMF and debt rescheduling from the [[Paris Club]]. Algeria’s finances in 2000 and 2001 benefited from an increase in oil prices and the government’s tight fiscal policy, leading to a large increase in the trade surplus, record highs in foreign exchange reserves, and reduction in foreign debt. The government's continued efforts to diversify the economy by attracting foreign and domestic investment outside the energy sector has had little success in reducing high unemployment and improving living standards. In 2001, the government signed an Association Treaty with the [[European Union]] that will eventually lower tariffs and increase trade.
+
+==Demographics==
+[[Image:Algiers coast.jpg|thumb|[[Algiers]] coast]]
+{{main|Demographics of Algeria}}
+
+About 90% of Algerians live in the northern, coastal area; the minority who inhabit the [[Sahara desert]] are mainly concentrated in [[oasis|oases]], although some 1.5 million remain [[nomad]]ic or partly nomadic.
+
+Ninety-nine percent of the population is classified ethnically as [[Arab]]/[[Berber]], and religiously as [[Muslim]]; other religions are restricted to extremely small groups, mainly of foreigners. Europeans account for less than 1%.
+
+Most Algerians are Arab by language and identity, and of mixed Berber-Arab ancestry. The Berbers inhabited Algeria before the arrival of Arab tribes during the expansion of Islam, in the 7th century. The issue of ethnicity and language is sensitive after many years of government marginalization of Berber (or [[Amazigh]], as some prefer) culture. Today, the Arab-Berber issue is often a case of self-identification or identification through language and culture, rather than a racial or ethnic distinction. The 20% or so of the population who self-identify as Berbers, and primarily speak Berber languages (such as [[Tamazight]]), are divided into several ethnic groups, notably [[Kabyle]] (the largest) in the mountainous north-central area, [[Chaoui]] in the eastern [[Atlas Mountains]], [[Mozabite]]s in the [[M'zab]] valley, and [[Tuareg]] in the far south.
+
+==Language==
+{{main|Languages of Algeria}}
+
+The [[official language]] is [[Arabic language|Arabic]], spoken natively in dialectal form (&quot;[[Algerian Arabic|Darja]]&quot;) by some 80% of the population; the other 20% or so speak [[Berber]] ([[Tamazight]]), officially a [[national language]]. [[French language|French]] is the most widely studied foreign language (distantly followed by [[English language|English]]), but is very rare as a [[native language]]. Since independence, the government has pursued a policy of linguistic [[Arabization]] of education and bureaucracy, with some success, although many university courses continue to be taught in French.
+
+==Culture==
+[[Image:Algiers mosque.jpg|thumb|[[Mosque]] in Algiers]]
+{{main|Culture of Algeria}}
+
+Modern Algerian literature, split between Arabic and French, has been strongly influenced by the country's recent history.  [[List of Algerian writers|Famous novelists]] of the 20th century include [[Mohammed Dib]] and [[Kateb Yacine]], while [[Assia Djebar]] is widely translated.  Important novelists of the 1980s included [[Rachid Mimouni]], later vice-president of Amnesty International, and [[Tahar Djaout]], murdered by an [[Islamist]] group in 1993 for his secularist views.  As early as Roman times, [[Apuleius]], born in [[Mdaourouch]], was native to what would become Algeria.
+
+In philosophy and the humanities, [[Malek Bennabi]] and [[Frantz Fanon]] are noted for their thoughts on [[decolonization]], while [[Augustine of Hippo]] was born in [[Tagaste]] (about 60 miles from the present day city of [[Annaba]]), and [[Ibn Khaldun]], though born in [[Tunis]], wrote the [[Muqaddima]] while staying in Algeria.
+
+Algerian culture has been strongly influenced by [[Islam in Algeria|Islam]], the main religion.  The works of the [[Sanusi]] family in precolonial times, and of Emir [[Abdelkader]] and Sheikh [[Ben Badis]] in colonial times, are widely noted.
+
+The [[Music of Algeria|Algerian musical]] genre best known abroad is [[raï]], a pop-flavored, opinionated take on folk music, featuring international stars such as [[Khaled (musician)|Khaled]] and [[Cheb Mami]].  However, in Algeria itself the older, highly verbal [[chaabi]] style remains more popular, with such stars as [[El Hadj El Anka]] or [[Dahmane El Harrachi]], while the tuneful melodies of [[Kabyle]] music, exemplified by [[Idir]], [[Ait Menguellet]], or [[Lounès Matoub]], have a wide audience.  For more classical tastes, [[Andalusian classical music|Andalusi music]], brought from [[Al-Andalus]] by [[Morisco]] refugees, is preserved in many older coastal towns.
+
+In painting, [[Mohammed Khadda]] and [[M'hemed Issiakhem]] are notable in recent years.
+
+== Picture gallery ==
+
+&lt;gallery&gt;
+Image:Houbel.JPG|''The Monument of the Martyrs Algiers''
+Image:Algernuit.jpg|''Algiers by night''
+Image:Finace.jpg|''Minister of the finances''
+Image:Makam Echehid.jpg|''Algiers view by air''
+Image:Benyen.JPG|''the Forest Bainem in Algeria at (Bouzareah)''
+Image:Algierssnow.jpg|''Snow on Algiers''
+Image:Church Saintcharlesalgiers.jpg|''The church  Saint charles at Algiers''
+Image:PE Algerie Sahara 0121.JPG|''Sahara of Algeria''
+
+
+
+&lt;/gallery&gt;
+
+== Miscellaneous topics ==
+* [[Archeology of Algeria]]
+* [[Communications in Algeria]]
+* [[Foreign relations of Algeria]]
+* [[List of Algeria-related topics]]
+* [[List of cities in Algeria]]
+* [[List of Algerians]]
+* [[List of sovereign states]]
+* [[Military of Algeria]]
+* [[Transportation in Algeria|Transportation in Algeria]]
+* ''[[The Battle of Algiers]]'' movie
+* [[Algerian War of Independence]] (1954-1962)
+* [[Algerian Civil War]] (1991-2002)
+
+=== Directories ===
+*[http://www.pagesjaunes-dz.com/index.php?lang=en Yellow Pages of Algeria]
+
+==External links==
+{{portal}}
+{{sisterlinks|Algeria}}
+
+'''Government'''
+*[http://www.el-mouradia.dz El Mouradia] official presidential site (in French and Arabic)
+*[http://www.apn-dz.org/apn/english/index.htm National People's Assembly] official parliamentary site
+*[http://www.algeria-us.org/ The Embassy of Algeria in Washington, DC]
+
+'''News'''
+*[http://allafrica.com/algeria/ allAfrica.com - ''Algeria''] news headline links
+*[http://www.elkhabar.com/FrEn/?idc=52 El Khabar]
+*[http://www.north-africa.com/one.htm The North Africa Journal] business news
+
+'''Overviews'''
+* [http://www.cia.gov/cia/publications/factbook/geos/ag.html CIA World Factbook - ''Algeria'']
+* [http://lcweb2.loc.gov/frd/cs/dztoc.html Library of Congress - Country Study: ''Algeria''] data as of December 1993
+* [http://www.exile.ru/2003-February-20/war_nerd.html Algeria: The Psychos Will Inherit the Earth] - an irreverent look at Algeria's military situation
+
+'''Tourism'''
+*{{wikitravel}}
+
+'''Other'''
+* [http://www.algeria-watch.org/francais.htm Algeria Watch] human rights organization critical of widespread torture practiced by the régime (in French)
+* [http://www.opendemocracy.net/globalization-institutions_government/algeria_2874.jsp Algeria’s past needs opening, not closing] Analysis on the public referendum held [[29 September]] [[2005]] by Veerle Opgenhaffen and Hanny Megally 
+*[http://algerie.el-annabi.com all City of Algéria]
+*[http://www.dicodialna.com Algerian-English Online Dictionary]
+
+{{Africa}}
+{{Mediterranean}}
+
+
+[[Category:African Union member states]]
+[[Category:Algeria| ]]
+[[Category:Arab League]]
+[[Category:Peace and Security Council]]
+
+[[af:Algerië]]
+[[am:አልጄሪያ]]
+[[an:Alcheria]]
+[[ar:الجزائر]]
+[[ast:Arxelia]]
+[[bn:আলজেরিয়া]]
+[[bs:Alžir]]
+[[ca:Algèria]]
+[[cs:Alžírsko]]
+[[cy:Algeria]]
+[[da:Algeriet]]
+[[de:Algerien]]
+[[el:Αλγερία]]
+[[eo:Alĝerio]]
+[[es:Argelia]]
+[[et:Alžeeria]]
+[[fa:الجزایر]]
+[[fi:Algeria]]
+[[fr:Algérie]]
+[[gl:Alxeria - الجزائر]]
+[[ha:Aljeriya]]
+[[haw:ʻAlekelia]]
+[[he:אלג'יריה]]
+[[hi:अल्जीरिया]]
+[[ht:Aljeri]]
+[[ia:Algeria]]
+[[id:Aljazair]]
+[[io:Aljeria]]
+[[is:Alsír]]
+[[it:Algeria]]
+[[ja:アルジェリア]]
+[[ko:알제리]]
+[[kw:Aljeri]]
+[[la:Algeria]]
+[[li:Algerieë]]
+[[lt:Alžyras]]
+[[lv:Alžīrija]]
+[[mk:Алжир]]
+[[ms:Algeria]]
+[[na:Algeria]]
+[[nds:Algerien]]
+[[nl:Algerije]]
+[[nn:Algerie]]
+[[no:Algerie]]
+[[pl:Algieria]]
+[[pt:Argélia]]
+[[rm:Algeria]]
+[[ro:Algeria]]
+[[ru:Алжир]]
+[[sa:अल्जीरिया]]
+[[scn:Algiria]]
+[[simple:Algeria]]
+[[sk:Alžírsko]]
+[[sl:Alžirija]]
+[[so:Aljeeriya]]
+[[sq:Algjeria]]
+[[sr:Алжир]]
+[[sv:Algeriet]]
+[[tg:Алҷазоир]]
+[[th:ประเทศแอลจีเรีย]]
+[[tl:Algeria]]
+[[tr:Cezayir]]
+[[ur:الجزائر]]
+[[wa:Aldjereye]]
+[[yi:אַלזשיר]]
+[[zh:阿尔及利亚]]
+[[zh-min-nan:Algeria]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Characters in Atlas Shrugged</title>
+    <id>359</id>
+    <revision>
+      <id>41302556</id>
+      <timestamp>2006-02-26T11:34:49Z</timestamp>
+      <contributor>
+        <username>Bchampion</username>
+        <id>671891</id>
+      </contributor>
+      <comment>Removed inccorect info about etymology of &quot;mooch&quot; see discussion</comment>
+      <text xml:space="preserve">'''Characters in [[Ayn Rand]]'s novel, [[Atlas Shrugged]].'''
+
+{{spoiler}}
+
+==Balph Eubank==
+Called &quot;the literary leader of the age&quot;, despite the fact that he is incapable of writing anything that people actually want to read. What people ''want'' to read, he says, is irrelevant. He complains that it is disgraceful that artists are treated as peddlers, and that there should be a law limiting the sales of books to ten thousand copies. He is a member of the ''Looters''. Balph Eubank appears in [[Structure of Atlas Shrugged|section]] 161.
+==Ben Nealy==
+A railroad contractor whom ''Dagny Taggart'' hires to replace the track on the [[Things in Atlas Shrugged#Rio Norte Line|Rio Norte Line]] with [[Technology in Atlas Shrugged#Rearden Metal|Rearden Metal]]. Nealy is incompetent, but Dagny can find no one better in all the country. Nealy believes that anything can get done with enough muscle power. He sees no role for intelligence in human achievement, and this is manifest in his inability to organize the project and to make decisions. He relies on Dagny and ''Ellis Wyatt'' to run things, and resents them for doing it, because it appears to him like they are just bossing people around. Ben Nealy appears in [[Structure of Atlas Shrugged|section]] 171.
+
+==Bertram Scudder==
+Editorial writer for the magazine ''The Future''. He typically bashes business and businessmen, but he never says anything specific in his articles, relying on innuendo, sneers, and denunciation. He wrote a hatchet job on ''Hank Rearden'' called ''The Octopus''. He is also vocal in support of the [[Things in Atlas Shrugged#Equalization of Opportunity Bill|Equalization of Opportunity Bill]]. Bertram Scudder appears in [[Structure of Atlas Shrugged|section]] 161.
+
+==Betty Pope==
+A wealthy socialite who is having a meaningless sexual affair with ''James Taggart'' that coincides with the overall meaninglessness of her life. She regrets having to wake up every morning because she has to face another empty day. She is deliberately crude in a way that casts ridicule on her high social position. Betty Pope appears in [[Structure of Atlas Shrugged|sections]] 142 and 161.
+==Brakeman==
+An unnamed employee working on the [[Things in Atlas Shrugged#Taggart Comet|Taggart Comet]] train. ''Dagny Taggart'' hears Brakeman whistling the theme of a concerto. When she asks him what piece it is from, he says it is [[Things in Atlas Shrugged#Halley's Fifth Concerto|Halley's Fifth Concerto]]. When Dagny points out that ''Richard Halley'' only wrote four concertos, Brakeman claims he made a mistake and he doesn't recall where he heard the piece.
+
+Later, after Dagny instructs the train crew how to proceed, he asks a co-worker who she is, and learns she is the one who runs [[Companies in Atlas Shrugged#Taggart Transcontinental|Taggart Transcontinental]].
+
+It is later discovered that the unknown brakeman is one of the strikers, when Dagny meets him in the valley. Brakeman appears in [[Structure of Atlas Shrugged|sections]] 112 and 113.
+
+==Cherryl Brooks==
+Dime store shopgirl who marries James Taggart after a chance encounter in her store the night the John Galt Line was deemed his greatest success.  She marries him thinking he is the heroic person behind Taggart Transcontinental. She is horrible to Dagny until the night before she commits suicide, when she confesses to Dagny that she married Jim, thinking she was marrying Dagny. Like Eddie Willers, Cherryl is one representation of a &quot;good&quot; person who lacks the extraordinary capacities of the primary heroes of the novel.
+
+==Claude Slagenhop==
+The president of political organization [[Characters in Atlas Shrugged|Friends of Global Progress]] (which is supported by ''Philip Rearden''), and one of ''Lillian Rearden's'' friends. He believes that ideas are just air, that this is no time for talk, but for action. He is not bothered by the fact that action unguided by ideas is random and pointless. Global Progress is a sponsor of the [[Things in Atlas Shrugged|Equalization of Opportunity Bill]]. Claude Slagenhop appears in [[Structure of Atlas Shrugged|section]] 161.
+==Cuffy Meigs==
+A looter who's assigned by Wesley Mouch to keep watch over the workings of ''Taggart Transcontinental,'' and later assumes control over the company after Dagny Taggart leaves. He carries a pistol and a lucky rabbit's foot, he dresses in a military uniform. The &quot;intellectual heir&quot; of Dr. Robert Stadler, Meigs comes to a fitting end at the hands of ''Project X.''
+
+==Dagny Taggart==
+The main character in Atlas Shrugged (also the name of her namesake ''Mrs. Nathaniel Taggart''). Dagny is Vice-President in Charge of Operation at Taggart Transcontinental.  She is the female hero, the counterpart to John Galt, her journey is the journey of the reader exploring and understanding Galts philosophy. Those in the know understand that she is the one who really runs the railroad. In the course of the novel, she forms romantic liaisons with three men of ability. Francisco, Hank Rearden and John Galt in order. John is the one who, because of the sum-total of his qualities, will become the choice of Dagny. Dagny appears in [[Structure of Atlas Shrugged|sections]] 112, 113, 114, 132, 133, 141, 145, 146, 147, 148, 151, 152, and 161.
+
+==Dan Conway==
+The middle-aged president of the [[Companies in Atlas Shrugged|Phoenix-Durango]] railroad. Running a railroad is just about the only thing he knows. When the [[Things in Atlas Shrugged|Anti-dog-eat-dog Rule]] is used to drive his business out of [[Places in Atlas Shrugged|Colorado]], he loses the will to fight, and resigns himself to a quiet life of books and fishing. He claims that somebody had to be sacrificed, it turned out to be him, and he has no right to complain, bowing to the will of the majority. When pressed he says he doesn't really believe this is right, but he can't understand why it is wrong and what the alternative might be. He is trapped by a moral code that makes him a willing victim, and rather than challenge that morality, he simply gives up. Dan Conway appears in [[Structure of Atlas Shrugged|sections]] 145 and 146, and is mentioned in section 148.
+==Dick McNamara==
+A contractor who finished the [[Things in Atlas

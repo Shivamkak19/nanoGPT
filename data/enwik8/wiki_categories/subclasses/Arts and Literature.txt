@@ -1,0 +1,267 @@
+  <id>304</id>
+    <revision>
+      <id>15899041</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[Africa]]
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Achilles</title>
+    <id>305</id>
+    <revision>
+      <id>41915510</id>
+      <timestamp>2006-03-02T16:19:19Z</timestamp>
+      <contributor>
+        <username>Josiah Rowe</username>
+        <id>210455</id>
+      </contributor>
+      <minor />
+      <comment>/* Other stories about Achilles */ grammar</comment>
+      <text xml:space="preserve">:''For other uses, see [[Achilles (disambiguation)]].''
+
+[[Image:The_wrath_of_Achilles.jpg|220px|thumb|right|The wrath of Achilles, by Léon Benouville]]{{Greek myth}}In [[Greek mythology]], '''{{polytonic|&amp;#7944;χιλλεύς}}''', transliterated to '''Akhilleus''' or '''Achilleus'' in Roman letters, Latinized from this ancient Greek to '''Achilles''', appearing in Etruscan as '''Achle''', was a [[hero]] (ancient Greek heros, &quot;defender&quot;) of the [[Trojan War]], the greatest and the most [[central character]] of [[Homer]]'s ''[[Iliad]]''. 
+
+==Name==
+The very first two lines of the ''Iliad'' read:
+:{{Polytonic|μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος}}
+:{{Polytonic|οὐλομένην, ἣ μυρί' Ἀχαιοῖς ἄλγε' ἔθηκεν,}}
+Transliterated:
+:Mēnin aeide thea, Pēlēiadeō Akhilēos
+:oulomenēn, hē muri' Akhaiois alge' ethēken,
+Translated:
+:Sing, Muse, the wrath of Achilles the son of Peleus,
+:the destructive wrath, that brought countless griefs upon the Achaeans,
+[[Image:G-achilles-trojan-wars-bb-l.jpg|thumb|left|Statue of Achilles]]In these lines, we see the name Akhilleus Peleides, which is a [[praenomen]] and a [[patronymic]], the latter being formed from Peleus with the suffix -ides producing ''Achilles the son of [[Peleus]]''. The system is similar to the names used by [[Scandinavians]] before modern times, such as Leif Erikson. 
+
+
+Achilles' name can be analyzed as a combination of {{Polytonic|ἄχος}} (''akhos'') &quot;grief&quot; and {{Polytonic|λαός}} (''laos'') &quot;a people, tribe, nation, etc.&quot; [http://www.stanford.edu/group/shl/Crowds/hist/laos.htm]  In other words, Achilles is an embodiment of the grief of the people, grief being a theme raised numerous times in the Iliad (frequently by Achilles). Achilles' role as the hero of grief forms an ironic juxtaposition with the conventional view of Achilles as the hero of ''kleos'' (glory, usually glory in war).
+
+''Laos'' has been construed by Gregory Nagy, following Leonard Palmer, to mean ''a corps of soldiers''. With this derivation, the name would have a double meaning in the poem: When the hero is functioning rightly, his men bring grief to the enemy, but when wrongly, his men get the grief. The poem is in part about the misdirection of anger on the part of leadership.
+
+==Birth==
+Achilles was the son of the mortal [[Peleus]], king of the [[Myrmidons]] in [[Phthia]] (southeast [[Thessaly]]), and the sea nymph [[Thetis]]. [[Zeus]] and [[Poseidon]] had been rivals for the hand of Thetis until [[Prometheus]] the fire-bringer prophesized that Thetis would bear a son greater than his father. For this reason, the two gods withdrew their pursuit, and had her wed to Peleus.
+
+When Achilles was born, according to the most common version of the myth, Thetis tried to make him immortal by dipping him in the river [[Styx (mythology)|Styx]]. But she forgot to wet the heel she held him by, leaving him vulnerable at that spot. (See [[Achilles' tendon]].) In an earlier and less popular version of the story, Thetis anointed the boy in [[ambrosia]] and put him on top of a fire to burn away the mortal parts of his body. She was interrupted by Peleus and abandoned both father and son in a rage. Homer does not make reference to this invulnerability in the [[Iliad]]. To the contrary, he mentions Achilles being wounded, although not seriously.
+
+Peleus gave him (together with his young friend or lover [[Patroclus]]) to [[Chiron]] the [[Centaur]], on Mt. [[Pelion]], to be raised.
+
+==Achilles in the Trojan War==
+===Telephus===
+When the Greeks left for the Trojan War, they accidentally stopped in [[Mysia]], ruled by King [[Telephus]]. In the resulting battle, Achilles gave Telephus a wound that would not heal; Telephus consulted an oracle, who stated that &quot;he that wounded shall heal&quot;.
+
+According to other reports in [[Euripides]]' lost play about Telephus, he went to [[Aulis]] pretending to be a beggar and asked Achilles to heal his wound. Achilles refused, claiming to have no medical knowledge. Alternatively, Telephus held [[Orestes (mythology)|Orestes]] for ransom, the ransom being Achilles' aid in healing the wound. [[Odysseus]] reasoned that the spear had inflicted the wound; therefore, the spear must be able to heal it. Pieces of the spear were scraped off onto the wound and Telephus was healed. This is an example of [[sympathetic magic]].
+
+===During the Trojan War===
+[[Image:The_Rage_of_Achilles_by_Giovanni_Battista_Tiepolo.jpeg|thumb|right|250px|“The Rage of Achilles” by [[Giovanni Battista Tiepolo]].]]
+
+In Homer's Iliad, Achilles is the only mortal to experience consuming rage (''menon'').  His anger is at some times wavering, at other times absolute.  The humanization of Achilles by the events of the war is an important theme of the ''[[Iliad]]''.
+
+Achilles' [[charioteer]]'s name was [[Automedon]].
+
+====Troilus====
+According to [[Dares Phrygius]]' ''Account of the Destruction of Troy'' [http://homepage.mac.com/cparada/GML/DaresTW.html], while [[Troilus]], the youngest son of [[Priam]] and [[Hecuba]] (whom some say was fathered by [[Apollo (god)|Apollo]]), was watering his horses at the Lion Fountain outside the walls of Troy, Achilles saw him and fell in love with his beauty (whose &quot;loveliness of form&quot; was described by [[Ibycus]] as being like &quot;gold thrice refined&quot;). The youth rejected his advances and took refuge inside the temple of Apollo. Achilles pursued him into the sanctuary and decapitated him on the god's own altar. ([[John Tzetzes|Tzetzes]], [[scholiast]] on [[Lycophron]]). At the time, Troilus was said to be a year short of his twentieth birthday, and the legend goes that if Troilus had lived to be twenty, Troy would have been invincible. ([[First Vatican Mythographer]])
+
+====Agamemnon and the death of Patroclus====
+[[Image:Patrocluspederastyscene.jpg|thumb|250px|left|[[Patroclus]] and Achilles. Achilles bandages the arm of his friend Patroclus. The latter turns his head aside to avoid the sight of blood and of Achilles noticing his pain grimaces. The scene has been interpreted as an act of welfare and comradeship, or as a scene with sexual overtones. Ancient Greek culture often held the two [[Iliad#The_relationship_of_Achilles_and_Patroclus|to be lovers]].]]
+
+Achilles took 23 towns outside [[Troy]], including [[Lyrnessos]], where he captured [[Briseis]] to keep as a [[concubine]]. Meanwhile, [[Agamemnon]] took a woman named [[Chryseis]] and taunted her father, [[Chryses]], a priest of [[Apollo (god)|Apollo]], when he attempted to buy her back. Apollo sent a plague through the Greek armies, and Agamemnon was forced to give Chryseis back to her father; however, he took Briseis away from Achilles as compensation for his loss.
+
+This action sparked the central plot of the [[Iliad]]: Achilles becomes enraged and refuses to fight for the Greeks any further. The war goes badly, through the influence of [[Zeus]], and the Greeks offer handsome reparations to their greatest warrior.  After the Greeks are pushed back to the ships, which are just starting to be set on fire by the Trojan hero [[Hector]], Achilles is visited by [[Odysseus]], [[Telamonian Aias|Ajax]], and [[Phoenix (Iliad)|Phoenix]], who attempt to persuade him to return to battle.  
+
+Achilles still refuses to fight, but agrees to allow [[Patroclus]] to fight in his place, wearing his armor. The next day, [[Patroclus]] is killed and stripped of the armor by Hector, who mistakes him for Achilles. Achilles is overwhelmed with grief for his beloved friend, and the rage he once harbored toward Agamemnon begins shifting to Hector. Thetis, his mother, rises from the sea floor and sympathizes with his grief. She obtains magnificent new armor for him from [[Hephaestus]]. The goddess [[Athena]] provides him with the [[aegis]] of Zeus.
+
+When he goes to the battlefield, the entire Trojan army flees behind the walls of Troy. Achilles' wrath is terrible, and he slays many Trojan warriors and allies, including Priam's son [[Lycaon]] (whom Achilles had previously captured and sold into slavery, but who had been returned to Troy). Eventually Hector comes out of the walls to defend the honour of Troy. He asked Achilles to agree that the body of the loser would be returned for proper burial by the winner. Achilles rejected this arrangement, saying,  &quot;Though twenty ransoms and thy weight in gold were offered, I would refuse it all.&quot; 
+
+Stories tell that Hector ran about Troy seven times and Achilles followed him, however seeing that Achilles would not be outrun, Hector stood his ground and fought. Other versions of the tale say that Achilles chased after Hector two times, and one time he was delivered by the gods, however, on their second encounter, Achilles trapped Hector and challenged him. After a legendary fight, Achilles kills Hector.
+
+Influenced by his anger, he drags the body of Hector behind his chariot round the walls of Troy three times, and refuses to allow it to receive [[funeral rites]].  Much to the dismay of Achilles, the body of Hector miraculously heals and will not decay as normally expected. [[Aphrodite]], the goddess of love who sided with Troy throughout the whole conflict, put a protective barrier over [[Hector]], which kept him looking like he did before he was viciously killed by Achilles. When [[Priam]], the king of Troy and Hector's father, comes secretly into the Greek camp to plead for the body, Achilles finally relents; in one of the most moving scenes of the ''Iliad'', he receives Priam graciously and allows him to take the body away.  The scene is intensely moving because [[Priam]], the king of one of the greatest cities in the known world, kneels down, old and frail as he is, and kisses the hands of the man who killed his son.
+
+The greatness of Achilles lies in not just being the greatest Greek fighter ever, but in knowing the choice provided to him by [[Destiny]]. His mother Thetis had prophesied to him that if he pulled out of the [[Trojan War]], he would enjoy a long and a happy life. If Achilles fought, however, he would die before the walls of [[Troy]] but assure an everlasting glory, surpassing that of all other heroes. He had made the choice, and coming face to face with it showed his greatness.
+
+====Xanthos====
+During the [[Trojan War]], [[Balius and Xanthos|Xanthos]], one of Achilles' horses, was rebuked by Achilles for allowing [[Patroclus]] to be killed. Xanthos responded by saying (Hera temporarily gave him voice to do so) that a god and a mortal had killed Patroclus and a god and a mortal would soon kill Achilles  too.
+
+====Memnon, Cycnus, Penthesilea, and the death of Achilles====
+[[Image:TBanksThetis.jpg|thumb|right|300px|''Thetis rising from the sea to comfort Achilles'' (Book 18), by [[Thomas Banks]], English, [[1778]] [[Victoria and Albert Museum]].]]
+Shortly after the death of [[Hector]], Achilles defeated [[Memnon]] of [[Ethiopia]], [[Cycnus]] of [[Colonae]] and the [[Amazons|Amazonian]] warrior [[Penthesilia]] (with whom Achilles also had an affair in some versions). As predicted by [[Hector]] with his dying breath, Achilles was thereafter killed by [[Paris (mythology)|Paris]] &amp;mdash; either by an arrow to the heel (which may have subsequently become fatally infected, and is said to have been guided by [[Apollo]]), or in an older version by a knife to the back while visiting [[Polyxena]], a princess of Troy. Both versions conspicuously deny the killer any sort of valor, and Achilles remains undefeated on the battlefield (Paris was later killed by Philoctetes using the enormous bow of Heracles). His bones are mingled with those of [[Patroclus]], and funeral games are held. Like Ajax, he is represented (although not by [[Homer]]) as living after his death in the island of [[Leuke]] at the mouth of the [[Danube]].
+
+====The fate of Achilles' armor====
+Achilles' armor was the object of a feud between [[Odysseus]] and [[Telamonian Aias|Ajax the Greater]] (Achilles' older cousin). They competed for it and Odysseus won. Ajax went mad with grief and vowed to kill his comrades; he started killing cattle (thinking they were Greek soldiers), and then himself.
+
+==Other stories about Achilles==	 
+Some post-Homeric sources claim that in order to keep Achilles safe from the war, Thetis (or, in some versions, Peleus) hid the young man at the court of [[Lycomedes]], king of [[Skyros]].  There, Achilles was disguised as a girl and lived among Lycomedes' daughters under the name &quot;Pyrrha&quot; (the red-haired girl).  With Lycomedes' daughter [[Deidamea|Deidamia]], Achilles fathered a son, [[Neoptolemus]] (also called Pyrrhus, after his father's alias).  According to this story, Odysseus learned from the prophet [[Calchas]] that the Achaeans would be unable to capture Troy without Achilles' aid.  He went to Skyros in the guise of a peddler selling women's clothes and jewelry, but placed a shield and spear among his goods.  When Achilles instantly took up the spear, Odysseus saw through his disguise and convinced him to join the Trojan campaign.  In another version of the story, Odysseus arranged for a trumpet alarm to be sounded while he was with Lycomedes' women; while the women fled in panic, Achilles prepared to defend the court, thus giving his identity away.  The story about Achilles in [[drag (clothing)|drag]] is not found in Homer.
+
+In Homer's ''[[Odyssey]]'', there is a passage in which Odysseus sails to the underworld and converses with the shades. One of these is Achilles, who when greeted as &quot;blessed in life, blessed in death&quot;, responds that he would rather be a slave than be dead. This has been interpreted as a rejection of his warrior life, but also as indignity to his martyrdom being slighted.
+
+The kings of [[Despotate of Epirus|Epirus]] claimed to be descended from Achilles through his son. [[Alexander the Great]], son of the Epiran princess [[Olympias]], could therefore also claim this descent, and in many ways strove to be like his great ancestor; he is said to have visited his tomb while passing Troy. Achilles was worshipped as a sea-god in many of the [[Greek colonies]] on the [[Black Sea]].
+
+The [[homosexual]] [[Achilles and Patroclus|relationship between Achilles and Patroclus]] is something much explored in post-[[Homeric]] literature.  By the fifth and fourth centuries, the deep — and arguably ambiguous — friendship portrayed in Homer blossomed into an unequivocal love affair in the works of [[Aeschylus]], [[Plato]], and [[Aeschines]], and seems to have inspired the enigmatic verses in [[Lycophron]]'s third century ''Alexandra'' that claim Achilles slayed Troilus in a matter of unrequited love.
+
+Achilles fought and killed the [[Amazons|Amazon]] [[Helene (mythology)|Helene]].
+
+Some also said he married [[Medea]], and that after both their deaths they were united in the Elysian Fields of Hades - as Hera promised Thetis in Apollonius' [[Argonautica]].
+
+==Achilles in lost plays==
+In the early [[1990]]s a lost play by [[Aeschylus]] was discovered in the wrappings of a [[mummy]] in [[Egypt]]. The play, ''[[Achilles (play)|Achilles]]'', was part of a [[trilogy]] about the [[Trojan War]]. It was known to exist due to mentions in ancient sources, but had been lost for over 2,000 years.  Another lost play by Aeschylus, ''The Myrmidons'', focussed on the relationship between Achilles and Patroclus; only a few lines survive today.
+
+There is another lost play with Achilles as the main character, ''The Lovers of Achilles'', by [[Sophocles]].
+
+==Spoken-word myths (audio)==
+{| border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot;
+|-
+! style=&quot;background:#ffdead;&quot; | Achilles myths as told by story tellers
+|-
+|[[Media:Achilles and Patroclus wiki.ogg|'''1. Achilles and Patroclus,''' read by Timothy Carter]]
+|-
+|Bibliography of reconstruction: [[Homer]] ''Iliad,'' 9.308, 16.2, 11.780, 23.54 ([[700 BC]]); [[Pindar]] ''[[Olympian Odes]],'' IX ([[476 BC]]); [[Aeschylus]] ''Myrmidons,'' F135-36 ([[495 BC]]); [[Euripides]] ''Iphigenia in Aulis,'' ([[405 BC]]); [[Plato]] ''Symposium,'' 179e ([[388 BC]]-[[367 BC]]); [[Statius]] ''Achilleid,'' 161, 174, 182 ([[96]] CE)
+|-
+|}
+
+==Achilles in music==
+Achilles has frequently been mentioned in music.
+
+*&quot;Achilles, Agony &amp; Ecstasy In Eight Parts&quot;, by [[Manowar]]; from the album ''The Triumph of Steel'', [[1992]], [[Atlantic Records]].
+*&quot;[[Achilles Last Stand]]&quot;, by [[Led Zeppelin]]; from the album ''Presence'', [[1976]], Atlantic Records.
+*&quot;Achilles' Revenge&quot; is a song by [[Warlord (band)|Warlord]].
+*Achilles' Heel is an album by the indie rock band [[Pedro the Lion]].
+*Achilles and his heel are referenced in the song &quot;Special K&quot; by the rock band [[Placebo (band)|Placebo]].
+*Achilles is referred to in [[Bob Dylan]]'s song, &quot;Temporary Like Achilles&quot;.
+*&quot;Achilles' Heel&quot; is a song by the UK band [[Toploader]].
+*&quot;Achilles&quot; is a song by the Colorado-based power metal band [[Jag Panzer]], from the album ''Casting the Stones''.
+*Achilles is referenced in the [[Indigo Girls]] song &quot;Ghost&quot;.
+
+==Achilles in film==
+The role of Achilles has been played by:
+* [[Stanley Baker]] in ''[[Helen of Troy (movie)|Helen of Troy]]'' ([[1956]])
+* [[Arturo Dominici]] in ''[[La Guerra di Troia (movie)|La Guerra di Troia]]'' ([[1962]])
+* [[Derek Jacobi]] [voice] in Achilles (Channel Four Television) ([[1995]])
+* [[Steve Davislim]] in ''[[La Belle Hélène (TV movie)|La Belle Hélène]]'' (TV, [[1996]])
+* [[Joe Montana (actor)|Joe Montana]] in ''[[Helen of Troy (TV movie)|Helen of Troy]]'' (TV, [[2003]])
+* [[Brad Pitt]] in ''[[Troy (movie)|Troy]]'' (2004)
+
+==Namesakes==
+* The [[Royal New Zealand Navy]] gave the name [[HMNZS Achilles (70)|HMNZS ''Achilles'']] to an [[British A class destroyer|''A'' class]] [[destroyer]] which served in [[World War II]].
+
+==References==
+*[[Homer]], ''[[Iliad]]''
+*[[Homer]], [[Odyssey|''Odyssey'' XI]], 467-540
+*[[Apollodorus]], ''[[Bibliotheca (Pseudo-Apollodorus)|Bibliotheca]]'' III, xiii, 5-8
+*[[Apollodorus]], [[Epitome III|''Epitome'' III]], 14-V, 7
+*[[Ovid]], ''[[Metamorphoses (poem)|Metamorphoses]]'' XI, 217-265; XII, 580-XIII, 398
+*[[Ovid]], [[Heroides|''Heroides'' III]]
+*[[Apollonius Rhodius]], [[Argonautica|''Argonautica'' IV]], 783-879
+*[[Dante]], ''[[The Divine Comedy]]'', Inferno, V.
+
+==Bibliography==
+* Ileana Chirassi Colombo, “Heros Achilleus— Theos Apollon.” In ''Il Mito Greco'', éd. Bruno Gentili &amp; Giuseppe Paione, Rome, 1977;
+* Anthony Edwards:
+** “Achilles in the Underworld: Iliad, Odyssey, and Æthiopis”, ''Greek, Roman, and Byzantine Studies'', 26 (1985): pp. 215-227 ;
+** “Achilles in the Odyssey: Ideologies of Heroism in the Homeric Epic”, ''Beitrage zur klassischen Philologie'', 171, Meisenheim, 1985 ;
+** “Kleos Aphthiton and Oral Theory,” ''Classical Quarterly'', 38 (1988): pp. 25-30 ;
+* Hélène Monsacré, ''Les larmes d'Achille. Le héros, la femme et la souffrance dans la poésie d'Homère'', Paris, Albin Michel, 1984;
+* [[Gregory Nagy]]:
+** ''The Best of The Acheans: Concepts of the Hero in Archaic Greek Poetry'', Johns Hopkins University, 1999 (rev. edition);
+** ''The Name of Achilles: Questions of Etymology and 'Folk Etymology''', ''Illinois Classical Studies'', 19, 1994;
+* Dale S. Sinos, ''The Entry of Achille Shrugged|San Sebastian Line]] and who is hired to lay the new [[Technology in Atlas Shrugged|Rearden Metal]] track for the [[Things in Atlas Shrugged|Rio Norte Line]]. Before he gets a chance to do so, he mysteriously disappears. Dick McNamara is mentioned in [[Structure of Atlas Shrugged|sections]] 133 and 141.
+==Eddie Willers==
+Special Assistant to the Vice-President in Charge of Operation at Taggart Transcontinental. He grew up with ''Dagny Taggart''. His father and grandfather worked for the Taggarts, and he followed in their footsteps. He is completely loyal to Dagny and to [[Companies in Atlas Shrugged|Taggart Transcontinental]]. He is also secretly in love with Dagny. Willers is generally assumed to represent the common man: someone who does not possess the promethian creative ability of The Strikers, but nevertheless matches them in moral courage and is capable of appreciating and making use of their creations. Eddie Willers appears in [[Structure of Atlas Shrugged|sections]] 111, 114, 117, 132, 133, 141, 151, and 152.
+
+==Ellis Wyatt==
+The head of [[Companies in Atlas Shrugged|Wyatt Oil]]. He has almost single-handedly revived the economy of [[Places in Atlas Shrugged|Colorado]] by discovering oil there. Of all the disappearances of industrialists in the novel, Wyatt's, involving the fiery destruction of his oil wells, is surely the most dramatic. Ellis Wyatt is mentioned or appears in [[Structure of Atlas Shrugged|sections]] 111, 114, 132, 146, 147, 148, and 152.
+
+==Francisco d'Anconia==
+One of the central characters in [[Atlas Shrugged]]. By all accounts, he is a worthless millionaire playboy, owner by inheritance of the world's largest copper mining empire, the man behind the [[Things in Atlas Shrugged|San Sebastian Mines]], and a childhood friend and first love of ''Dagny Taggart''.
+
+Francisco began working on the sly as a teenager in order to learn all he could about business. While still a student at [[Things in Atlas Shrugged|Patrick Henry University]], he began working at a copper foundry, and investing in the stock market. By the time he was twenty he had made enough to purchase the foundry. He began working for [[Companies in Atlas Shrugged|d'Anconia Copper]] as assistant superintendent of a mine in Montana, but was quickly promoted to head of the New York office. He took over d'Anconia Copper at age 23, after the death of his father.
+
+When he was 26, Francisco secretly joined the ''Strikers'' and began to slowly destroy the d'Anconia empire so the ''Looters'' could not get it. He adopted the persona of a worthless playboy, by which he is known to the world, as an effective cover.
+
+His full name is Francisco Domingo Carlos Andres Sebastian d'Anconia.
+
+''According to [mailto:areed2@calstatela.edu Adam Reed] ([http://www.monmouth.com/~adamreed/Ayn_Rands_jewish_years/Who_is_Francisco_DAnconia.html Who is Francisco D'Anconia?]), d'Anconia is the only Hero-class character who is recognizably Jewish (not in the religious, but in the historical sense, like Ayn Rand herself).'' Francisco D'Anconia appears or is mentioned in [[Structure of Atlas Shrugged|sections]] 132, 141, 144, 151, and 152 - this last section includes a detailed history of his life.
+==Hank Rearden==
+One of the central characters in [[Atlas Shrugged]]. He is the founder of [[Companies in Atlas Shrugged|Rearden Steel]] and the inventor of [[Technology in Atlas Shrugged|Rearden Metal]]. He lives in [[Places in Atlas Shrugged|Philadelphia]] with his wife ''Lillian'', his brother ''Philip'', and an elderly woman known only as ''Rearden's Mother'', all of whom he supports. [[Gwen Ives]] is his secretary.
+
+The character of Hank Rearden has two important roles to play in the novel. First, he is in the same position as the reader in that he is aware that there is something wrong with the world but is not sure what it is. Rearden is guided toward an understanding of the solution through his friendship with ''Francisco d'Anconia'', who does know the secret, and by this mechanism the reader is also prepared to understand the secret when it is revealed explicitly in [[Atlas Shrugged/Galts Speech|Galt's Speech]]. 
+
+Second, Rearden is used to illustrate Rand's [[Concepts in Atlas Shrugged|theory of sex]]. ''Lillian Rearden'' cannot appreciate Hank Rearden's virtues, and she is portrayed as being disgusted by sex. ''Dagny Taggart'' clearly does appreciate Rearden's virtues, and this appreciation evolves into a sexual desire. Rearden is torn by a contradiction because he accepts the premises of the traditional view of sex as a lower instinct, while responding sexually to Dagny, who represents his highest values. Rearden struggles to resolve this internal conflict and in doing so illustrates Rand's sexual theory. Rearden appears in [[Structure of Atlas Shrugged|sections]] 121, 132, 147, and 161, and is mentioned in sections 114 and 131.
+
+==Hugh Akston==
+Identified as &quot;One of the last great advocates of reason.&quot; He was a renowned philosopher and the head of the Department of Philosophy at [[Things in Atlas Shrugged|Patrick Henry University]], where he taught ''Francisco d'Anconia'', ''John Galt'', and ''Ragnar Danneskjöld''. He was, along with ''Robert Stadler'', a father figure to these three. Akston's name is so hallowed that a young lady, on hearing that Francisco had studied under him, is shocked. She thought he must have been one of those great names from an earlier century. Hugh Akston is mentioned in [[Structure of Atlas Shrugged|section]] 161.
+==James Taggart==
+The President of [[Companies in Atlas Shrugged|Taggart Transcontinental]] and a leader of the ''Looters''. Taggart is an expert influence peddler who is incapable of making decisions on his own. He relies on his sister ''Dagny Taggart'' to actually run the railroad, but nonetheless opposes her in almost every endeavor. In a sense, he is the antithesis of Dagny.
+
+As the novel progresses, the moral philosophy of the Looters is revealed: it is a code of [[nihilism]]. The goal of this code is to not exist, to become a zero. Taggart struggles to remain unaware that this is his goal. He maintains his pretence that he wants to live, and becomes horrified whenever his mind starts to grasp the truth about himself. This contradiction leads to the recurring absurdity of his life: the desire to destroy those on whom his life depends, and the horror that he will succeed at this. James Taggart appears in [[Structure of Atlas Shrugged|sections]] 111, 114, 131, 132, 143, 144, 152 and 161, and is mentioned in [[Structure of Atlas Shrugged|sections]] 146 and 148.
+
+==John Galt==
+*The question &quot;[[Who is John Galt?]]&quot; is asked repeatedly throughout [[Atlas Shrugged]]. Late into the book we learn that '''John Galt''' is the man who stopped the motor of the world and the leader of the ''Strikers''. He is also the same character as the '''Mystery Worker'''.
+
+The son of an [[Ohio]] garage mechanic, Galt left home at age 12 and began college at [[Things in Atlas Shrugged#Patrick Henry University|Patrick Henry University]] at age 16. There he befriended [[#Francisco d'Anconia|Francisco d'Anconia]] and [[#Ragnar Danneskjöld|Ragnar Danneskjöld]], all three of whom double-majored in [[physics]] and [[philosophy]]. They were the cherished students of the brilliant scientist [[#Robert Stadler|Robert Stadler]] and the brilliant philosopher [[#Hugh Akston|Hugh Akston]].
+
+After graduating, Galt became an [[engineer]] at the [[Companies in Atlas Shrugged|Twentieth Century Motor Works]] where he designed a revolutionary new motor powered by ambient static electricity with the potential to change the world. Like [[#Ellis Wyatt|Ellis Wyatt]], he has created what many had for years said was impossible. When the company owners decided to run the factory by the collectivist maxim, 'By each according to his ability, to each according to his need', Galt organized a successful [[labor strike]], proclaiming his promise to stop the motor of the world.  He began traversing the globe, meeting the world's most successful businessmen, systematically convincing them to follow in his footsteps; one by one, they began abandoning their business empires (which, Galt convinced them, were doomed to failure anyhow, given the increased nationalization of industry by the government).
+
+Secretly, these captains of industry, led by Galt and [[banker]] [[#Midas Mulligan|Midas Mulligan]], had created their own society &amp;mdash; a secret enclave of rational individualists living in &quot;[[Things in Atlas Shrugged#Galt's Gulch|Galt's Gulch]]&quot;, a town secluded high in a wilderness of mountains.  [[#Dagny Taggert|Dagny]] accidentally finds the town &amp;mdash; and a shocked John Galt &amp;mdash; by crash-landing a light [[aircraft]] while pursuing [[#Quentin Daniels|Quentin Daniels]].
+
+Since everyone across the country is repeating the phrase, &quot;Who is John Galt?&quot;, it is natural that many people have attempted to answer that question. The phrase becomes an expression of helplessness and despair at the current state of the world. ''Dagny Taggart'' hears a number of [[Things in Atlas Shrugged#John Galt Legends|John Galt Legends]] before finding the real John Galt and eventually joining his cause, and learning that all of the stories have an element of truth to them.
+
+:''There is a clothing store in [[Vail, Colorado]] called John Galt Ltd. One presumes that, on occasion, a customer unknowingly walks in and asks, &quot;Who is John Galt?&quot;''
+
+==Lillian Rearden==
+The wildly unsupportive wife of ''Hank Rearden''. They have been married eight years as the novel begins.
+
+Lillian is a frigid ''Moocher'' who seeks to destroy her husband. She compares being Rearden's wife with owning the world's most powerful horse. Since she cannot comfortably ride a horse that goes too fast, she must bridle it down to her level, even if that means it will never reach its full potential and its power will be greviously wasted.
+
+Lillian also serves to illustrate Rand's [[Concepts in Atlas Shrugged|Theory of sex]]. She believes sex is a base animal instinct and that sexual indulgence is a sign of moral weakness. She is incapable of feeling this kind of desire, which she believes testifies to her moral superiority. However, according to the theory of sex Lillian's lack of sexual capacity results from her inability to experience value in herself; she is therefore unable to respond sexually when she experiences value in others.
+
+Lillian tolerates sex with her husband only because she is 'realistic' enough to know he is just a brute who requires satisfaction of his brute instincts. In [[Structure of Atlas Shrugged|section]] 161 she indicates that she abhors ''Francisco d'Anconia'', because she believes he is a sexual adventurer. Lillian Rearden appears in [[Structure of Atlas Shrugged|sections]] 121 and 161.
+
+==The Looters==
+A group of evil characters sometimes referred to as &quot;James Taggart and his friends&quot;. They are similar to the Moochers. The Looters consist of men and women who use force to obtain value from those who produce it. They seek to destroy the producers despite the fact that they are dependent upon them. The Looters include: Mr. Thompson, Balph Eubank, Floyd Ferris, James Taggart, Orren Boyle, Paul Larkin, Robert Stadler, Simon Pritchett, Wesley Mouch, and Cuffy Miegs. 
+==Midas Mulligan==
+A wealthy banker who mysteriously disappears in protest after he is given a court order to loan money to an incompetent loan applicant. Midas Mulligan is responsible for the creation and distribution of the money that is exclusively used in Galt's Gulch, and is the original owner of the land where Galt's Gulch is located. He is also responsible for the production of the money used there.
+==The Moochers==
+A group of characters, similar to the ''Looters'', who use guilt as a weapon against those who produce value. They seek to destroy the producers despite the fact that they are dependent upon them. The Moochers include ''Lillian Rearden'', ''Philip Rearden'', and Hank Rearden's ''mother''.
+
+==Mort Liddy==
+A [[hack writer|hack]] composer who writes trite scores for movies and modern symphonies that no one listens to. He believes melody is a primitive vulgarity. He is one of ''Lillian Rearden's'' friends and a member of the cultural elite. Mort Liddy appears in [[Structure of Atlas Shrugged|section]] 161.
+
+==Mr. Mowen==
+The president of the [[Companies in Atlas Shrugged|Amalgamated Switch and Signal Company, Inc.]] of Connecticut. He is a businessman who sees nothing wrong with the moral code that is destroying society and would never dream of saying he is in business for any reason other than the good of society. He is unable to grapple with abstract issues, and is frightened of anything controversial. Dagny Taggart hires Mr. Mowen to produce switches made of [[Technology in Atlas Shrugged|Rearden Metal]]. He is reluctant to build anything with this unproven technology, and has to be ridden and cajoled before he is willing to accept the contract.  When pressured by public opinion, he discontinues production of the switches, forcing Dagny to find an alternative source. Mr. Mowen appears in [[Structure of Atlas Shrugged|section]] 171.
+
+==Mystery Worker==
+A menial worker for [[Companies in Atlas Shrugged|Taggart Transcontinental]] who often dines with ''Eddie Willers'' in the employee's cafeteria. Eddie finds him very easy to talk to, and Mystery Worker not-so-subtly leads him on so that Eddie reveals important information about ''Dagny Taggart'' and Taggart Transcontinental. Eddie tells him which suppliers and contractors Dagny is most dependent on, and with remarkable consistency, those are the next men to disappear mysteriously. Mystery Worker is actually John Galt. Mystery Worker appears in [[Structure of Atlas Shrugged|section]] 133.
+
+==The unnamed newsstand owner==
+He works in the Taggart Terminal. Twenty years ago he owned a cigarette factory but it went under, and he's been working at his newsstand ever since. He is a collector of cigarettes, and knows every brand ever made. He occasionally chats with ''Dagny Taggart'' when she comes by. On one occasion, in [[Structure of Atlas Shrugged|section]] 132, after Dagny asks him about his collection, he bemoans the fact that there are no new brands and the old brands are all disappearing. He examines a cigarette given to Dagny by ''Hugh Akston'', but it is a new brand that he has never seen before. It carries the sign of the dollar. In his first appearance, the Newsstand Owner likens the fire of a cigarette to the fire of the mind. This alludes to the Greek myth of Prometheus, who gave mankind the gift of fire, allowing it to raise itself up and become civilized. In [[Atlas Shrugged]], it is the mind of man that raises mankind. Thus the cigarettes become symbolic of the men of the mind. The disappearance of the old brands represents the disappearance of the men of the mind, and the Newsstand Owner's discovery of the new brand foreshadows Dagny's discovery of a new kind of men of the mind.
+
+==Orren Boyle==
+The head of [[Companies in Atlas Shrugged|Associated Steel]] and a friend of ''James Taggart''. He is one of the ''Looters''. He is an investor in the [[Things in Atlas Shrugged|San Sebastian Mines]]. Orren Boyle appears or is mentioned in [[Structure of Atlas Shrugged|sections]] 111, 114, 131, 132, 144, and 152.
+==Owen Kellogg==
+Assistant to the Manager of the Taggart Terminal in [[Places in Atlas Shrugged|New York]]. He catches ''Dagny Taggart's'' eye as one of the few competent men on staff. After seeing the sorry state of the Ohio Division she decides to make him to its new Superintendent. However, as soon as she returns to [[Places in Atlas Shrugged|New York]], Kellogg informs her that he is quitting his job. He admits that he loves his work, but that's not enough to keep him. He won't say why he is leaving or what he will do. Later, he is noticed working as transient labor by the unsuccessful/unmotivated businessman ''Mr. Mowen''. Owen Kellog eventually reaches, and settles in Atlantis. Owen Kellogg appears in [[Structure of Atlas Shrugged|sections]] 112 and 114.
+
+==Paul Larkin==
+An unsuccessful, middle-aged businessman, a friend of the Rearden family, and a member of the ''Looters''. In [[Structure of Atlas Shrugged|section]] 121 Larkin visits [[Places in Atlas Shrugged|Philadelphia]] to warn ''Hank Rearden'' of possible trouble from [[Places in Atlas Shrugged|Washington]]. In [[Structure of Atlas Shrugged|section]] 131 he meets with the other Looters to work out a plan to bring Rearden down. James Taggart knows he is friends with Hank Rearden and challenges his loyalty, and Larkin assures Taggart that he will go along with them. Paul Larkin appears in [[Structure of Atlas Shrugged|sections]] 121, 132, and 2A1.
+==Philip Rearden==
+The younger brother of ''Hank Rearden'', and a ''Moocher''. He lives in his brother's home in [[Places in Atlas Shrugged|Philadelphia]] and is completely dependent on him. He believes that the source of his sustenance is evil and would love to see him destroyed. He has never had a career and spends his time perfunctorily working for various social groups.
+He becomes resentful of his brother's charity. He then requests that he be granted a job from his brother because he should not have to be burdened by the feeling of inadequacy of not earning his own livelihood. When confronted by his brother on how this job should be a mutually beneficial arrangement, Philip shrugs the argument off as irrelevant and that the job should be entitled to him solely based on his need for money and the fact of familial ties. Philip Rearden appears in [[Structure of Atlas Shrugged|sections]] 121 and 161.
+
+==Quentin Daniels==
+An enterprising engineer hired by ''Dagny Taggart'' to reconstruct ''John Galt's'' motor.  Partway through this process, Quentin withdraws his effort for the same reasons John Galt himself had.  Dagny sets out to meet Quentin in hopes of convincing him to resume his work.  John Galt narrowly gets to him first.  Dagny's pursuit of Quentin leads her to &quot;[[Things in Atlas Shrugged#Galt's Gulch|Galt's Gulch]]&quot;
+
+==Ragnar Danneskjöld==
+One of the original ''Strikers''. He is now world famous as a pirate. Ragnar was from [[Places in Atlas Shrugged|Norway]], the son of a bishop and the scion of one of Norway's most ancient, noble families. He attended [[Things in Atlas Shrugged|Patrick Henry University]] and became friends with ''John Galt'' and ''Francisco d'Anconia'', while studying under ''Hugh Akston'' and ''Robert Stadler''.
+
+Ragnar seizes relief ships that are being sent from the [[Places in Atlas Shrugged|United States]] to [[Places in Atlas Shrugged|Europe]]. No one knows what he does with the goods he seizes. As the novel progresses, Ragnar begins, for the first time, to become active in American waters, and is even spotted in [[Places in Atlas Shrugged|Delaware Bay]]. Reportedly, his ship is better than any available in the fleets of the world's navies. 
+
+When he became a pirate, he was disowned and excommunicated. There is a price on his head in [[Places in Atlas Shrugged|Norway]], [[Places in Atlas Shrugged|Portugal]], [[Places in Atlas Shrugged|Turkey]]. 
+
+According to Ayn Rand (verbal report), his name is a tribute to Victor Hugo.  In Hugo's first novel, ''Hans of Iceland'', the hero becomes the first of the Counts of Danneskjöld.  His name may be a pun on 'Dane's Gold', although &quot;skjöld&quot; means shield, not gold. Ragnar Danneskjöld appears in [[Structure of Atlas Shrugged|section]] 161.
+
+==Rearden's mother==
+Named Gertrude, she is a ''Moocher'' who lives with her son ''Hank Rearden'' at his home in [[Places in Atlas Shrugged|Philadelphia]]. She is involved in church-based charity work, and berates Rearden whenever she can. She insults him by saying he was always selfish, even as a child. She dotes on her weak son ''Philip Rearden''. Rear

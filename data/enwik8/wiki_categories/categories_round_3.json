@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Fictional Substances",
+    "description": "Articles about substances that are not real and are often found in fictional works."
+  },
+  {
+    "category": "Political Figures and Leaders",
+    "description": "Content related to individuals in political roles or leadership positions."
+  },
+  {
+    "category": "Geography and Locations",
+    "description": "Information about geographic locations and places around the world."
+  },
+  {
+    "category": "Sports and Athletes",
+    "description": "Content focused on sports events, teams, and athletes."
+  },
+  {
+    "category": "Education and Academia",
+    "description": "Articles related to educational systems, degrees, and academic research."
+  },
+  {
+    "category": "Medical and Health",
+    "description": "Information on medical conditions, treatments, and healthcare topics."
+  },
+  {
+    "category": "Technology and Devices",
+    "description": "Content about technological devices and advancements."
+  },
+  {
+    "category": "History and Historical Figures",
+    "description": "Articles about historical events and notable figures from history."
+  },
+  {
+    "category": "Arts and Literature",
+    "description": "Content related to different forms of art and literary works."
+  },
+  {
+    "category": "Transportation and Vehicles",
+    "description": "Information about various modes of transportation and vehicles."
+  },
+  {
+    "category": "Government and Politics",
+    "description": "Content related to governmental systems, political issues, and institutions."
+  },
+  {
+    "category": "Science and Nature",
+    "description": "Articles focusing on scientific disciplines and natural phenomena."
+  },
+  {
+    "category": "Entertainment and Media",
+    "description": "Content about movies, television shows, and other forms of entertainment."
+  },
+  {
+    "category": "Economy and Finance",
+    "description": "Information on economic systems, financial topics, and related issues."
+  },
+  {
+    "category": "Culture and Society",
+    "description": "Articles about cultural practices, societal norms, and community issues."
+  },
+  {
+    "category": "Technology and Software",
+    "description": "Content related to computer software, applications, and digital technology."
+  }
+]

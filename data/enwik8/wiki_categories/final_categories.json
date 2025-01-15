@@ -1,0 +1,66 @@
+[
+  {
+    "category": "History",
+    "description": "Events, figures, and periods significant in human history."
+  },
+  {
+    "category": "Science",
+    "description": "Scientific disciplines, discoveries, and research."
+  },
+  {
+    "category": "Technology",
+    "description": "Technological advancements, devices, and computing."
+  },
+  {
+    "category": "Arts and Literature",
+    "description": "Artistic movements, visual arts, literary works, and authors."
+  },
+  {
+    "category": "Geography",
+    "description": "Geographical locations, features, and regional studies."
+  },
+  {
+    "category": "Politics and Government",
+    "description": "Political systems, events, leaders, and governmental structures."
+  },
+  {
+    "category": "Economics and Business",
+    "description": "Economic theories, business practices, and financial systems."
+  },
+  {
+    "category": "Religion and Philosophy",
+    "description": "Religious beliefs, practices, philosophical ideas, and thinkers."
+  },
+  {
+    "category": "Health and Medicine",
+    "description": "Medical practices, health conditions, and healthcare systems."
+  },
+  {
+    "category": "Culture and Society",
+    "description": "Cultural practices, societal norms, and social dynamics."
+  },
+  {
+    "category": "Sports and Recreation",
+    "description": "Athletic activities, events, and recreational pursuits."
+  },
+  {
+    "category": "Education and Academia",
+    "description": "Educational systems, institutions, and academic research."
+  },
+  {
+    "category": "Language and Linguistics",
+    "description": "Languages, dialects, and studies in linguistics."
+  },
+  {
+    "category": "Military and Warfare",
+    "description": "Military history, strategies, and defense systems."
+  },
+  {
+    "category": "Entertainment and Media",
+    "description": "Film, television, music, and other forms of entertainment."
+  },
+  {
+    "category": "Biographies",
+    "description": "Life stories and achievements of notable individuals."
+  }
+]

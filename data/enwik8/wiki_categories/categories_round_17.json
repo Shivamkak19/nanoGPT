@@ -1,0 +1,66 @@
+[
+  {
+    "category": "History",
+    "description": "Articles related to historical events, figures, and periods."
+  },
+  {
+    "category": "Geography",
+    "description": "Content covering locations, physical features, and geographical terms."
+  },
+  {
+    "category": "Arts and Culture",
+    "description": "Information on art, music, literature, and cultural practices."
+  },
+  {
+    "category": "Science and Technology",
+    "description": "Topics on scientific principles, discoveries, and technological advancements."
+  },
+  {
+    "category": "Mathematics",
+    "description": "Articles related to mathematical concepts and theories."
+  },
+  {
+    "category": "Law and Politics",
+    "description": "Content about legal systems, political structures, and governance."
+  },
+  {
+    "category": "Religion and Philosophy",
+    "description": "Topics covering religious beliefs, practices, and philosophical ideas."
+  },
+  {
+    "category": "Economics and Business",
+    "description": "Information on economic theories, business practices, and financial systems."
+  },
+  {
+    "category": "Climate and Environment",
+    "description": "Articles on climate patterns, environmental science, and ecological issues."
+  },
+  {
+    "category": "Biographies",
+    "description": "Detailed accounts of individual people's lives and achievements."
+  },
+  {
+    "category": "Film and Television",
+    "description": "Content related to movies, TV shows, and the film industry."
+  },
+  {
+    "category": "Museums and Heritage",
+    "description": "Information about museums, cultural heritage sites, and preservation."
+  },
+  {
+    "category": "Languages and Linguistics",
+    "description": "Topics related to language studies and linguistic analysis."
+  },
+  {
+    "category": "Mythology and Folklore",
+    "description": "Articles about myths, legends, and traditional stories."
+  },
+  {
+    "category": "Sports and Recreation",
+    "description": "Content covering sports, games, and recreational activities."
+  },
+  {
+    "category": "Society and Sociology",
+    "description": "Topics related to social structures, interactions, and cultural norms."
+  }
+]

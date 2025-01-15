@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Entertainment",
+    "description": "Content related to movies, TV shows, music, and other forms of entertainment."
+  },
+  {
+    "category": "Science and Technology",
+    "description": "Content related to scientific discoveries, technological advancements, and related institutions."
+  },
+  {
+    "category": "History and Biography",
+    "description": "Content about historical events, figures, and biographical information."
+  },
+  {
+    "category": "Education and Academia",
+    "description": "Content related to educational institutions, academic subjects, and scholarly research."
+  },
+  {
+    "category": "Geography and Places",
+    "description": "Content about countries, cities, geographic locations, and landmarks."
+  },
+  {
+    "category": "Sports",
+    "description": "Content related to sports, athletes, and sporting events."
+  },
+  {
+    "category": "Politics and Government",
+    "description": "Content about political systems, government structures, and international organizations."
+  },
+  {
+    "category": "Mathematics",
+    "description": "Content related to mathematical theories, formulas, and concepts."
+  },
+  {
+    "category": "Languages and Literature",
+    "description": "Content about languages, literary works, and authors."
+  },
+  {
+    "category": "Culture and Society",
+    "description": "Content about cultural practices, societal norms, and social groups."
+  },
+  {
+    "category": "Law and Justice",
+    "description": "Content related to legal systems, judicial processes, and law enforcement."
+  },
+  {
+    "category": "Business and Economics",
+    "description": "Content about economic theories, business practices, and financial markets."
+  },
+  {
+    "category": "Health and Medicine",
+    "description": "Content related to medical practices, health care, and wellness."
+  },
+  {
+    "category": "Art and Architecture",
+    "description": "Content about artistic movements, architectural styles, and famous artworks."
+  },
+  {
+    "category": "Military and Warfare",
+    "description": "Content about military history, warfare strategies, and defense systems."
+  },
+  {
+    "category": "Religion and Philosophy",
+    "description": "Content related to religious beliefs, philosophical theories, and spiritual practices."
+  }
+]

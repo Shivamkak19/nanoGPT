@@ -1,0 +1,300 @@
+[[Academy Award for Film Editing|Best Film Editing]]&amp;nbsp;&amp;ndash; [[1935]] to present
+*[[Academy Award for Best Foreign Language Film|Best Foreign Language Film]]&amp;nbsp;&amp;ndash; [[1947]] to present
+*[[Academy Award for Makeup|Best Makeup]]&amp;nbsp;&amp;ndash; [[1981]] to present
+*[[Academy Award for Original Music Score|Best Original Score]]; [[1934]] to present
+*[[Academy Award for Best Song|Best Original Song]]&amp;nbsp;&amp;ndash; [[1934]] to present
+*[[Academy Award for Best Song|Best Original Musical]]&amp;nbsp;&amp;ndash; [[1934]] to present
+*[[Academy Award for Animated Short Film|Best Animated Short Film]]&amp;nbsp;&amp;ndash; [[1931]] to present
+*[[Academy Award for Live Action Short Film|Best Live Action Short Film]]
+*[[Academy Award for Sound|Best Sound Mixing]]; [[1930]] to present
+*[[Academy Award for Sound Effects Editing|Best Sound Editing]]&amp;nbsp;&amp;ndash; [[1963]] to present
+*[[Academy Award for Visual Effects|Best Visual Effects]]&amp;nbsp;&amp;ndash; [[1939]] to present
+*[[Academy Award for Writing Adapted Screenplay|Best Adapted Screenplay]]&amp;nbsp;&amp;ndash; [[1928]] to present
+*[[Academy Award for Writing Original Screenplay|Best Original Screenplay]]&amp;nbsp;&amp;ndash; [[1940]] to present
+
+====Retired awards====
+*[[Academy Award for Best Assistant Director|Best Assistant Director]]&amp;nbsp;&amp;ndash; [[1933]] to [[1937]] 
+*[[Academy Award for Best Dance Direction|Best Dance Direction]]&amp;nbsp;&amp;ndash; [[1935]] to [[1937]]
+*[[Academy Award for Engineering Effects|Best Engineering Effects]]&amp;nbsp;&amp;ndash; [[1928]] only
+*Best Score -- Adaptation or Treatment
+*[[Academy Award for Best Short Film - Color|Best Short Film - Color]]&amp;nbsp;&amp;ndash; [[1936]] and [[1937]]
+*[[Academy Award for Best Short Film - Live Action - 2 Reels|Best Short Film - Live Action - 2 Reels]]&amp;nbsp;&amp;ndash; [[1936]] to [[1956]]
+*[[Academy Award for Short Film - Novelty|Best Short Film - Novelty]]&amp;nbsp;&amp;ndash; [[1932]] to [[1935]]
+*[[Academy Award for Best Story|Best Original Story]]&amp;nbsp;&amp;ndash; [[1928]] to [[1956]]
+*[[Academy Award for Best Title Writing|Best Title Writing]]&amp;nbsp;&amp;ndash; [[1928]] only
+*[[Academy Award for Unique and Artistic Production|Best Unique and Artistic Quality of Production]]&amp;nbsp;&amp;ndash; [[1928]] only
+
+In the first year of the awards, the Best Director category was split into separate Drama and Comedy categories. At times, the Best Original Score category has been split into separate Drama and Comedy/Musical categories. Today, the Best Original Score category is one category. From the 1930s through the 1960s, the Cinematography, Art Direction, and Costume Design awards were split into separate categories for black and white and color films.
+
+===Special awards===
+These awards are voted on by special committees, rather than by the Academy membership as a whole.
+
+====Current awards====
+*[[Academy Honorary Award]]&amp;nbsp;&amp;ndash; [[1928]] to present
+*[[Academy Special Achievement Award]]
+* [[Academy Award, Scientific or Technical]]&amp;nbsp;&amp;ndash;  [[1931]] to present at three levels
+*[[The Irving G. Thalberg Memorial Award]]&amp;nbsp;&amp;ndash; [[1938]] to present
+*[[The Jean Hersholt Humanitarian Award]]
+*[[Gordon E. Sawyer Award]]
+
+====Retired awards ====
+*[[Academy Juvenile Award]]&amp;nbsp;&amp;ndash; [[1934]] to [[1960]]
+
+==Academy Award statistics==
+*[[Academy Award statistics: Films receiving 10 or more nominations]]
+*[[Academy Award statistics: Films receiving 8 or more awards]]
+*[[Academy Award statistics: Films receiving awards for Best Picture, Directing, Actor, Actress and Writing]]
+*[[Academy Award statistics: Films receiving 3 or more acting nominations]]
+*[[Academy Award statistics: Actors receiving 5 or more nominations]]
+*[[Academy Award statistics: Actors receiving 2 or more awards]]
+*[[Academy Award statistics: Directors receiving 3 or more nominations]]
+
+==See also==
+*[[List of Academy Awards ceremonies]]
+*[[List of movies that have won eight or more Academy Awards]]
+*[[List of Academy Award winning movies]]
+*[[78th Academy Awards]] ([[2006]])
+
+==References==
+Gail, K. &amp; Piazza, J. (2002) ''The Academy Awards the Complete History of Oscar.'' Black Dog &amp; Leventhal Publishers, Inc.
+
+==External links==
+{{Wiktionary}}
+* [http://www.oscars.org/ Oscars.org]
+* [http://www.oscars.org/awardsdatabase/index.html The Academy Awards Database]
+* [http://www.oscar.com Oscar.com]
+* [http://www.imdb.com/Sections/Awards/Academy_Awards_USA/ The Academy Awards] at [[The Internet Movie Database]]
+
+[[Category:Academy Awards| ]]
+[[Category:Film awards]]
+[[ar:جائزة الأوسكار]]
+[[af:Oscar]]
+[[bg:Оскар]]
+[[bs:Oskar]]
+[[ca:Premi Òscar]]
+[[cs:Oscar]]
+[[da:Oscar-uddeling]]
+[[de:Oscar]]
+[[et:Oscar]]
+[[es:Premios Oscar]]
+[[eo:Oskar-premio]]
+[[fa:اسکار]]
+[[fr:Oscar du cinéma]]
+[[kn:ಆಸ್ಕರ್ ಪ್ರಶಸ್ತಿ]]
+[[ko:아카데미상]]
+[[hr:Oscar]]
+[[id:Academy Award]]
+[[ilo:Pammadayaw nga Oscar]]
+[[it:Premio Oscar]]
+[[he:פרס האוסקר]]
+[[hu:Oscar-díj]]
+[[zh-min-nan:Oscar Chióng]]
+[[nl:Academy Award]]
+[[ja:アカデミー賞]]
+[[nb:Oscar]]
+[[pl:Nagroda Akademii Filmowej]]
+[[pt:Óscar]]
+[[ro:Premiul Oscar]]
+[[fi:Oscar-palkinto]]
+[[sq:Academy Award]]
+[[simple:Academy Award]]
+[[sv:Oscar (filmpris)]]
+[[vi:Giải Oscar]]
+[[zh:奥斯卡金像奖]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Action Film</title>
+    <id>325</id>
+    <revision>
+      <id>15899061</id>
+      <timestamp>2002-08-04T00:46:46Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>62</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">#REDIRECT [[Action movie]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Actors</title>
+    <id>326</id>
+    <revision>
+      <id>28000771</id>
+      <timestamp>2005-11-11T06:10:02Z</timestamp>
+      <contributor>
+        <username>RoyBoy</username>
+        <id>94806</id>
+      </contributor>
+      <minor />
+      <comment>Reverted edits by [[Special:Contributions/202.56.253.183|202.56.253.183]] to last version by Maveric149</comment>
+      <text xml:space="preserve">#REDIRECT [[Actor]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Actors/Male</title>
+    <id>328</id>
+    <revision>
+      <id>15899064</id>
+      <timestamp>2004-10-03T13:53:06Z</timestamp>
+      <contributor>
+        <username>Timwi</username>
+        <id>13051</id>
+      </contributor>
+      <minor />
+      <comment>fix double-redirect</comment>
+      <text xml:space="preserve">#REDIRECT [[List of male movie actors (A-K)]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Actresses</title>
+    <id>330</id>
+    <revision>
+      <id>15899066</id>
+      <timestamp>2002-06-12T19:11:03Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>62</id>
+      </contributor>
+      <minor />
+      <comment>opps</comment>
+      <text xml:space="preserve">#REDIRECT [[actor]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Animalia (book)</title>
+    <id>332</id>
+    <revision>
+      <id>41366701</id>
+      <timestamp>2006-02-26T22:06:27Z</timestamp>
+      <contributor>
+        <username>Cherry blossom tree</username>
+        <id>92624</id>
+      </contributor>
+      <comment>remove, er, just words, really. i suppose.</comment>
+      <text xml:space="preserve">{{dablink|For the kingdom of life, see [[Animal]].}}
+
+[[Image:Animalia.jpg|thumb|120px|Animalia Cover.]]'''Animalia''' is an illustrated [[Children's literature|children's book]] by [[Graeme Base]].  It was published in [[1986]].  
+
+Animalia is an alphabet book and contains twenty six illustrations, one for each letter of the alphabet.  Each illustration features an animal from the animal kingdom (A is for [[alligator]], B is for [[butterfly]], etc).  The illustrations contain dozens of small objects that the curious reader can try to identify.
+
+Base also published a [[coloring book]] version [http://www.alibris.com/search/search.cfm?qwork=7937230&amp;wauth=Base%2C%20Graeme&amp;matches=16&amp;qsort=r&amp;cm_re=works*listing*title] for children to do their own coloring.
+
+==External links==
+* [http://www.tellapallet.com/animalia.htm A web site that contains a fairly comprehensive list of items hidden in Animalia's illustrations]
+* [http://www.amazon.com/gp/product/0810918684   Animalia on Amazon.com]
+* [https://www.graemebase.com/Home.cfm Graeme Base's Official website]
+
+[[Category:Children's books]]
+
+[[sk:Živočíchy]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Asymmetric Algorithms</title>
+    <id>333</id>
+    <revision>
+      <id>23401668</id>
+      <timestamp>2005-09-17T16:42:05Z</timestamp>
+      <contributor>
+        <username>Hurricane111</username>
+        <id>99272</id>
+      </contributor>
+      <comment>Fixed double redirect; [[Wikipedia:Computer help desk/cleanup/double redirects/20050713|You can help!]].</comment>
+      <text xml:space="preserve">#REDIRECT [[Public-key cryptography]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>International Atomic Time</title>
+    <id>334</id>
+    <revision>
+      <id>36597984</id>
+      <timestamp>2006-01-25T04:14:11Z</timestamp>
+      <contributor>
+        <username>ShakataGaNai</username>
+        <id>60232</id>
+      </contributor>
+      <minor />
+      <comment>utc disambig</comment>
+      <text xml:space="preserve">'''Temps Atomique International''' ('''TAI''') or '''International Atomic Time''' is a very accurate and stable [[time scale]].  It is a weighted average of the time kept by about 300 [[atomic clock]]s (including a large number of  [[caesium]] atomic clocks) in over 50 national laboratories worldwide.  It has been available since [[1955]], and became the international standard on which [[Coordinated Universal Time|UTC]] is based on [[January 1]], [[1972]], as decided by the 14th [[General Conference on Weights and Measures]] (CGPM). The [[International Bureau of Weights and Measures]] is in charge of the realization of TAI.
+
+The highest precision realization of TAI times can only be determined retrospectively, as the timescale is defined by periodic comparisons among its participating atomic clocks. However, these corrections are usually only needed for applications that require nanosecond-scale accuracy.  Most time service users use realtime estimates of TAI provided by atomic clocks that have been previously referenced to the composite timescale.  [[Global Positioning System|GPS]] is a commonly-used realtime source of time traceable back to TAI.
+
+[[Coordinated Universal Time]] (UTC) is the basis for legal time throughout much of the world, and always differs from TAI by an integral number of seconds.  From [[1 January]] [[2006]], UTC was behind TAI by 33 seconds.  The difference is due to an initial ten second offset on [[1 January]] [[1972]] when UTC was established and [[leap second]]s, which have been periodically inserted into UTC since the first on [[30 June]] [[1972]] due to slight irregularities in Earth's rate of rotation.  While TAI is a continuous and stable timescale, UTC has intentional discontinuities to keep it from drifting more than 0.9 second from [[UT1]], a timescale defined by the Earth's rotation.  Roughly speaking, solar noon (the time at which the sun is directly overhead) would drift away from 12:00:00 without leap second corrections.  UT1 is computed by the [[International Earth Rotation and Reference Systems Service]] (IERS).  TAI was defined such that TAI = [[UT2]] on [[January 1]] [[1958]].  
+
+Because UTC is a discontinuous timescale, it is not possible to compute the exact time interval elapsed between two UTC timestamps without consulting a table that describes how many leap seconds occurred during that interval.  Therefore, many scientific applications that require precise measurement of long (multi-year) intervals use TAI instead.  TAI is also commonly used by systems that can not handle leap seconds.
+
+==See also==
+* [[Terrestrial Time]]
+* [[Coordinated Universal Time]]
+* [[Universal Time]]
+* [[Sidereal Time]]
+* [[Time and frequency transfer]]
+* [[Clock synchronization]]
+* [[Network Time Protocol]]
+
+==External links==
+* [http://www.bipm.fr/enus/5_Scientific/c_time/time_1.html ''Bureau International des Poids et Mesures'']
+* [http://hpiers.obspm.fr IERS website]
+* [http://www.boulder.nist.gov/timefreq/general/faq.htm  ''NIST Time and Frequency FAQs'']
+
+&lt;!--Categories--&gt;
+[[Category:Time scales]]
+
+&lt;!--Interwiki--&gt;
+
+[[de:Internationale Atomzeit]]
+[[eo:TAI]]
+[[es:Tiempo atómico]]
+[[fr:Temps atomique international]]
+[[he:&amp;#1492;&amp;#1494;&amp;#1502;&amp;#1503; &amp;#1492;&amp;#1488;&amp;#1496;&amp;#1493;&amp;#1502;&amp;#1497; &amp;#1492;&amp;#1489;&amp;#1497;&amp;#1504;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1502;&amp;#1497;]]
+[[id:Waktu Atom Internasional]]
+[[ja:国際原子時]]
+[[pl:Mi&amp;#281;dzynarodowy czas atomowy]]
+[[ru:Международное атомное время]]
+[[sk:Medzin&amp;#225;rodn&amp;#253; at&amp;#243;mov&amp;#253; &amp;#269;as]]
+[[zh:&amp;#21407;&amp;#23376;&amp;#26102;]]
+[[sv:TAI]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Altruism</title>
+    <id>336</id>
+    <revision>
+      <id>41949335</id>
+      <timestamp>2006-03-02T20:54:01Z</timestamp>
+      <contributor>
+        <ip>66.147.108.78</ip>
+      </contributor>
+      <comment>/* Altruism and religion */</comment>
+      <text xml:space="preserve">'''Altruism''' is considered a belief, a practice, a habit, or an [[ethics|ethical doctrine]]. Many cultures and religious traditions judge altruism to be [[virtue|virtuous]]. In English, the idea was often described as [[Ethic of reciprocity|Golden rule of ethics]]. In [[Buddhism]] it is considered a fundamental property of [[human nature]].
+
+''Altruism'' can refer to:
+
+* being helpful to other people with little or no interest in being rewarded for one's efforts (the colloquial definition). This is distinct from merely helping others.
+
+* actions that benefit others with a net detrimental or neutral effect on the actor, regardless of the actor's own psychology, motivation, or the cause of his or her actions. This type of altruistic behavior is referred to in [[ecology]] as ''[[Commensalism]]''.
+
+* an ethical doctrine that holds that individuals have a moral obligation to help others, if necessary to the exclusion of one's own interest or benefit. One who holds such a doctrine is known as an &quot;altruist.&quot;
+
+The concepts have a long history in [[philosophical]] and [[ethical]] thought, and have more recently become a topic for [[psychologists]], [[sociologists]], [[evolution]]ary biologists, and [[ethology|ethologists]]. While ideas about altruism from one field can have an impact on the other fields, the different methods and focuses of these fields lead to different perspectives on altruism.
+
+Altruism can be distinguished from a feeling of [[loyalty]] and [[duty]]. Altruism focuses on a moral obligation towards all [[humanity]], while duty focuses on a moral obligation towards a specific individual (e.g. a [[king]]), a specific organization (e.g. a [[government]]), or an abstract concept (e.g. [[God]], [[country]] etc). Some individuals may feel both altruism and duty, while others may not. As opposed to altruism, duty is much easier to enforce by an [[authority]].
+
+==Altruism in ethics==
+''Main article: [[Altruism (ethical doctrine)]]''
+
+The word &quot;altruism&quot; (''French, altruisme, from autrui: &quot;other people&quot;, derived from Latin alter: &quot;other&quot;'') was coined by [[Auguste Comte]], the French founder of [[positivism]], in order to describe the ethical doctrine he supported. He believed that individuals had a moral obligation to serve the interest of others or the &quot;greater good&quot; of humanity. Comte says, in his Catechisme Positiviste, that ''&quot;[the] social point of view cannot tolerate the notion of rights, for such notion rests on individualism. We are born under a load of obligations of every kind, to our predecessors, to our successors, to our contemporaries. After our birth these obligations increase or accumulate, for it is some time before we can return any service.... This [&quot;to live for others&quot;], the definitive formula of human morality, gives a direct sanction exclusively to our instincts of benevolence, the common source of happiness and duty. [Man must serve] Humanity, whose we are entirely.&quot;'' As the name of the ethical doctrine is &quot;altruism,&quot; doing what the ethical doctrine prescribes has also come to be referred to by the term &quot;altruism&quot; -- serving others through placing their interests above one's own.
+
+However, the idea that one has a moral obligation to serve others is much older than Auguste Comte. For example, many of the world's oldest and most widespread [[religion]]s (particularly [[Buddhism]] and [[Christianity]]) advocate it. In the [[New Testament]] of the [[Christianity|Christian]] [[Bible]], it is explained as follows:
+:&quot;Jesus made answer and said, ''A certain man was going down from Jerusalem to Jericho; and he fell among robbers, who both stripped him and beat him, and departed, leaving him half dead. And by chance a certain priest was going down that way: and when he saw him, he passed by on the other side. And in like manner a Levite also, when he came to the place, and saw him, passed by on the other side. But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he was moved with compassion, and came to him, and bound up his wounds, pouring on [them] oil and wine; and he set him on his own beast, and brought him to an inn, and took care of him. And on the morrow he took out two shillings, and gave them to the host, and said, Take care of him; and whatsoever thou spendest more, I, when I come back again, will repay thee.'' Which of these three, thinkest thou, proved neighbor unto him that fell among the robbers? And he said, He that showed mercy on him. And Jesus said unto him, '''Go, and do thou likewise.'''&quot; ''(Luke 10: 30-37)''
+
+Philosophers who support [[ethical egoism|egoism]] have argued that altruism is demeaning to the individual and that no moral obligation to help others actually exists. [[Nietzsche]] asserts that altruism is predicated on the assumption that others are more important than one's self and that such a position is degrading and demeaning. He also claims that it was very uncommon for people in Europe to consider the sacrifice of one's own interests for others as virtuous until after the advent of Christianity. [[Ayn Rand]] argued that altruism is the willful sacrifice of one's values, and represents the reversal of morality because only a rationally selfish ethics allows one to pursue the values required for human life.
+
+Advocates of altruism as an ethical doctrine maintain that one ought to act, or refrain from acting, so that benefit or [[good (economics)|good]] is bestowed on other people, if necessary to the exclusion of one's own interests (Note that refraining from murdering someone, for example, is not altruism since he is not receiving a benefit or being helped, as he already has his life; this would amount to the same thing as ignoring someone).
+
+==Altruism in ethology and evolutionary biology==
+In the science of [[ethology]] (the study of behavior), altruism refers to behavior by an individual that increases the [[fitness (biology)|fitness]] of another individual while decreasing the fitness of the actor. This would appear to be counter-intuitive if one presumes that [[natural selection]] acts on the individual. Natural selection, however, acts on the gene pool of the subjects, not on each subject individually. Recent developments in [[game theory]] have provided some explanations for apparent altruism, as have traditional evolutionary analyses. Among the proposed mechanisms are:
+
+* [[Behavioral manipulation]] (e.g., by certain [[parasites]] that can alter the behavior of the host, see [http://news.yahoo.com/s/space/20060211/sc_space/mindcontrolbyparas

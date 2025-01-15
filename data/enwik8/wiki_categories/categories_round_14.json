@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Geography",
+    "description": "Content related to geographical locations and regions."
+  },
+  {
+    "category": "Technology",
+    "description": "Information on technological advancements, devices, and software."
+  },
+  {
+    "category": "History",
+    "description": "Historical events, figures, and time periods."
+  },
+  {
+    "category": "Science",
+    "description": "Topics related to scientific disciplines and research."
+  },
+  {
+    "category": "Culture",
+    "description": "Aspects of cultural practices, languages, and traditions."
+  },
+  {
+    "category": "Art",
+    "description": "Content related to artistic expressions, including painting and music."
+  },
+  {
+    "category": "Politics",
+    "description": "Political ideologies, parties, and governmental structures."
+  },
+  {
+    "category": "Philosophy",
+    "description": "Philosophical concepts, theories, and discussions."
+  },
+  {
+    "category": "Literature",
+    "description": "Written works, authors, and literary analysis."
+  },
+  {
+    "category": "Media",
+    "description": "Television, radio, and online content."
+  },
+  {
+    "category": "Games",
+    "description": "Video games, board games, and related activities."
+  },
+  {
+    "category": "Biography",
+    "description": "Information about notable individuals and their life stories."
+  },
+  {
+    "category": "Language",
+    "description": "Linguistic studies, dialects, and language evolution."
+  },
+  {
+    "category": "Religion",
+    "description": "Religious beliefs, practices, and historical context."
+  },
+  {
+    "category": "Education",
+    "description": "Topics related to learning, schools, and academic research."
+  },
+  {
+    "category": "Economics",
+    "description": "Economic theories, systems, and financial practices."
+  }
+]

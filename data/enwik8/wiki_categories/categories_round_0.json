@@ -1,0 +1,66 @@
+[
+  {
+    "category": "History",
+    "description": "Events, figures, and periods from the past."
+  },
+  {
+    "category": "Politics",
+    "description": "Political systems, leaders, and government actions."
+  },
+  {
+    "category": "Science",
+    "description": "Scientific principles, discoveries, and theories."
+  },
+  {
+    "category": "Culture",
+    "description": "Cultural practices, traditions, and societal norms."
+  },
+  {
+    "category": "Technology",
+    "description": "Technological inventions, tools, and advancements."
+  },
+  {
+    "category": "Sports",
+    "description": "Athletic activities and associated events."
+  },
+  {
+    "category": "Literature",
+    "description": "Written works, authors, and literary movements."
+  },
+  {
+    "category": "Mathematics",
+    "description": "Mathematical concepts, theories, and applications."
+  },
+  {
+    "category": "Military",
+    "description": "Armed forces, warfare, and military equipment."
+  },
+  {
+    "category": "Law",
+    "description": "Legal systems, laws, and judicial processes."
+  },
+  {
+    "category": "Religion",
+    "description": "Religious beliefs, practices, and organizations."
+  },
+  {
+    "category": "Geography",
+    "description": "Physical features, regions, and locations on Earth."
+  },
+  {
+    "category": "Economics",
+    "description": "Economic systems, markets, and financial principles."
+  },
+  {
+    "category": "Philosophy",
+    "description": "Philosophical ideas, thinkers, and schools of thought."
+  },
+  {
+    "category": "Art",
+    "description": "Visual arts, movements, and notable artists."
+  },
+  {
+    "category": "Education",
+    "description": "Educational systems, methods, and institutions."
+  }
+]

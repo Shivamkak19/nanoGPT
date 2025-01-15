@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Sports",
+    "description": "Content related to various sports and athletic activities."
+  },
+  {
+    "category": "History",
+    "description": "Content that covers historical events, figures, and periods."
+  },
+  {
+    "category": "Philosophy",
+    "description": "Content involving philosophical theories, works, and philosophers."
+  },
+  {
+    "category": "Literature",
+    "description": "Content related to books, authors, and literary analysis."
+  },
+  {
+    "category": "Geography",
+    "description": "Content about geographical locations, features, and studies."
+  },
+  {
+    "category": "Science",
+    "description": "Content concerning scientific theories, discoveries, and disciplines."
+  },
+  {
+    "category": "Film and Entertainment",
+    "description": "Content related to movies, television, and entertainment industry."
+  },
+  {
+    "category": "Politics",
+    "description": "Content covering political events, figures, and systems."
+  },
+  {
+    "category": "Culture and Mythology",
+    "description": "Content about cultural practices, beliefs, and mythological stories."
+  },
+  {
+    "category": "Technology",
+    "description": "Content involving technological advancements and tools."
+  },
+  {
+    "category": "Biography",
+    "description": "Content focused on individual life stories and achievements."
+  },
+  {
+    "category": "Music",
+    "description": "Content related to music genres, artists, and history."
+  },
+  {
+    "category": "Art and Architecture",
+    "description": "Content involving visual arts, design, and architectural works."
+  },
+  {
+    "category": "Language and Linguistics",
+    "description": "Content covering languages, dialects, and linguistic studies."
+  },
+  {
+    "category": "Religion",
+    "description": "Content related to religious beliefs, practices, and figures."
+  },
+  {
+    "category": "Education",
+    "description": "Content concerning educational systems, theories, and institutions."
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "category": "History",
+    "description": "Events and periods in human history, including political and military history."
+  },
+  {
+    "category": "Sports",
+    "description": "Information related to various sports, athletes, and sporting events."
+  },
+  {
+    "category": "Music",
+    "description": "Content related to music genres, artists, and musical history."
+  },
+  {
+    "category": "Science",
+    "description": "Topics related to scientific concepts, discoveries, and disciplines."
+  },
+  {
+    "category": "Technology",
+    "description": "Information about technological developments, software, and hardware."
+  },
+  {
+    "category": "Geography",
+    "description": "Content related to regions, countries, and geographical features."
+  },
+  {
+    "category": "Politics",
+    "description": "Political systems, events, and figures across different nations."
+  },
+  {
+    "category": "Literature",
+    "description": "Content related to written works, authors, and literary movements."
+  },
+  {
+    "category": "Mathematics",
+    "description": "Topics related to mathematical theories, equations, and applications."
+  },
+  {
+    "category": "Culture",
+    "description": "Information on cultural practices, traditions, and societal norms."
+  },
+  {
+    "category": "Language",
+    "description": "Content regarding languages, linguistics, and language history."
+  },
+  {
+    "category": "Biography",
+    "description": "Information about individuals, their lives, and personal achievements."
+  },
+  {
+    "category": "Education",
+    "description": "Content related to educational institutions, systems, and practices."
+  },
+  {
+    "category": "Religion",
+    "description": "Topics concerning religious beliefs, practices, and institutions."
+  },
+  {
+    "category": "Arts",
+    "description": "Content related to visual and performing arts, including artists and art movements."
+  },
+  {
+    "category": "Transportation",
+    "description": "Information on various modes of transport and related infrastructure."
+  }
+]

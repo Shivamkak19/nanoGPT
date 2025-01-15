@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Programming Languages",
+    "description": "Articles related to different programming languages and their versions."
+  },
+  {
+    "category": "Television and Film",
+    "description": "Content about television shows, series, and films, including characters and episodes."
+  },
+  {
+    "category": "Languages and Linguistics",
+    "description": "Topics related to languages, dialects, and linguistic studies."
+  },
+  {
+    "category": "Historical Figures and Events",
+    "description": "Information about historical figures, events, and significant historical documents."
+  },
+  {
+    "category": "Science and Technology",
+    "description": "Articles related to scientific concepts, technology advancements, and research findings."
+  },
+  {
+    "category": "Geography and Places",
+    "description": "Content concerning countries, regions, and geographical features."
+  },
+  {
+    "category": "Military and Warfare",
+    "description": "Topics related to military forces, battles, and warfare strategies."
+  },
+  {
+    "category": "Sports and Competitions",
+    "description": "Articles about various sports, competitions, and athletic events."
+  },
+  {
+    "category": "Arts and Culture",
+    "description": "Content about art, cultural practices, and notable artworks."
+  },
+  {
+    "category": "Mathematics and Physics",
+    "description": "Topics covering mathematical concepts and physical sciences."
+  },
+  {
+    "category": "Botany and Zoology",
+    "description": "Articles related to plant and animal species, including their classification and characteristics."
+  },
+  {
+    "category": "Aviation and Space",
+    "description": "Content about aircraft, space exploration, and related technologies."
+  },
+  {
+    "category": "Economics and Politics",
+    "description": "Topics covering economic theories, political systems, and governmental structures."
+  },
+  {
+    "category": "Religion and Philosophy",
+    "description": "Articles related to religious beliefs, philosophical ideas, and their thinkers."
+  },
+  {
+    "category": "Health and Medicine",
+    "description": "Content about medical practices, health research, and advancements in healthcare."
+  },
+  {
+    "category": "Music and Performers",
+    "description": "Topics related to music genres, musicians, and musical performances."
+  }
+]

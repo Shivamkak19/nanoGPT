@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Geography",
+    "description": "Articles related to locations, places, and geographical features."
+  },
+  {
+    "category": "History",
+    "description": "Content covering historical events, periods, and significant historical figures."
+  },
+  {
+    "category": "Politics",
+    "description": "Information about political events, figures, ideologies, and organizations."
+  },
+  {
+    "category": "Science",
+    "description": "Topics related to scientific disciplines, discoveries, and research."
+  },
+  {
+    "category": "Technology",
+    "description": "Articles discussing technological advancements, devices, and concepts."
+  },
+  {
+    "category": "Health and Medicine",
+    "description": "Content concerning medical topics, health issues, and biological processes."
+  },
+  {
+    "category": "Culture and Society",
+    "description": "Information about societal norms, cultural practices, and social phenomena."
+  },
+  {
+    "category": "Religion and Philosophy",
+    "description": "Discussions on religious beliefs, practices, philosophical ideas, and thinkers."
+  },
+  {
+    "category": "Literature and Arts",
+    "description": "Articles related to literary works, artistic movements, and notable artists."
+  },
+  {
+    "category": "Sports",
+    "description": "Content about various sports, athletes, and sporting events."
+  },
+  {
+    "category": "Languages and Linguistics",
+    "description": "Information on languages, linguistic studies, and language-related topics."
+  },
+  {
+    "category": "Economics and Business",
+    "description": "Articles discussing economic theories, business practices, and financial markets."
+  },
+  {
+    "category": "International Relations",
+    "description": "Content concerning diplomatic relations, international organizations, and global issues."
+  },
+  {
+    "category": "Education",
+    "description": "Topics related to educational systems, institutions, and learning methodologies."
+  },
+  {
+    "category": "Military and Warfare",
+    "description": "Articles about military history, conflicts, strategies, and defense."
+  },
+  {
+    "category": "Entertainment",
+    "description": "Information on entertainment industries, media, and pop culture."
+  }
+]

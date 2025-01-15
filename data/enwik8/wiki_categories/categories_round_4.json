@@ -1,0 +1,66 @@
+[
+  {
+    "category": "History",
+    "description": "Events, people, and periods from the past."
+  },
+  {
+    "category": "Art and Culture",
+    "description": "Artistic expressions and cultural phenomena."
+  },
+  {
+    "category": "Politics and Government",
+    "description": "Political systems, elections, and leaders."
+  },
+  {
+    "category": "Mathematics and Numeracy",
+    "description": "Numerical systems and mathematical concepts."
+  },
+  {
+    "category": "Religion and Philosophy",
+    "description": "Belief systems and philosophical ideas."
+  },
+  {
+    "category": "Aviation",
+    "description": "The operation and history of aircraft."
+  },
+  {
+    "category": "Law and Ethics",
+    "description": "Legal systems and ethical considerations."
+  },
+  {
+    "category": "Biography",
+    "description": "Life stories of notable individuals."
+  },
+  {
+    "category": "Music",
+    "description": "Compositions, musicians, and music history."
+  },
+  {
+    "category": "Sports and Games",
+    "description": "Activities involving physical exertion and skill."
+  },
+  {
+    "category": "Technology and Engineering",
+    "description": "Technological advancements and engineering practices."
+  },
+  {
+    "category": "Science",
+    "description": "Systematic enterprises that build and organize knowledge."
+  },
+  {
+    "category": "Literature and Writing",
+    "description": "Written works and literary studies."
+  },
+  {
+    "category": "Language and Linguistics",
+    "description": "The study of languages and their structures."
+  },
+  {
+    "category": "Geography and Places",
+    "description": "Physical locations and their characteristics."
+  },
+  {
+    "category": "Social Issues and Activism",
+    "description": "Societal challenges and efforts for change."
+  }
+]

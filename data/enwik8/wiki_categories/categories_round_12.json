@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Mathematics",
+    "description": "Content related to mathematical concepts, equations, and theories."
+  },
+  {
+    "category": "Physics",
+    "description": "Content related to physical laws, theories, and phenomena."
+  },
+  {
+    "category": "Chemistry",
+    "description": "Content related to chemical elements, compounds, and reactions."
+  },
+  {
+    "category": "Biology",
+    "description": "Content related to living organisms, biological processes, and ecosystems."
+  },
+  {
+    "category": "Geography",
+    "description": "Content related to physical locations, countries, and geographic features."
+  },
+  {
+    "category": "History",
+    "description": "Content related to historical events, figures, and timelines."
+  },
+  {
+    "category": "Politics",
+    "description": "Content related to political systems, theories, and figures."
+  },
+  {
+    "category": "Technology",
+    "description": "Content related to technological advancements, devices, and software."
+  },
+  {
+    "category": "Culture",
+    "description": "Content related to customs, traditions, and societal norms."
+  },
+  {
+    "category": "Education",
+    "description": "Content related to learning systems, degrees, and educational theories."
+  },
+  {
+    "category": "Sports",
+    "description": "Content related to athletic events, teams, and sports figures."
+  },
+  {
+    "category": "Art and Literature",
+    "description": "Content related to creative works, artists, and literary movements."
+  },
+  {
+    "category": "Health and Medicine",
+    "description": "Content related to diseases, medical practices, and health care."
+  },
+  {
+    "category": "Mythology and Religion",
+    "description": "Content related to myths, religious beliefs, and spiritual practices."
+  },
+  {
+    "category": "Economics",
+    "description": "Content related to economic theories, markets, and financial systems."
+  },
+  {
+    "category": "Computing and Internet",
+    "description": "Content related to computing technology, internet phenomena, and digital communication."
+  }
+]

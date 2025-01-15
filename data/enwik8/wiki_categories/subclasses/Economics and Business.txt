@@ -1,0 +1,228 @@
+oases.  Large quantities of [[crin vegetal]] (vegetable horse-hair) an excellent fibre, are made from the leaves of the dwarf palm.  The [[olive]] (both for its fruit and [[Petroleum]]) and [[tobacco]] are cultivated with great success.
+
+Algeria also exports [[fig]]s, [[date (fruit)|date]]s, [[esparto]] grass, and [[cork (material)|cork]].
+
+====Wine Production====
+
+Throughout Algeria the soil favours the growth of vines.  The country, in the words of an expert sent to report on the subject by the French government, 
+:&quot;can produce an infinite variety of wines suitable to every constitution and to every caprice of taste.&quot; 
+
+The growing of vines was undertaken early by the colonists, but it was not until vineyards in [[France]] were attacked by [[phylloxera]] that the export of [[wine]] from Algeria became significant.  In [[1883]], despite precautionary measures, Algerian [[vineyard]]s were also attacked but in the meantime the quality of their wines had been proved.  In 1850 less than 2000 acres (8 km&amp;sup2;) were devoted to the grape, but in 1878 this had increased to over 42,000 acres (170 km&amp;sup2;), which yielded 7,436,000 gallons (28,000 m&amp;sup3;) of wine.  Despite bad seasons and ravages of insects, cultivation extended, and in 1895 the vineyards covered 300,000 acres (1,200 km&amp;sup2;), the produce being 88,000,000 gallons (333,000 m&amp;sup3;).  The area of cultivation in 1905 exceeded 400,000 acres (1,600 km&amp;sup2;), and in that year the amount of wine produced was 157,000,000 gallons (594,000 m&amp;sup3;).  By that time the limits of profitable production had been reached in many parts of the country.  Practically the only foreign market for Algerian wine is France, which in 1905 imported about 110,000,000 gallons (416,000 m&amp;sup3;).
+
+===Fishing===
+
+Fishing is a flourishing but minor industry.  Fish caught are principally [[sardine]]s, [[bonito]], [[smelt]] and [[sprat]]s.  Fresh fish are exported to [[France]], dried and preserved fish to [[Spain]] and [[Italy]].  Coral [[fishery|fisheries]] are found along the coast from [[Bona]] to [[Tunis]].
+
+===Minerals===
+
+Algeria is rich in minerals; the country has many [[iron]], [[lead]] and [[zinc]], [[copper]], [[calamine]], [[antimony]] and [[Mercury (element)|mercury]] mines.  The most productive are those of iron and zinc.  Lignite is found in Algiers; immense [[phosphate]] beds were discovered near [[Tebessa]] in 1891, yielding 313,500 tons in 1905.  Phosphate beds are also worked near [[Setif]], [[Guelma]] and [[Ain Beida]].  There are more than 300 quarries which produce, amongst other stones, [[onyx]] and beautiful white and red [[marble]]s.  Algerian onyx from Ain Tekbalet was used by the Romans, and many ancient quarries have been found near [[Kleber]], some being certainly those from which the long-lost Numidian marbles were taken.  [[Salt]] is collected on the margins of the chotts.
+
+==Foreign trade==
+
+Under French administration the commerce of Algeria developed greatly: the total imports and exports at the time of the French occupation (1830) did not exceed £ 175,000.  In 1850 the figures had reached £ 5,000,000; in 1868, £ 12,000,000; in 1880, £ 17,000,000; and in 1890, £ 20,000,000.  From this point progress was slower and the figures varied considerably year by year.  In 1905 the total value of the foreign trade was £ 24,500,000.  About five-sixths of the trade is with or via France, into which country several Algerian goods have been admitted duty-free since 1851, and all since 1867.  French goods, except [[sugar]], have been admitted into Algeria without payment of duty since 1835.  After the increase, in 1892, of the French minimum tariff, which applied to Algeria also, foreign trade greatly diminished. 
+
+By far Algeria's most significant exports, financially, are [[petroleum]] and [[natural gas]].  The reserves are mostly in the Eastern [[Sahara]]; the Algerian government curbed the exports in the 1980s to slow depletion; exports increased again somewhat in the [[1990|1990s]].  Other significant exports are [[domestic sheep|sheep]], [[ox]]en, and [[horse]]s; animal products, such as [[wool]] and skins; [[wine]], cereals ([[rye]], [[barley]], [[oat]]s), [[vegetable]]s, [[fruit]]s (chiefly [[fig]]s and [[grape]]s for the table) and [[seed]]s, [[esparto]] grass, oils and vegetable extracts (chiefly [[olive oil]]), [[iron]] ore, [[zinc]], natural [[phosphate]]s, [[timber]], [[Cork (material)|cork]], [[crin vegetal]] and [[tobacco]].  The import of [[wool]] exceeds the export.  [[Sugar]], [[coffee]], machinery, metal work of all kinds, clothing and pottery are largely imported.  Of these by far the greater part comes from France.  The [[United Kingdom|British]] imports consist chiefly of [[coal]], cotton fabrics and machinery.
+
+===Exports===
+
+Algeria trades most extensively with France and [[Italy]], in terms of both imports and exports, but also trades with the United States and [[Spain]].
+
+===Statistics===
+
+==Reference==
+
+*[http://www.cia.gov/cia/publications/factbook/geos/ag.html CIA World Factbook]
+
+:''See also :'' [[Algeria]]
+
+{{OPEC}}
+
+[[Category:Organization of the Petroleum Exporting Countries|Alegeria]]
+[[Category:Economies by country|Algeria]]
+[[Category:Economy of Algeria| ]]
+[[Category:African Union member economies|Algeria]]
+[[fr:Économie de l'Algérie]]
+[[pt:Economia da Argélia]]
+[[ru:Экономика Алжира]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algeria/Communications</title>
+    <id>350</id>
+    <revision>
+      <id>15899084</id>
+      <timestamp>2002-06-16T16:23:09Z</timestamp>
+      <contributor>
+        <username>Danny</username>
+        <id>584</id>
+      </contributor>
+      <comment>*</comment>
+      <text xml:space="preserve">#REDIRECT [[Communications in Algeria]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algeria/Transportation</title>
+    <id>351</id>
+    <revision>
+      <id>39213634</id>
+      <timestamp>2006-02-11T15:33:09Z</timestamp>
+      <contributor>
+        <username>Eskimbot</username>
+        <id>477460</id>
+      </contributor>
+      <minor />
+      <comment>Robot: Fixing double redirect</comment>
+      <text xml:space="preserve">#REDIRECT [[Transport in Algeria]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algeria/Military</title>
+    <id>352</id>
+    <revision>
+      <id>15899086</id>
+      <timestamp>2005-03-27T03:27:25Z</timestamp>
+      <contributor>
+        <username>Srs</username>
+        <id>209316</id>
+      </contributor>
+      <text xml:space="preserve">#REDIRECT [[Military of Algeria]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algeria/Transnational Issues</title>
+    <id>353</id>
+    <revision>
+      <id>15899087</id>
+      <timestamp>2002-06-16T16:27:14Z</timestamp>
+      <contributor>
+        <username>Danny</username>
+        <id>584</id>
+      </contributor>
+      <comment>*</comment>
+      <text xml:space="preserve">#REDIRECT [[Transnational issues of Algeria]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algeria/Archaeology</title>
+    <id>356</id>
+    <revision>
+      <id>15899089</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>128.227.230.147</ip>
+      </contributor>
+      <comment>*</comment>
+      <text xml:space="preserve">#REDIRECT [[Archeology of Algeria]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algeria/History</title>
+    <id>357</id>
+    <revision>
+      <id>15899090</id>
+      <timestamp>2002-02-25T15:43:11Z</timestamp>
+      <contributor>
+        <ip>Conversion script</ip>
+      </contributor>
+      <minor />
+      <comment>Automated conversion</comment>
+      <text xml:space="preserve">#REDIRECT [[History of Algeria]]
+
+:''See also :'' [[Algeria]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Algeria</title>
+    <id>358</id>
+    <restrictions>edit=sysop:move=sysop</restrictions>
+    <revision>
+      <id>40426750</id>
+      <timestamp>2006-02-20T13:34:27Z</timestamp>
+      <contributor>
+        <username>Splash</username>
+        <id>285145</id>
+      </contributor>
+      <comment>do not use semi in an editorial dispute, even if one side is anons, per [[WP:SEMI]]</comment>
+      <text xml:space="preserve">{{protected}}
+{{Infobox_Country|
+native_name = الجمهورية الجزائرية الديمقراطية الشعبية&lt;br&gt;Al-Jumhūrīyah al-Jazā’irīyah&lt;br&gt;ad-Dīmuqrāţīyah ash-Sha’bīyah|
+common_name = Algeria |
+image_flag = Flag of Algeria.svg |
+image_coat = Algeria coa.png |
+image_map = LocationAlgeria.png |
+national_motto = (translation): The Revolution by the people and for the people |
+national_anthem = ''[[Kassaman|Kassaman &lt;small&gt;(Qasaman Bin-Nāzilāt Il-Māḥiqāt)]]''&lt;br&gt;(&lt;small&gt;[[Arabic language|Arabic]]: ''[[Kassaman|We Swear By The Lightning That Destroys]]'') |
+official_languages = [[Arabic language|Arabic]] |
+capital = [[Algiers]] |
+latd=36|latm=42|latNS=N|longd=3|longm=13|longEW=E|
+largest_city = [[Algiers]] |
+government_type= Democratic [[Republic]] |
+leader_titles = [[President of Algeria|President]]&lt;br&gt;[[Prime Minister of Algeria|Prime Minister]] |
+leader_names = [[Abdelaziz Bouteflika]]&lt;br&gt;[[Ahmed Ouyahia]] |
+area_rank = 11th |
+area_magnitude = 1 E12 |
+area = 2,381,740 |
+percent_water = negligible |
+population_estimate = 32,531,853 |
+population_estimate_year = 2005 |
+population_estimate_rank = 36th |
+population_census= |
+population_census_year= |
+population_density = 13 |
+population_density_rank= 168th|
+GDP_PPP_year= 2004 |
+GDP_PPP = $217,224,000,000 |
+GDP_PPP_rank = 38th |
+GDP_PPP_per_capita = $6,799 |
+GDP_PPP_per_capita_rank = 85th |
+HDI_year = 2003 |
+HDI = 0.722 |
+HDI_rank = 103rd |
+HDI_category = &lt;font color=&quot;#FFCC00&quot;&gt;medium&lt;/font&gt; |
+sovereignty_type = [[Independence]]|
+established_events = Declared |
+established_dates = From [[France]]&lt;br&gt;[[July 5]], [[1962]] |
+currency = [[Algerian dinar]] |
+currency_code = DA |
+time_zone= [[Central European Time|CET]] |
+utc_offset= +1 |
+time_zone_DST= [[Central European Time|CET]] |
+utc_offset_DST= +1 does not observe |
+cctld= [[.dz]] |
+calling_code = 213 |
+footnotes =
+}}
+The '''People's Democratic Republic of Algeria''' ([[Arabic language|Arabic]]: '''الجمهورية الجزائرية الديمقراطية الشعبية''') , or '''Algeria''' ([[Arabic language|Arabic]]: '''الجزائر'''), is a presidential state in [[north Africa]], and the second largest country on the [[Africa]]n continent, [[Sudan]] being the largest.  It is bordered by [[Tunisia]] in the northeast, [[Libya]] in the east, [[Niger]] in the southeast, [[Mali]] and [[Mauritania]] in the southwest, and [[Morocco]] as well as a few kilometers of its annexed territory, [[Western Sahara]], in the west. [[Constitution of Algeria|Constitutionally]], it is defined as  an [[Islam]]ic, [[Arab]], and [[Amazigh]] (Berber) country.  The name Algeria is derived from the name of the city of [[Algiers]], from the [[Arabic language|Arabic]] word ''al-jazā’ir'', which translates as ''the islands'', referring to the four islands which lay off that city's coast until becoming part of the mainland in 1525.
+
+
+
+==History==
+{{main|History of Algeria}}
+
+Algeria has been inhabited by [[Berber]]s (or Amazigh) since at least [[10,000 BC]].  From [[1000 BC]] on, the [[Carthage|Carthaginians]] became an influence on them, establishing settlements along the coast. Berber kingdoms began to emerge, most notably [[Numidia]], and seized the opportunity offered by the Punic Wars to become independent of Carthage, only to be taken over soon after by the [[Roman Republic]] in 200 BC.  As the western [[Roman Empire]] collapsed, the Berbers became independent again in much of the area, while the [[Vandals]] took over parts until later expelled by the generals of the [[Byzantine Emperor]], [[Justinian I]].  The [[Byzantine Empire]] then retained a precarious grip on the east of the country until the coming of the [[Arab]]s in the [[8th century]].
+
+[[Image:Roman Arch of Trajan at Thamugadi (Timgad), Algeria 04966r.jpg|thumb|left|Roman arch of Trajan at Thamugadi (Timgad), Algeria]]
+After some decades of fierce resistance under leaders such as [[Kusayla]] and [[Kahina]], the Berbers adopted [[Islam]] ''en masse'', but almost immediately expelled the [[Caliphate]] from Algeria, establishing an [[Ibadi]] state under the [[Rustamid]]s.  Having converted the [[Kutama]] of [[Kabylie]] to its cause, the [[Shia]] [[Fatimid]]s overthrew the Rustamids, and conquered Egypt.  They left Algeria and Tunisia to their [[Zirid]] vassals; when the latter rebelled and adopted [[Sunni]]sm, they sent in a populous [[Arab]] tribe, the [[Banu Hilal]], to weaken them, thus incidentally initiating the [[Arabization]] of the countryside.  The [[Almoravid]]s and [[Almohad]]s, Berber dynasties from the west founded by religious reformers, brought a period of relative peace and development; however, with the Almohads' collapse, Algeria became a battleground for their three [[successor state]]s, the Algerian [[Zayyanid]]s, Tunisian [[Hafsid]]s, and Moroccan [[Merinid]]s.  In the fifteenth and sixteenth centuries, [[Spain]] started attacking and taking over many coastal cities, prompting some to seek help from the [[Ottoman Empire]].
+
+Algeria was brought into the Ottoman Empire by [[Khair ad Din|Khair ad-Din]] and his  brother [[Aruj]], who established Algeria's modern boundaries in the north and made its coast a base for the [[Privateer|corsairs]]; their privateering peaked in Algiers in the 1600s. Piracy on American vessels in the Mediterranean resulted in the [[First Barbary War|First]] and [[Second Barbary War]] with the [[United States]]. On the pretext of a slight to their consul, the [[France|French]] invaded Algiers in 1830; however, intense resistance from such personalities as [[Emir Abdelkader]], [[Ahmed Bey]] and [[Lalla Fatma N'Soumer|Fatma N'Soumer]] made for a slow conquest of Algeria, not technically completed until the early 1900s when the last [[Tuareg]] were conquered.
+[[Image:Constantine Algerien 002.jpg|thumb|left|Constantine, Algeria 1840]]
+
+Meanwhile, however, the French suppressed slavery and made Algeria an integral part of France, a status that would end only with the collapse of the [[French Fourth Republic|Fourth Republic]]. Tens of thousands of settlers from France, Italy, Spain, and Malta moved in to farm the Algerian coastal plain and occupy the most prized parts of Algeria's cities, benefiting from the French government's confiscation of communally held land. People of European descent in Algeria (the so-called ''[[pied-noir|pieds-noirs]]''), as well as the native Algerian Jews, were full French citizens starting from the end of the 19th century; by contrast, the vast majority of Muslim Algerians (even veterans of the French army) remained outside of French law, possessing neither French citizenship nor the right to vote. Algeria's social fabric was stretched to breaking point during this period: literacy dropped massively, while land confiscation uprooted much of the population.
+
+In 1954, the [[National Liberation Front (Algeria)|National Liberation Front]] (FLN) launched the [[guerrilla warfare|guerrilla]] [[Algerian War of Independence]]; after nearly a decade of urban and rural warfare, they succeeded in pushing France out in 1962. Most of the 1,025,000 ''[[pied-noir|pieds-noirs]]'', as well as 91,000 ''[[harki]]s'' (pro-French Muslim Algerians serving in the French Army), together forming about 10% of the population of Algeria in 1962, fled Algeria for France in just a few months in the middle of that year.
+
+[[Image:TheBattleofAlgiers.png|thumb|right|''[[The Battle of Algiers]]'' is a movie about the [[Algerian War of Independence]].]]
+Algeria's first president, the FLN leader [[Ahmed Ben Bella]], was overthrown by his former ally and defense minister, [[Houari Boumédiènne]] in 1965. Under Ben Bella the government had already become increasingly socialist and dictatorial, and this trend continued throughout Boumedienne's government; however, Boumedienne relied much more heavily on the army, and reduced the sole legal party to a merely symbolic role.  Agriculture was collectivised, and a massive industrialization drive launched.  Oil extraction facilities were nationalized and this increased the state's wealth, especially after the 1973 oil crisis, but the Algerian economy became increasingly dependent on oil, bringing hardship when the price collapsed in the 1980s.  In foreign policy Algeria was a member and leader of the 'non-aligned' nations.  A dispute with Morocco over the [[Western Sahara]] nearly led to war.  Dissent was rarely tolerated, and the state's control over the media and the outlawing of political parties other than the FLN was cemented in the repressive constitution of 1976.  Boumédienne died in 1978, but the rule of his successor, [[Chadli Bendjedid]], was little more open.  The state took on a strongly bureaucratic character and corruption was widespread.
+
+The modernization drive brought considerable demographic changes to Algeria.  Village traditions underwent significant change as urbanization increased, new industries emerged, agriculture was substantially reduced, and education, a rarity in colonial times, was extended nationwide, raising the literacy rate from less than 10% to over 60%.  Improvements in healthcare led to a dramatic increase in the birthrate (7-8 children per mother) which had two consequences: a very youthful population, and a housing crisis.  The new generation struggled to relate to the cultural obsession with the war years and two conflicting protest movements developed: left-wingers, including Berber identity movements, and Islamic 'intégristes'.  Both protested against one-party rule but also clashed with each other in universities and on the streets during the 1980s.  Mass protests from both camps in autumn 1988 forced Benjedid to concede the end of one-party rule, and elections were announced for 1991.
+
+In December 1991, the [[Islamic Salvation Front]] won the [[Algerian National Assembly elections, 1991|first round]] of the country's first multiparty elections. The military then canceled the second round, forced then-president Bendjedid to resign, and banned the Islamic Salvation Front. The ensuing conflict engulfed Algeria in the violent [[Algerian Civil War]].  More than 100,000 people were killed, often in unprovoked massacres of civilians.  The question of who was responsible for these massacres remains controversial among academic observers; many were claimed by the [[Armed Islamic Group]].  After 1998, the war waned, and by 2002 the main guerrilla groups had either been destroyed or surrendered, taking advantage of an amnesty program, though sporadic fighting continued in some areas.  Elections resumed in 1995, and in 1999, after a series of short-term leaders representing the military, [[Abdelaziz Bouteflika]], the current president, was elected. The issue of Berber language and identity increased in significance, particularly after the extensive [[Kabyle]] protests of 2001 and the near-total boycott of local elections in [[Kabylie]]; the government responded with concessions including naming of [[Tamazight]] (Berber) as a national language and teaching it in schools.
+
+==Politics==
+{{main|Politics of Algeria}}
+
+The head of state is the [[President of Algeria|President of the republic]], who is elected to a 5-year term, renewable once. Algeria has [[universal suffrage]]. The President is the head of the Council of Ministers and of the High Security Council. He appoints the [[Prime Minister of Algeria|Prime Minister]] who is also the head of government. The Prime Minister appoints the Council of Ministers.
+
+The Algerian [[parliament]] is bicameral, consisting of a lower chamber, the National People's Assembly (APN), with 380 members and an upper chamber, the Council of Nation, with 144 members. The APN is elected every 5 years.
+
+Throughout the 1960's, Algeria supported many independence movements in sub-S

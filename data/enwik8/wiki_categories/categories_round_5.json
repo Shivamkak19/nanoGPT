@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Religion",
+    "description": "Content related to religious beliefs, practices, and texts."
+  },
+  {
+    "category": "History",
+    "description": "Information about past events, people, and periods."
+  },
+  {
+    "category": "Geography",
+    "description": "Content related to physical features, locations, and regions."
+  },
+  {
+    "category": "Politics",
+    "description": "Information about political systems, parties, and figures."
+  },
+  {
+    "category": "Science",
+    "description": "Content related to scientific concepts, experiments, and discoveries."
+  },
+  {
+    "category": "Technology",
+    "description": "Information on technological innovations and systems."
+  },
+  {
+    "category": "Biography",
+    "description": "Content about the lives of notable individuals."
+  },
+  {
+    "category": "Entertainment",
+    "description": "Information related to movies, music, and celebrity culture."
+  },
+  {
+    "category": "Language and Literature",
+    "description": "Content related to languages, books, and literary criticism."
+  },
+  {
+    "category": "Economics",
+    "description": "Information on economic systems, theories, and practices."
+  },
+  {
+    "category": "Sociology",
+    "description": "Content related to social structures and institutions."
+  },
+  {
+    "category": "Law and Justice",
+    "description": "Information about legal systems and judicial processes."
+  },
+  {
+    "category": "Education",
+    "description": "Content related to educational systems and philosophies."
+  },
+  {
+    "category": "Health and Medicine",
+    "description": "Information on healthcare systems and medical research."
+  },
+  {
+    "category": "Art and Culture",
+    "description": "Content related to artistic expressions and cultural heritage."
+  },
+  {
+    "category": "Mathematics",
+    "description": "Information about mathematical theories and applications."
+  }
+]

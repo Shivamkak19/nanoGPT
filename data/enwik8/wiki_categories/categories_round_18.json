@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Film and Television",
+    "description": "Content related to movies, TV shows, and actors."
+  },
+  {
+    "category": "Music and Performing Arts",
+    "description": "Content related to music, symphonies, and performing arts."
+  },
+  {
+    "category": "History",
+    "description": "Content related to historical events and figures."
+  },
+  {
+    "category": "Geography",
+    "description": "Content related to political and physical geography."
+  },
+  {
+    "category": "Sports",
+    "description": "Content related to sports events, teams, and athletes."
+  },
+  {
+    "category": "Science and Mathematics",
+    "description": "Content related to scientific theories, experiments, and mathematics."
+  },
+  {
+    "category": "Biography",
+    "description": "Content related to the lives of notable individuals."
+  },
+  {
+    "category": "Politics",
+    "description": "Content related to political systems, figures, and events."
+  },
+  {
+    "category": "Technology",
+    "description": "Content related to technological advancements and tools."
+  },
+  {
+    "category": "Religion and Philosophy",
+    "description": "Content related to religious beliefs and philosophical ideas."
+  },
+  {
+    "category": "Literature",
+    "description": "Content related to literary works and their authors."
+  },
+  {
+    "category": "Language",
+    "description": "Content related to language, linguistics, and translations."
+  },
+  {
+    "category": "Military and Warfare",
+    "description": "Content related to military history and operations."
+  },
+  {
+    "category": "Chemistry",
+    "description": "Content related to chemical substances and reactions."
+  },
+  {
+    "category": "Internet and Digital Media",
+    "description": "Content related to online resources and digital platforms."
+  },
+  {
+    "category": "Transportation",
+    "description": "Content related to vehicles and transportation systems."
+  }
+]

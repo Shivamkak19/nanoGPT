@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Geography",
+    "description": "Content related to locations, countries, and geographical features."
+  },
+  {
+    "category": "History",
+    "description": "Articles about historical events, figures, and timelines."
+  },
+  {
+    "category": "Science and Technology",
+    "description": "Topics covering scientific principles, discoveries, and technological advancements."
+  },
+  {
+    "category": "Politics and Government",
+    "description": "Information about political systems, government structures, and political figures."
+  },
+  {
+    "category": "Culture and Society",
+    "description": "Articles on social customs, cultural practices, and societal norms."
+  },
+  {
+    "category": "Arts and Entertainment",
+    "description": "Content related to music, film, literature, and other forms of art."
+  },
+  {
+    "category": "Education",
+    "description": "Information about educational systems, institutions, and theories."
+  },
+  {
+    "category": "Language and Linguistics",
+    "description": "Topics related to languages, linguistics, and communication."
+  },
+  {
+    "category": "Economics and Business",
+    "description": "Articles on economic theories, business practices, and financial systems."
+  },
+  {
+    "category": "Religion and Philosophy",
+    "description": "Content covering religious beliefs, philosophical ideas, and ethical discussions."
+  },
+  {
+    "category": "Health and Medicine",
+    "description": "Information about medical practices, health conditions, and healthcare systems."
+  },
+  {
+    "category": "Military and Warfare",
+    "description": "Topics related to military history, weaponry, and warfare strategies."
+  },
+  {
+    "category": "Law and Legal Studies",
+    "description": "Articles on legal systems, laws, and case studies."
+  },
+  {
+    "category": "Infrastructure and Architecture",
+    "description": "Content about building structures, architectural styles, and urban planning."
+  },
+  {
+    "category": "Sports and Recreation",
+    "description": "Information on sports, athletic events, and recreational activities."
+  },
+  {
+    "category": "Transportation and Travel",
+    "description": "Articles related to modes of transport, travel destinations, and tourism."
+  }
+]
